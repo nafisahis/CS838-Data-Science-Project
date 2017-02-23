@@ -1,0 +1,1770 @@
+product_name,num_of_words,total_str_len,avg_word_len,fraction_capitalized,num_of_non-Eng_words,num_of_digits,word(s)_with_uppercase_letters,starts_with_brand,paranthesis,)_in_last_word,\w-\w_end,\w-\w_second,\d_end,contains_year,contains_inch_info,contains_core_info,starts_with_i,concatenated_words,keywords_downstream,is_was_downstream,(_downstream,$_downstream,the_upstream,",_or_._after_string",label
+Lenovo K330-11691AU,2,18,9.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo K330-11691AU,2,18,9.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo K330-11691AU,2,18,9.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo K330-11691AU and Gateway,4,28,7.0,0.6666666666666666,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Gateway DX4860-UB33P,",2,20,10.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Samsung Series 7 (DP700A3D-A01US),4,30,7.5,1.0,2,7,F,F,T,T,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Intel Core i5-3230M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3230M processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Vizio CA24T-A4,",2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Vizio CA24T-A4, the Lenovo",4,23,5.75,0.6666666666666666,1,3,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Vizio CA24T-A4, the Lenovo Edge",5,27,5.4,0.75,1,3,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Vizio CA24T-A4, the Lenovo Edge 92z,",6,31,5.166666666666667,0.75,2,5,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Acer Aspire AS1830T-3935,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,T,F,T,T,T,F,NEG
+Acer Aspire AS1830T-3935 ($649,4,27,6.75,1.0,2,11,F,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,T,F,NEG
+Intel Core i7-680um).,3,19,6.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,T,NEG
+Intel Core i7-680um). As,4,21,5.25,1.0,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i7-680um). As a,5,22,4.4,0.75,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i7-680um). As a bundle,6,28,4.666666666666667,0.6,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Toshiba T235-S1350,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Acer AS1830T-68U118.,2,19,9.5,1.0,1,9,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Acer AS1830T-68U118. Even,3,23,7.666666666666667,1.0,1,9,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer AS1830T-68U118. Even the,4,26,6.5,0.6666666666666666,1,9,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer AS1830T-68U118. Even the Lenovo,5,32,6.4,0.75,1,9,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Acer AS1830T-68U118. Even the Lenovo U260,",6,37,6.166666666666667,0.75,2,12,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Toshiba T235-S1350,",2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i3-330um,3,17,5.666666666666667,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,T,F,F,F,F,NEG
+Intel Core i3-330um is,4,19,4.75,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Acer AS1830T-68U118,",2,19,9.5,1.0,1,9,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Acer AS1830T-68U118, and Lenovo",4,28,7.0,0.6666666666666666,1,9,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Acer AS1830T-68U118, and Lenovo U260. Great",6,38,6.333333333333333,0.75,2,12,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba T235-S1350,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+HP dm3t (8:30). If,4,15,3.75,1.0,2,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire AS1830T-3935,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,T,F,T,T,T,F,NEG
+Acer Aspire AS1830T-3935 in,4,24,6.0,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,T,F,T,F,F,F,T,F,NEG
+Acer Aspire AS1830T-3935,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,T,F,T,T,T,F,NEG
+Acer Aspire AS1830T-3935 as,4,24,6.0,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Acer Aspire AS5742-7645's,3,23,7.666666666666667,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire AS5742-7645's design,4,29,7.25,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony EB33FM/BJ;,2,14,7.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ; The,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ; The AS5742-7645,4,28,7.0,1.0,2,10,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ;,2,14,7.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer AS5742-7645,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ,2,13,6.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ,2,13,6.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ,2,13,6.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ's,2,15,7.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i3-370M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-370M processor,4,25,6.25,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+AMD Turion II P540-based,4,21,5.25,1.0,1,3,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+AMD Turion II P540-based ,4,21,5.25,1.0,1,3,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ,2,13,6.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony EB33FM/BJ's,2,15,7.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire AS5742-7645.,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Acer Aspire AS5742-7645. Though,4,28,7.0,1.0,1,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire AS5742-7645. Though its,5,31,6.2,0.75,1,8,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+"Acer Aspire AS5742-7645. Though its thin,",6,36,6.0,0.75,2,8,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,T,NEG
+Intel Core i3-based,3,17,5.666666666666667,1.0,1,1,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i3-based Aspire,4,23,5.75,1.0,1,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i3-based Aspire AS5745-7247,5,34,6.8,1.0,2,9,F,F,F,F,T,F,T,F,F,T,T,F,F,F,T,T,T,F,NEG
+Intel Core i3-based Aspire AS5745-7247 ($600,6,39,6.5,1.0,3,12,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+"Acer AS5745-7247,",2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Windows use. Although the Acer Aspire A5742Z-4097,7,43,6.142857142857143,0.8,2,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire A5742Z-4097,3,21,7.0,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire A5742Z-4097 doesn't,4,28,7.0,1.0,2,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+AMD Phenom II 6-core,4,17,4.25,1.0,1,1,T,F,F,F,T,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+AMD Phenom II 6-core processor.,5,27,5.4,1.0,2,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,NEG
+AMD Phenom II 6-core processor. Compared,6,35,5.833333333333333,1.0,2,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+AMD Phenom II 6-core processor. Compared with,7,39,5.571428571428571,0.8,2,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-940,3,15,5.0,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-940 processor,",4,25,6.25,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i3-2367M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-2367M processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i3-2367M processor, four GB",6,33,5.5,0.75,2,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Acer V5-571-6891,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,T,F,F,T,F,NEG
+Windows 8 Store) and Angry Birds,6,27,4.5,0.75,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,T,F,NEG
+Intel Core i5-4200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor with Intel HD,7,37,5.285714285714286,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Microsoft Office. The S7-392-6411,4,30,7.5,1.0,2,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-5500U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-5500U dual-core,4,26,6.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Acer S7-392-5410,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Acer S7-392-5410,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Apple MacBook Pro (2:38).,4,22,5.5,1.0,1,3,F,F,T,F,F,F,T,F,F,F,F,T,T,F,F,F,T,T,NEG
+Apple MacBook Pro (2:38). The,5,25,5.0,1.0,1,3,F,F,T,F,F,F,F,F,F,F,F,T,T,F,F,F,T,F,NEG
+Apple MacBook Pro (2:38). The laptop,6,31,5.166666666666667,0.8,1,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (2:38). The laptop also,7,35,5.0,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Acer S7-392-5410,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Apple MacBook Pro (4:17).,4,22,5.5,1.0,1,3,F,F,T,F,F,F,T,F,F,F,F,T,F,F,F,F,T,T,NEG
+Apple MacBook Pro (4:17). Regardless,5,32,6.4,1.0,1,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (4:17). Regardless of,6,34,5.666666666666667,0.8,1,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (4:17). Regardless of what,7,38,5.428571428571429,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+"Acer S7-392-5410,",2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Apple MacBook Pro (11:10).,4,23,5.75,1.0,1,4,F,F,T,F,F,F,T,F,F,F,F,T,F,F,F,F,T,T,NEG
+Apple MacBook Pro (11:10). It,5,25,5.0,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (11:10). It outlasts,6,33,5.5,0.8,1,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (11:10). It outlasts several,7,40,5.714285714285714,0.6666666666666666,1,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Acer S7-392-5410,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus Transformer Book T200TA-C1-B,4,30,7.5,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Transformer Book T200TA-C1-B use,5,33,6.6,0.75,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Transformer Book T200TA-C1-B use a,6,34,5.666666666666667,0.6,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus T200TA-C1-BL,2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Atom Z3745 quad-core,4,23,5.75,1.0,2,4,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"Intel Core i7-4702MQ,",3,19,6.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i7-4702MQ, a",4,20,5.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Asus N550J-DB72T,",2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Samsung NP300E5E-A05CA's,2,23,11.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i3-3217U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-3217U ultra-low-voltage,4,34,8.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Envy M6-1188CA,3,15,5.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Envy M6-1188CA got,4,18,4.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Pavilion M6-118-CA,3,19,6.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Pavilion M6-118-CA had,4,22,5.5,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire V5-571P,3,17,5.666666666666667,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Acer Aspire V5-571P scored,4,23,5.75,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core i3-3210M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-3210M processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i3-3210M processor, completing Handbrake",6,46,7.666666666666667,0.75,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Envy M6-1188CA,3,15,5.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Envy M6-1188CA lasts,4,20,5.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Samsung NP300E5E-A05CA,2,21,10.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows 7's,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 7's Aero,3,14,4.666666666666667,1.0,1,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 7's Aero effects,4,21,5.25,0.6666666666666666,1,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office 60-day,3,21,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Microsoft Office 60-day trial,",4,27,6.75,1.0,2,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+Lenovo IdeaCentre Q110 (4:59,4,25,6.25,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+HP Stream 13 (13-c020nr),4,21,5.25,1.0,2,7,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba CB35-B3340,2,17,8.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Chromebook 14 (3:36).,4,21,5.25,1.0,2,5,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Acer Iconia Tab A100's,4,19,4.75,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Iconia Tab A100's petite,5,25,5.0,0.75,1,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Iconia Tab A100's petite form,6,29,4.833333333333333,0.6,1,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Coby Kyros ($199,",3,15,5.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Coby Kyros ($199, 2",4,16,4.0,1.0,2,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Samsung Galaxy Tab ($399,",4,22,5.5,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Samsung Galaxy Tab ($399, 3.5",5,25,5.0,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Samsung Galaxy Tab ($399, 3.5 stars).",6,32,5.333333333333333,1.0,3,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+Acer Iconia W510-1422,3,19,6.333333333333333,1.0,1,7,F,F,F,F,T,F,T,F,F,F,F,F,T,T,F,F,T,F,NEG
+Acer Iconia W510-1422 is,4,21,5.25,0.6666666666666666,1,7,F,F,F,F,F,F,F,F,F,F,T,F,T,F,F,F,T,F,NEG
+Intel Atom Z2760 processorit's,4,28,7.0,1.0,2,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Fujitsu Q550 (with its Intel Atom,6,28,4.666666666666667,0.75,2,3,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+Intel Atom Z690),3,14,4.666666666666667,1.0,1,3,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Intel Atom Z690) scored,",4,21,5.25,1.0,2,3,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,NEG
+Sony Duo 11's,3,11,3.6666666666666665,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Duo 11's 2.19,4,15,3.75,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Duo 11's 2.19 points. The,6,25,4.166666666666667,1.0,3,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Duo 11 (3:09).,4,16,4.0,1.0,2,5,F,F,T,F,F,F,T,F,F,F,F,F,T,F,F,F,T,T,NEG
+Sony Duo 11 (3:09). Even,5,20,4.0,1.0,2,5,F,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Sony Duo 11 (3:09). Even the,6,23,3.8333333333333335,0.75,2,5,F,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Acer Iconia W510-1422,3,19,6.333333333333333,1.0,1,7,F,F,F,F,T,F,T,F,F,F,F,F,T,T,F,F,T,F,NEG
+Acer Iconia W510-1422 may,4,22,5.5,0.6666666666666666,1,7,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+Windows softwarethe Acer Iconia W510-1422,5,38,7.6,1.0,2,7,F,F,F,F,T,F,T,F,F,F,F,F,F,T,F,F,F,F,NEG
+Windows softwarethe Acer Iconia W510-1422 is,6,40,6.666666666666667,0.75,2,7,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Acer Iconia W510-1422,3,19,6.333333333333333,1.0,1,7,F,F,F,F,T,F,T,F,F,F,F,F,T,T,F,F,T,F,NEG
+Acer Iconia W510-1422 is,4,21,5.25,0.6666666666666666,1,7,F,F,F,F,F,F,F,F,F,F,T,F,T,F,F,F,T,F,NEG
+Acer Revo One (starts at $249.99;,6,28,4.666666666666667,0.75,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,T,F,NEG
+Intel Core i5-5200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-5200U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel HD Graphics 5500. It's,5,24,4.8,1.0,2,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel HD Graphics 5500. It's not,6,27,4.5,0.75,2,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer ATC-605-UB11,2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,T,F,T,F,T,F,NEG
+"Acer ATC-605-UB11 (3,017). Other",4,29,7.25,1.0,2,9,F,F,T,F,F,T,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+"Acer ATC-605-UB11 (3,017). Other SFF",5,32,6.4,1.0,2,9,T,F,T,F,F,T,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+"Acer ATC-605-UB11 (3,017). Other SFF desktops",6,40,6.666666666666667,0.75,2,9,T,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Zotac Zbox CI320 nano Plus (1,496),",6,30,5.0,0.75,2,7,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Dell Inspiron 3646 (10:22).,4,24,6.0,1.0,2,8,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Dell Inspiron 3646 (10:22). The,5,27,5.4,1.0,2,8,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Inspiron 3646 (10:22). The system,6,33,5.5,0.75,2,8,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-2600K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3610QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3610QM processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,T,F,F,F,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows 7 Home Premium (64-bit),",5,28,5.6,1.0,2,3,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 7 Home Premium (64-bit), the",6,31,5.166666666666667,0.75,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows 7 Home Premium (64-bit), the Alien",7,36,5.142857142857143,0.8,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+PC Labs.The M18x's PC,4,18,4.5,1.0,2,2,T,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+PC Labs.The M18x's PC Mark,5,22,4.4,1.0,2,2,T,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+PC Labs.The M18x's PC Mark 7,6,23,3.8333333333333335,1.0,3,3,T,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i5-2320,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-2320 processor,",4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Velocity Z40 (33fps Crysis,4,23,5.75,1.0,2,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Nvidia Tegra 4-powered,3,20,6.666666666666667,1.0,1,1,F,F,F,F,T,F,T,F,F,F,F,F,T,F,F,F,T,F,NEG
+Nvidia Tegra 4-powered ,3,20,6.666666666666667,1.0,1,1,F,F,F,F,T,F,T,F,F,F,F,F,T,F,F,F,T,F,NEG
+Intel Core i3-540,3,15,5.0,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-540 processor.,4,25,6.25,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i3-540 processor. Thanks,5,31,6.2,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-540 processor. Thanks to,6,33,5.5,0.75,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-540 processor. Thanks to Hyper,7,38,5.428571428571429,0.8,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Apple Magic Trackpad ($69),4,23,5.75,1.0,1,2,F,F,T,T,F,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Apple Magic Trackpad ($69) (stay,5,28,5.6,1.0,2,2,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Apple Magic Trackpad ($69) (stay tuned,6,33,5.5,0.75,2,2,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Nvidia GeForce 9400-powered,3,25,8.333333333333334,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Nvidia GeForce 9400-powered iMac,4,29,7.25,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,T,F,NEG
+HP Touchsmart 600-1055,3,20,6.666666666666667,1.0,1,7,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+"HP Touchsmart 600-1055 ($1,599",4,27,6.75,1.0,2,11,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 8 touch-screen PC,4,22,5.5,1.0,2,1,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows XP/7,2,11,5.5,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Vizio CA24T-A4,2,13,6.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Asus All in One PC ET2400IGTS-B008E,6,30,5.0,0.8,1,7,T,F,F,F,T,F,T,F,F,F,T,F,F,F,T,T,T,F,NEG
+"Asus All in One PC ET2400IGTS-B008E ($1,299",7,37,5.285714285714286,0.8,2,11,T,F,F,F,F,F,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+PC ET2400IGTS-B008E,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Intel Core i5-2400S,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2400S processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,T,F,F,F,F,NEG
+"Asus ET2400IGTS-800SE,",2,21,10.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i5-2400S,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2400S processor.,4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,T,NEG
+Intel Core i5-2400S processor. At,5,29,5.8,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i5-2400S processor. At 3D,6,31,5.166666666666667,1.0,3,6,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Asus ET2400IGTS-800SE,2,20,10.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+ViewSonic VP2780-4K.The,2,22,11.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Intel Core i5-5675R,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-5675R processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-5675R processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-5675R processor with Intel Iris,7,39,5.571428571428571,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3770,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-3770 processor,",4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i7-3770 processor, 1GB Nvidia",6,35,5.833333333333333,1.0,3,6,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-3770 processor, 1GB Nvidia GeForce",7,42,6.0,1.0,3,6,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+Intel Core-equipped Dell XPS 27,5,27,5.4,1.0,2,2,T,F,F,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core-equipped Dell XPS 27 Touch,6,32,5.333333333333333,1.0,2,2,T,F,F,F,F,T,F,F,F,T,F,F,F,F,T,F,F,F,NEG
+Intel Core-equipped Dell XPS 27 Touch (2720),7,38,5.428571428571429,1.0,3,6,T,F,T,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Dell XPS 27 Touch (2720),5,20,4.0,1.0,2,6,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell XPS 27 Touch (2720) on,6,22,3.6666666666666665,0.75,2,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Vizio 27-inch,2,12,6.0,1.0,1,2,F,F,F,F,T,T,T,F,T,F,F,F,F,F,F,F,T,F,NEG
+Vizio 27-inch All-in-One Touch,4,27,6.75,1.0,2,2,F,F,F,F,F,T,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+Vizio 27-inch All-in-One Touch PC,5,29,5.8,1.0,2,2,T,F,F,F,F,T,F,F,T,F,F,T,F,F,T,F,T,F,NEG
+Vizio 27-inch All-in-One Touch PC (CA27T-B1).,6,40,6.666666666666667,1.0,3,5,T,F,T,F,T,T,T,F,T,F,F,T,F,F,F,F,T,T,NEG
+Vizio 27-inch All-in-One Touch PC (CA27T-B1). With,7,44,6.285714285714286,1.0,3,5,T,F,T,F,F,T,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+PC (CA27T-B1).,2,13,6.5,1.0,1,3,F,F,T,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+PC (CA27T-B1). With,3,17,5.666666666666667,1.0,1,3,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+PC (CA27T-B1). With more,4,21,5.25,0.6666666666666666,1,3,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell XPS 27 One (2720),5,18,3.6,1.0,2,6,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell XPS 27 One (2720) holds,6,23,3.8333333333333335,0.75,2,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Verizon Wireless ($629,",3,21,7.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,T,NEG
+"Verizon Wireless ($629, $729,",4,26,6.5,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Acer Aspire X1700),",3,17,5.666666666666667,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Acer Aspire X1700), but",4,20,5.0,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Apple Mac mini's (Nvidia GeForce 9400M),6,34,5.666666666666667,1.0,3,4,F,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+Toshiba U405-S2830,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba U405-S2830,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus Zenbook UX305FA. That said, you'll",6,34,5.666666666666667,1.0,3,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-5250U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-5250U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Asus U30Jc-1A,2,12,6.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Asus U30Jc-1A,2,12,6.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Windows 7 Ultimate Edition 64-bit,5,29,5.8,1.0,2,3,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Windows 7 Ultimate Edition 64-bit (Results,6,37,6.166666666666667,1.0,3,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Sony VAIO Flip 15 (2,880",5,20,4.0,1.0,2,6,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO Flip 15 (2,880 by",6,22,3.6666666666666665,0.75,2,6,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-4750HQ,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ processor with Intel,6,36,6.0,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ processor with Intel Iris,7,40,5.714285714285714,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Apple OS X 10.9 Mavericks, Apple's",6,29,4.833333333333333,1.0,3,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ processor has Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4750HQ processor has Intel Iris,7,39,5.571428571428571,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Vizio 15.6-Inch,2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,NEG
+Vizio 15.6-Inch Thin,3,18,6.0,1.0,1,3,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+Vizio 15.6-Inch Thin +,4,19,4.75,1.0,2,3,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+Vizio 15.6-Inch Thin + Light,5,24,4.8,1.0,2,3,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+Vizio 15.6-Inch Thin + Light ,5,24,4.8,1.0,2,3,F,F,F,F,F,T,F,F,T,F,F,F,F,F,T,F,F,F,NEG
+"Apple MacBook Pro with Retina Display ($1,999)",7,40,5.714285714285714,0.8333333333333334,1,4,F,F,T,T,F,F,T,F,F,F,F,T,T,T,F,F,F,F,NEG
+"Apple MacBook Pro with Retina Display ($1,999) is",8,42,5.25,0.7142857142857143,1,4,F,F,T,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,NEG
+Apple MacBook Pro 15-inch,4,22,5.5,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro 15-inch has,5,25,5.0,0.75,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro 15-inch has been,6,29,4.833333333333333,0.6,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro 15-inch.Design,4,29,7.25,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,T,F,F,F,F,F,F,NEG
+Apple MacBook Pro 15-inch.Design and,5,32,6.4,0.75,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,NEG
+Apple MacBook Pro 15-inch.Design and Features,6,40,6.666666666666667,0.8,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,NEG
+Apple MacBook Pro 15-inch.Design and Features The,7,43,6.142857142857143,0.8333333333333334,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i7-4770HQ,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4770HQ processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Dell 1720's,2,10,5.0,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core 2 Duo processor (the,6,26,4.333333333333333,0.75,2,1,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-2410M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-2410M processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Lenovo V570-1066A9U.,2,19,9.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Lenovo V570-1066A9U. The,3,22,7.333333333333333,1.0,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo V570-1066A9U. The A53E-XA2,4,30,7.5,1.0,2,11,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo V570-1066A9U.,2,19,9.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Lenovo V570-1066A9U. PCMark,3,25,8.333333333333334,1.0,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo V570-1066A9U. PCMark 7,4,26,6.5,1.0,2,9,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Lenovo (2,066).",2,14,7.0,1.0,1,4,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Lenovo (2,066). Our",3,17,5.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Lenovo (2,066). Our Cinebech",4,25,6.25,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Lenovo (2,066). Our Cinebech R11.5",5,30,6.0,1.0,2,7,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Lenovo (2,066). Our Cinebech R11.5 processor",6,39,6.5,0.75,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo V570-1066A9U,2,18,9.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo V570-1066A9U,2,18,9.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo V570-1066A9U,2,18,9.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP dv6-6013cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+HP dv6-6013cl (5:48). The,4,22,5.5,1.0,2,8,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Inspiron i15RN5111-7126DBK,3,29,9.666666666666666,1.0,1,10,F,F,F,F,T,F,T,F,F,F,T,F,F,F,T,F,T,F,NEG
+"Dell Inspiron i15RN5111-7126DBK (5:51,",4,35,8.75,1.0,2,13,F,F,F,F,F,F,T,F,F,F,T,F,F,F,F,F,T,T,NEG
+Asus All in One PC ET2400IGTS-B008E,6,30,5.0,0.8,1,7,T,F,F,F,T,F,T,F,F,F,T,F,T,F,T,T,T,F,NEG
+"Asus All in One PC ET2400IGTS-B008E ($1,299.99",7,40,5.714285714285714,0.8,2,13,T,F,F,F,F,F,T,F,F,F,T,F,T,F,F,F,T,F,NEG
+PC ET2400IGTS-B008E,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,T,F,T,T,F,F,NEG
+Apple iMac 21-inch? It,4,19,4.75,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,T,F,T,F,F,F,F,F,T,F,NEG
+Windows 7 touch-screen PCs,4,23,5.75,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 7's,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows 7's built-in Media,4,23,5.75,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows 7's built-in Media Center,5,29,5.8,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Windows 7's built-in Media Center app,",6,33,5.5,1.0,3,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i5-2400S,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,T,F,F,F,NEG
+Intel Core i5-2400S (Sandy,4,23,5.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Asus All in One PC ET2400IGTS-B008E.,6,31,5.166666666666667,0.8,1,7,T,F,F,F,T,F,T,F,F,F,T,F,T,F,F,F,T,T,NEG
+Asus All in One PC ET2400IGTS-B008E. The,7,34,4.857142857142857,0.8333333333333334,1,7,T,F,F,F,F,F,F,F,F,F,T,F,T,F,F,F,T,F,NEG
+PC ET2400IGTS-B008E.,2,19,9.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,T,F,F,F,F,T,NEG
+PC ET2400IGTS-B008E. The,3,22,7.333333333333333,1.0,1,7,F,F,F,F,F,T,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+PC ET2400IGTS-B008E. The desktop,4,29,7.25,0.6666666666666666,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"HP TouchSmart 310 ($1,159",4,22,5.5,1.0,2,7,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-560M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-560M processor,",4,26,6.5,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel GMA HD (Core i5),5,18,3.6,1.0,2,1,T,F,T,T,F,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel GMA HD (Core i5) integrated,6,28,4.666666666666667,0.75,2,1,T,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Acer Aspire 532h-2268,3,19,6.333333333333333,1.0,1,7,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Acer Aspire 532h-2268 ($300,4,24,6.0,1.0,2,10,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo IdeadPad S12 (Ion),4,22,5.5,1.0,2,2,F,F,T,T,F,F,F,F,F,F,F,T,F,F,T,T,F,F,NEG
+Dell Mini 10s (HD),4,15,3.75,1.0,2,2,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Acer 532h-2268,",2,14,7.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Lenovo S10-3,",2,12,6.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i7 quad-core,4,20,5.0,1.0,2,1,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600 processor,4,25,6.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600 processor.,4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP h8-1020,2,9,4.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP h8-1020,2,9,4.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP h8-1020,2,9,4.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Republic of Gamers G74SX-BBK7,5,30,6.0,0.75,1,3,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+"Asus Republic of Gamers G74SX-BBK7 ($1,199",6,37,6.166666666666667,0.75,2,7,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Nvidia GeForce GTX 560M (2GB),5,25,5.0,1.0,2,4,T,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+Nvidia GeForce GTX 560M (2GB) graphics,6,33,5.5,0.75,2,4,T,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i7-2630QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-2630QM processor,",4,28,7.0,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Nvidia GeForce GTX 560M (2GB),5,25,5.0,1.0,2,4,T,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+Nvidia GeForce GTX 560M (2GB) graphics,6,33,5.5,0.75,2,4,T,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i7-2720QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2720QM it,4,20,5.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4770,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,T,F,F,F,NEG
+"Intel Core i7-4770 (3.4GHz,",4,24,6.0,1.0,2,7,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i7-4770,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,T,F,F,F,NEG
+Intel Core i7-4770 quad-core,4,25,6.25,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP 700-030qe,2,11,5.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP 700-030qe and the Dell XPS,6,24,4.0,0.6,1,6,T,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell XPS 8700 (29,4,14,3.5,1.0,2,6,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell XPS 8700 (29 seconds). In,6,25,4.166666666666667,1.0,3,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP h9-1320t,2,10,5.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+HP h9-1320t (3:04). Though,4,23,5.75,1.0,2,8,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Venue 10 Pro Tablet 5000's,6,26,4.333333333333333,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Venue 10 Pro Tablet 5000's 8:07.,7,31,4.428571428571429,1.0,3,9,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Asus TF701—it's,2,14,7.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VGN-TZ150N,",2,15,7.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core 2 Duo U7500 isn't,6,23,3.8333333333333335,1.0,3,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Sony VGN-SZ791N,2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"Windows User Interface (UI) with Windows 8,",7,37,5.285714285714286,0.8,2,1,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 8, though Windows RT won't",6,29,4.833333333333333,0.75,2,1,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office 2013 RT (Home,5,26,5.2,1.0,2,4,T,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office 2013 RT (Home and,6,29,4.833333333333333,0.75,2,4,T,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Atom Z3740 quad-core,4,23,5.75,1.0,2,4,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Z3740-powered,2,18,9.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,T,F,F,F,F,F,NEG
+Intel Z3740-powered tablets. The,4,29,7.25,1.0,2,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Z3740-powered tablets. The VivoTab,5,36,7.2,1.0,2,4,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Z3740-powered tablets. The VivoTab Note,6,40,6.666666666666667,1.0,2,4,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Z3740-powered tablets. The VivoTab Note 8,7,41,5.857142857142857,1.0,3,5,F,F,F,F,F,T,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+"Acer Iconia W3 (9:24),",4,19,4.75,1.0,2,4,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i7-6700T,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-6700T CPU,4,20,5.0,1.0,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-6700T CPU and,5,23,4.6,0.75,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-6700T CPU and an,6,25,4.166666666666667,0.6,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-6700T CPU and an Nvidia,7,31,4.428571428571429,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Micro Titanium Internet Security trial.The UX21E-DH52's,6,50,8.333333333333334,1.0,2,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Micro Titanium Internet Security trial.The UX21E-DH52's downward-facing,7,65,9.285714285714286,1.0,3,4,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-2467M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2467M dual-core,4,26,6.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+AMD E-350-based,2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba Z835-P330,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus UX31-RSL8,",2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i7-3770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i7-3770K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,T,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4790K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4790K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Xeon E5-2695,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E5-2695 v3,4,18,4.5,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo ThinkStation P300 (747),4,27,6.75,1.0,2,6,F,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+"Dell Precision Tower 5610 (1,582)",5,29,5.8,1.0,2,8,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Dell Precision Tower 5610 (1,582) and",6,32,5.333333333333333,0.75,2,8,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus Chromebook Flip (C100PA-DB02),",4,32,8.0,1.0,1,5,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Asus Chromebook Flip (C100PA-DB02), which",5,37,7.4,0.75,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus Chromebook Flip (C100PA-DB02), which earns",6,42,7.0,0.6,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i3-equipped,3,20,6.666666666666667,1.0,1,1,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (11:15),4,25,6.25,1.0,1,4,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (11:15) and,5,28,5.6,0.75,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (11:15) and the,6,31,5.166666666666667,0.6,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02),4,31,7.75,1.0,1,5,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C100PA-DB02) snags,5,36,7.2,0.75,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02) snags the,6,39,6.5,0.6,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Digital Storm ODE (71fps,4,21,5.25,1.0,1,2,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Digital Storm ODE (71fps Crysis,",5,28,5.6,1.0,2,2,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Digital Storm ODE (71fps Crysis, 121.7fps",6,36,6.0,1.0,3,6,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Digital Storm ODE (71fps Crysis, 121.7fps Lost",7,40,5.714285714285714,1.0,3,6,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3610QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3610QM processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+MSI GT70 (3:22).The Xplorer,4,24,6.0,1.0,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+MSI GT70 (3:22).The Xplorer X6-9120's Nvidia,6,39,6.5,1.0,3,10,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+MSI GT70 (3:22).The Xplorer X6-9120's Nvidia GeForce,7,46,6.571428571428571,1.0,3,10,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-4005U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-4005U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Acer C720-3404,",2,14,7.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Acer C720-3404,2,13,6.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core 2 Duo T5450),5,19,3.8,1.0,2,5,F,F,F,T,F,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core 2 Duo T5450) runs,6,23,3.8333333333333335,0.75,2,5,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core i3-2330M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-2330M CPU,",4,21,5.25,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Lenovo V570-1066AJU,",2,19,9.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,T,F,F,T,T,NEG
+Lenovo V570-1066AJU,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,T,F,F,T,F,NEG
+Toshiba P755-S5215,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Samsung NP300E5A-A01UB.If,2,24,12.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP dv4-2153cl.,2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP dv4-2153cl. The,3,16,5.333333333333333,1.0,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP dv4-2153cl. The Dell's,4,22,5.5,1.0,2,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell i15R-2106MRB,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,T,F,T,T,F,F,F,F,NEG
+"Dell 14R-1898MRB,",2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i3-370M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-370M performs,4,24,6.0,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel i3-350M,2,12,6.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+Intel Core i3-370M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-370M units,",4,22,5.5,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Toshiba A665D-S6085,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus CM1730-05,2,13,6.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell i620-228NBK's,2,17,8.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+"Asus CM1730-05,",2,14,7.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Dell i620-228NBK?,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+HP p7-1074,2,9,4.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP p7-1074 and Asus,4,16,4.0,0.6666666666666666,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus CM1730-05,",2,14,7.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Dell i620-228NBK,2,15,7.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Dell Inspiron One IO2305-3114MSL,4,29,7.25,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Dell Inspiron One IO2305-3114MSL ($849.99,5,37,7.4,1.0,2,13,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Dell Inspiron One IO2305-3114MSL ($849.99 list,",6,42,7.0,1.0,3,13,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+Intel Core i5-24100M,3,18,6.0,1.0,1,6,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-24100M processor,",4,28,7.0,1.0,2,6,F,F,F,F,F,F,F,F,F,T,T,F,F,T,F,F,F,T,NEG
+Gateway ZX6961-UB20P,2,19,9.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Intel Core i3-2100,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-2100 scored,4,22,5.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Gateway ZX6961-UB20P,2,19,9.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Gateway ZX6961-UB20P lack. The,4,27,6.75,1.0,2,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Gateway ZX6961-UB20P lack. The Gateway,5,34,6.8,1.0,2,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Gateway ZX6961-UB20P lack. The Gateway ZX6961-UB20P,6,46,7.666666666666667,1.0,3,12,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Gateway ZX6961-UB20P,2,19,9.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+HP 310-1125y,2,11,5.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,T,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4300U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4300U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4300U processor and Nvidia,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4300U processor and Nvidia GeForce,7,42,6.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+Lenovo X200's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Z590's,2,10,5.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Z590's HDMI,3,14,4.666666666666667,1.0,1,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Z590's HDMI port,4,18,4.5,0.6666666666666666,1,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony Z590's,2,10,5.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VGN-Z590,",2,13,6.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP 6930p's,2,9,4.5,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo T400's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-2620M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2620M dual-core,4,26,6.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Panasonic Toughbook CF-52,3,23,7.666666666666667,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+"Panasonic Toughbook CF-52 (5:15),",4,30,7.5,1.0,2,5,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Apple MacBook Pro 15-inch,",4,23,5.75,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,T,F,F,F,F,T,T,NEG
+"Apple MacBook Pro 15-inch, you",5,26,5.2,0.75,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+"Apple MacBook Pro 15-inch, you get",6,29,4.833333333333333,0.6,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+Lenovo W540's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core Xeon E3­-1505M,4,22,5.5,1.0,1,5,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core Xeon E3­-1505M v5,5,24,4.8,1.0,2,6,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core Xeon E3­-1505M v5 quad-core,6,33,5.5,1.0,3,6,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"Lenovo W540),",2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Windows 8.1 Pro pre-installed,",4,27,6.75,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+Intel Core i7-4712HQ,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4712HQ processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Apple MacBook Pro (1:17,4,20,5.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (1:17 on,5,22,4.4,0.75,1,3,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro (1:17 on Handbrake;,6,32,5.333333333333333,0.75,2,3,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Toshiba P50T-BST2N01,2,19,9.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Lenovo W540 (637). While,4,21,5.25,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Apple MacBook Pro 15-inch,4,22,5.5,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro 15-inch Retina,5,28,5.6,1.0,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,T,F,T,F,NEG
+Apple MacBook Pro 15-inch Retina (22fps,6,34,5.666666666666667,1.0,2,4,F,F,F,F,F,F,T,F,T,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook Pro 15-inch Retina (22fps on,7,36,5.142857142857143,0.8,2,4,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+Toshiba P50T-BST2N01,2,19,9.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Nvidia Quadro K6000 GPU and 10-core,6,30,5.0,0.75,2,6,T,F,F,F,T,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Nvidia Quadro K6000 GPU and 10-core Intel,7,35,5.0,0.8,2,6,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E5-2687W,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E5-2687W v3,4,19,4.75,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VAIO VGN-NW270F,3,18,6.0,1.0,1,3,T,F,F,F,T,F,T,F,F,F,F,F,F,T,F,F,F,F,NEG
+Sony VAIO VGN-NW270F is,4,20,5.0,0.6666666666666666,1,3,T,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Apple MacBook Pro 15-inch,4,22,5.5,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,T,F,F,T,F,F,F,NEG
+Apple MacBook Pro 15-inch (Dual,5,27,5.4,1.0,2,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,NEG
+"Apple MacBook Pro 15-inch (Dual Graphics),",6,37,6.166666666666667,1.0,3,2,F,F,T,F,F,F,F,F,T,F,F,T,F,F,F,F,F,T,NEG
+"Gateway DX4840-02e,",2,18,9.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Gateway DX4840-02e, replaces Dell",4,30,7.5,0.6666666666666666,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Gateway DX4840-02e, replaces Dell Inspiron",5,38,7.6,0.75,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Gateway DX4840-02e, replaces Dell Inspiron i570k-6939PBK",6,51,8.5,0.75,2,13,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+Dell Inspiron i570k-6939PBK,3,25,8.333333333333334,1.0,1,7,F,F,F,F,T,F,T,F,F,F,T,F,F,F,F,F,F,F,NEG
+Dell Inspiron i570k-6939PBK in,4,27,6.75,0.6666666666666666,1,7,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Dell s7100-1060NBK's,2,19,9.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP HPE-140f,2,10,5.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Acer W3 (1,454). Similar",4,21,5.25,1.0,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer W3 (8:48). The,4,16,4.0,1.0,2,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer W3 (8:48). The Venue,5,21,4.2,1.0,2,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer W3 (8:48). The Venue 11,6,23,3.8333333333333335,1.0,3,6,F,F,T,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,NEG
+Acer W3 (8:48). The Venue 11 Pro,7,26,3.7142857142857144,1.0,3,6,F,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+Dell Inspiron M1330).,3,19,6.333333333333333,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Dell Inspiron M1330). The,4,22,5.5,1.0,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell Inspiron M1330). The four,5,26,5.2,0.75,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell Inspiron M1330). The four USB,6,29,4.833333333333333,0.8,1,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell Inspiron M1330). The four USB ports,7,34,4.857142857142857,0.6666666666666666,1,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-2600 processor,",4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i7-2600,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-2600 processor,",4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Microsoft Office 2013 RT (Home,5,26,5.2,1.0,2,4,T,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office 2013 RT (Home and,6,29,4.833333333333333,0.75,2,4,T,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Surface RT (7:45).,4,25,6.25,1.0,1,3,T,F,T,F,F,F,T,F,F,F,F,F,T,F,F,F,T,T,NEG
+Microsoft Surface RT (7:45). While,5,30,6.0,1.0,1,3,T,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Microsoft Surface RT (7:45). While all,6,33,5.5,0.8,1,3,T,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Microsoft Surface RT (7:45). While all of,7,35,5.0,0.6666666666666666,1,3,T,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+"Microsoft Surface Pro (4:58),",4,26,6.5,1.0,1,3,F,F,T,F,F,F,T,F,F,F,F,F,T,F,F,F,T,T,NEG
+"Microsoft Surface Pro (4:58), Atom-powered",5,38,7.6,1.0,2,3,F,F,T,F,T,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+"Microsoft Surface Pro (4:58), Atom-powered tablets",6,45,7.5,0.75,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel third-generation Core i7-3612QM,4,34,8.5,1.0,2,5,F,F,F,F,T,T,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Samsung Series 7 (2,697)",4,21,5.25,1.0,2,5,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Samsung (4.55),2,13,6.5,1.0,1,3,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Microsoft Surface Pro ($999,4,24,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Microsoft Surface Pro ($999 list),",5,30,6.0,1.0,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Microsoft Surface Pro ($999 list), unless",6,36,6.0,0.75,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO Tap 20 ($999.99),",5,23,4.6,1.0,2,7,T,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Sony VAIO Tap 20 ($999.99), which",6,28,4.666666666666667,0.75,2,7,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3337U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3337U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core 2 Duo-powered,4,21,5.25,1.0,2,1,F,F,F,F,T,F,F,F,F,T,F,F,T,F,F,F,T,F,NEG
+Digital Storm's 120mm Vortex,4,25,6.25,1.0,2,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Digital Storm's 120mm Vortex CPU,5,28,5.6,1.0,2,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Digital Storm's 120mm Vortex CPU cooler,6,34,5.666666666666667,0.75,2,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E5-2687W,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E5-2687W v3,4,19,4.75,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2600K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Falcon NW FragBox 2 (Core,5,21,4.2,1.0,2,1,T,F,F,F,F,F,F,F,F,T,F,T,F,F,F,F,T,F,NEG
+Falcon NW FragBox 2 (Core i7),6,24,4.0,1.0,3,2,T,F,T,T,F,F,T,F,F,T,T,T,F,F,F,F,T,F,NEG
+Intel Core i7-980X,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-980X processor,4,25,6.25,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-980X,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-980X processor.The,4,29,7.25,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Asus P8Z77-V,2,11,5.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-3930K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3930K Sandy,4,22,5.5,1.0,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3930K Sandy Bridge–Extreme,5,36,7.2,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+Intel Core i7-3930K Sandy Bridge–Extreme CPUs.,6,41,6.833333333333333,1.0,3,5,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Falcon NW Talon (Core i7-860),5,25,5.0,1.0,2,4,T,F,T,T,T,F,T,F,F,T,T,F,F,T,F,F,T,F,NEG
+Falcon NW Talon (Core i7-860) is,6,27,4.5,0.75,2,4,T,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Nvidia GeForce GTX 680 card. It's,6,28,4.666666666666667,1.0,3,3,T,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i7-3770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-3770K CPU,",4,21,5.25,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i7-3770K CPU, Nvidia",5,27,5.4,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-3770K CPU, Nvidia GeForce",6,34,5.666666666666667,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+"Intel Core i7-3770K CPU, Nvidia GeForce GTX",7,37,5.285714285714286,1.0,2,5,T,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+"Windows 7 Home Premium),",4,21,5.25,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 7 Home Premium), Cyberlink",5,30,6.0,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows 7 Home Premium), Cyberlink PowerDVD",6,38,6.333333333333333,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows 7 Home Premium), Cyberlink PowerDVD for",7,41,5.857142857142857,0.8,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Panasonic Toughbook Y7 (stay,4,25,6.25,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Motion Computing LE1700's,3,23,7.666666666666667,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Motion Computing LE1700's pen.,4,27,6.75,1.0,2,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+Motion Computing LE1700's pen. The,5,30,6.0,1.0,2,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Motion Computing LE1700's pen. The system,6,36,6.0,0.75,2,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+PC Card devices.The 4.8-pound,4,26,6.5,1.0,2,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Gateway M-285E,",2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Dell XPS 710's,3,12,4.0,1.0,1,3,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell XPS 710's Chevy,4,17,4.25,1.0,1,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell XPS 710's Chevy Corvette:,5,26,5.2,1.0,2,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell XPS 710's Chevy Corvette: similar,6,33,5.5,0.75,2,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Digital Raptor 10,000-rpm",3,23,7.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Digital Raptor 10,000-rpm hard",4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Digital Raptor 10,000-rpm hard drives. The",6,37,6.166666666666667,0.75,2,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire AS1830T-3935,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Acer Aspire AS1830T-3935 ($649,4,27,6.75,1.0,2,11,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP dv7-4183cl's,2,14,7.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-480M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-480M dual-core,4,25,6.25,1.0,2,4,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Acer AS5742G-7200,2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Gateway One ZX4351-33e,3,20,6.666666666666667,1.0,1,6,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Gateway One ZX4351-33e ($779.99,4,28,7.0,1.0,2,11,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Gateway ZX6951-53,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,T,F,F,T,F,NEG
+Gateway ZX6951-53.,2,17,8.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i3-550,3,15,5.0,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-550 processor,",4,25,6.25,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel HD graphics. The ZX4352-33e,5,29,5.8,1.0,2,6,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel HD graphics. The ZX4352-33e has,6,32,5.333333333333333,0.75,2,6,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Gateway ZX6951-53's,2,18,9.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Gateway One ZX4351-33e,3,20,6.666666666666667,1.0,1,6,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Gateway One ZX4351-33e comes,4,25,6.25,0.6666666666666666,1,6,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Gateway Game Zone, Microsoft Office 60-day",6,37,6.166666666666667,1.0,2,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Gateway Game Zone, Microsoft Office 60-day trial,",7,43,6.142857142857143,1.0,3,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+Microsoft Office 60-day,3,21,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Microsoft Office 60-day trial,",4,27,6.75,1.0,2,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+Gateway ZX6810-01.,2,17,8.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Windows 7-backed,2,15,7.5,1.0,1,1,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core M-5Y71,3,15,5.0,1.0,1,3,F,F,F,F,T,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+"Intel Core M-5Y71 processor,",4,25,6.25,1.0,2,3,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,NEG
+"Toshiba Satellite Click 2 2 L35W-B3204 (1,558),",7,41,5.857142857142857,1.0,4,12,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Lenovo X200 Tablet (4.2,4,20,5.0,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows 7's,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-540M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-540M processor,",4,26,6.5,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Lenovo X200 Tablet (now,4,20,5.0,1.0,2,3,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Intel Core 2 Duo T9600 (2.8,6,22,3.6666666666666665,1.0,3,7,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,T,F,NEG
+"HP Elitebook Folio 1040 ($1,979,",5,28,5.6,1.0,2,8,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"HP Elitebook Folio 1040 ($1,979, as",6,30,5.0,0.75,2,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-4650U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4650U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4650U processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4650U processor with Intel HD,7,37,5.285714285714286,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"HP Elitebook Folio 9470m ($1,349",5,28,5.6,1.0,2,8,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Elitebook Folio 9470m ($1,349 direct)",6,35,5.833333333333333,1.0,3,8,F,F,T,T,F,F,F,F,F,F,F,F,F,T,F,F,T,F,NEG
+"HP Folio 9470m ($1,349",4,19,4.75,1.0,2,8,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer S7-391-9886,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer S7-391-9886 and Lenovo,4,24,6.0,0.6666666666666666,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer S7-391-9886 and Lenovo Twist,5,29,5.8,0.75,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer S7-391-9886 and Lenovo Twist have,6,33,5.5,0.6,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3427U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3427U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Windows 8's,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core 2 Duo L9600. It's,6,23,3.8333333333333335,1.0,3,5,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-3770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3770K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP HPE h9-1120t,3,13,4.333333333333333,1.0,1,5,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP HPE h9-1120t Phoenix,4,20,5.0,1.0,1,5,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+"HP HPE h9-1120t Phoenix (3,808",5,26,5.2,1.0,2,9,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"HP HPE h9-1120t Phoenix (3,808 points)",6,33,5.5,1.0,3,9,T,F,T,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Cyberpower Zeus 3000SE (9.03,4,25,6.25,1.0,2,7,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP HPE h9-1120t,3,13,4.333333333333333,1.0,1,5,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP HPE h9-1120t Phoenix,4,20,5.0,1.0,1,5,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+HP HPE h9-1120t Phoenix (130fps,5,27,5.4,1.0,2,8,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP HPE h9-1120t Phoenix (130fps and,6,30,5.0,0.75,2,8,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Rove 20-K014us,3,15,5.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,T,F,T,T,T,F,NEG
+HP Rove 20-K014us ($979.99,4,23,5.75,1.0,2,10,F,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,T,F,NEG
+Intel Core i3-4010U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-4010U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Asus P1801-B037K,2,15,7.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,T,T,F,F,T,F,NEG
+HP Rove 20-K014us,3,15,5.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,T,F,T,T,T,F,NEG
+HP Rove 20-K014us is,4,17,4.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+HP Rove 20-K014us,3,15,5.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,T,F,T,T,T,F,NEG
+HP Rove 20-K014us is,4,17,4.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+Windows 8. You won't,4,17,4.25,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-3317U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3317U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP a4327c-b,2,10,5.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Windows 7 Home Premium 64-bit,",5,26,5.2,1.0,2,3,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 7 Home Premium 64-bit, looks",6,31,5.166666666666667,0.75,2,3,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+HP a4327c-b,2,10,5.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+AMD Athlon II X2 dual-core,5,22,4.4,1.0,2,1,T,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+AMD Athlon II X2 dual-core processor.,6,32,5.333333333333333,1.0,3,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,NEG
+AMD Athlon II X2 dual-core processor. The,7,35,5.0,1.0,3,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Athlon II X2 dual-core,4,19,4.75,1.0,2,1,T,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Athlon II X2 dual-core processor. The,6,32,5.333333333333333,1.0,3,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Compaq Presario (2:51),3,20,6.666666666666667,1.0,1,3,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Compaq Presario (2:51) and,4,23,5.75,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Compaq Presario (2:51) and the Inspiron,6,34,5.666666666666667,0.6,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows Media Encoder (56,4,22,5.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Media Encoder (56 seconds),5,30,6.0,1.0,2,2,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Media Encoder (56 seconds) tests.The,6,39,6.5,1.0,3,2,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Acer C7. The newer Acer C710-2055,",6,29,4.833333333333333,0.75,2,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Acer C710-2055,",2,14,7.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Samsung Series 3 (5:25),4,20,5.0,1.0,2,4,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer C710-2055,2,13,6.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-460M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-460M processor,4,25,6.25,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Toshiba E205-S1980,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-460M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-460M processor,4,25,6.25,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Toshiba E205-S1980,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Toshiba E205-S1980,",2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Toshiba E205-S1980, Samsung",3,25,8.333333333333334,1.0,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Toshiba E205-S1980, Samsung QX410,",4,31,7.75,1.0,2,10,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Toshiba E205-S1980,2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba E205-S1980 (5:29). Other,4,29,7.25,1.0,2,10,F,F,T,F,F,T,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+Acer Aspire 6930G's.,3,18,6.0,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Acer Aspire 6930G's. The,4,21,5.25,1.0,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire 6930G's. The dv6t's,5,27,5.4,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire 6930G's. The dv6t's 6.1-pound,6,36,6.0,1.0,3,7,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP HP dv6t (1030us),4,16,4.0,1.0,2,5,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell 1750's,2,10,5.0,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba X505-Q850,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba X505-Q850's,2,18,9.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-720QM,3,17,5.666666666666667,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-720QM CPU.,4,21,5.25,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i7-720QM CPU. Though,5,27,5.4,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-720QM CPU. Though the,6,30,5.0,0.75,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010.,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Toshiba P505-S8010. In,3,20,6.666666666666667,1.0,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. In our,4,23,5.75,0.6666666666666666,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. In our Photoshop,5,32,6.4,0.75,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. In our Photoshop CS4,6,35,5.833333333333333,0.75,2,8,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010.,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Toshiba P505-S8010. On,3,20,6.666666666666667,1.0,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. On Crysis,4,26,6.5,1.0,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. On Crysis and,5,29,5.8,0.75,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. On Crysis and World,6,34,5.666666666666667,0.8,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba P505-S8010. On Crysis and World in,7,36,5.142857142857143,0.6666666666666666,1,7,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+AMD Phenom II N850 triple-core,5,26,5.2,1.0,2,3,T,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"AMD Phenom II N850 triple-core processor,",6,36,6.0,1.0,3,3,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,NEG
+Dell 17R-2950MRB,2,15,7.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Acer Aspire AS5820T-5951,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Acer Aspire AS5820T-5951 ($723,4,27,6.75,1.0,2,11,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Acer AS5820T-5951,",2,17,8.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Dell 17R-2950MRB.,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Dell 17R-2950MRB. Adjacent,3,24,8.0,1.0,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 17R-2950MRB. Adjacent to,4,26,6.5,0.6666666666666666,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-450M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-450M to,4,18,4.5,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Dell 17R-2950MRB's,2,17,8.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer AS5820T-5951,2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 17R-2950MRB,2,15,7.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"Acer AS5820T-5951,",2,17,8.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Acer AS5820T-5951, and Dell",4,24,6.0,0.6666666666666666,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 17R-2950MRB.,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Dell 17R-2950MRB,",2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Dell 17R-2950MRB, and Acer",4,23,5.75,0.6666666666666666,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer AS5820T-5951,2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 17R-2950MRB,2,15,7.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Acer AS5820T-5951,2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Nvidia GeForce GT220 (1GB),4,23,5.75,1.0,2,4,F,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i7-920,3,15,5.0,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-920 processor,4,24,6.0,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Elite e9240f.The Elite HPE-127,5,29,5.8,1.0,2,7,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Elite e9240f.The Elite HPE-127 achieved,6,37,6.166666666666667,0.75,2,7,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office 60-day,3,21,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Microsoft Office 60-day trial,",4,27,6.75,1.0,2,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Microsoft Office 60-day trial, ""My HP",6,32,5.333333333333333,1.0,3,2,T,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+HP dv6-6013cl.,2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,T,F,F,F,F,T,NEG
+Intel Core i3-380M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-380M processor,",4,26,6.5,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Acer AS5742-6475,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer AS5742-6475,2,15,7.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP dv6-6013cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,T,F,F,F,F,F,NEG
+"Windows 7 Home Premium (64-bit),",5,28,5.6,1.0,2,3,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 7 Home Premium (64-bit), employs",6,35,5.833333333333333,0.75,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel GMA X4500 (32MB),4,19,4.75,1.0,2,6,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"HP p6267c-b,",2,11,5.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"HP p6267c-b,",2,11,5.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP p6367c-b,2,10,5.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP p6267c-b.,2,11,5.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP p6267c-b. The,3,14,4.666666666666667,1.0,1,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP p6267c-b. The p6367c-b,4,22,5.5,1.0,2,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Inspiron 546 (2:50),4,21,5.25,1.0,2,6,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP p6267c-b.,2,11,5.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP p6267c-b. It,3,13,4.333333333333333,1.0,1,4,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,F,F,F,NEG
+HP p6267c-b. It was,4,16,4.0,0.6666666666666666,1,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+AMD Athlon II X4 640 quad-core,6,25,4.166666666666667,1.0,3,4,T,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"Dell i580-8139NBC,",2,17,8.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,T,NEG
+Dell i580-8139NBC,2,16,8.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+Acer Aspire X3400-U2012,3,21,7.0,1.0,1,8,F,F,F,F,T,F,T,T,F,F,F,F,F,F,T,F,F,F,NEG
+"Acer Aspire X3400-U2012 (2,587),",4,29,7.25,1.0,2,12,F,F,T,F,F,F,T,T,F,F,F,F,F,F,F,F,F,T,NEG
+Dell i580-8139NBC,2,16,8.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+Dell i580-8139NBC,2,16,8.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Microsoft Office Starter 2010, a 60-day",6,34,5.666666666666667,0.75,2,6,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i3-2100-equipped,3,25,8.333333333333334,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-2100-equipped HP,4,27,6.75,1.0,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-2100-equipped HP p7-1030,5,34,6.8,1.0,2,10,T,F,F,F,T,F,T,F,F,T,T,F,F,F,T,F,F,F,NEG
+"Intel Core i3-2100-equipped HP p7-1030 (2,536",6,40,6.666666666666667,1.0,3,14,T,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP p7-1030,2,9,4.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+"HP p7-1030 (2,536 points). In Cinebench",6,34,5.666666666666667,1.0,3,9,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus CM1730-05,2,13,6.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,T,F,T,F,F,F,NEG
+Asus CM1730-05.,2,14,7.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Asus CM1730-05. The,3,17,5.666666666666667,1.0,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus CM1730-05. The p7-1154,4,24,6.0,1.0,2,11,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus CM1730-05. The p7-1154 completed Handbrake,6,42,7.0,0.75,2,11,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell i620-3708NBK,2,16,8.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,T,F,F,F,T,F,T,F,NEG
+Dell i620-3708NBK (1:22). It,4,25,6.25,1.0,2,10,F,F,T,F,F,T,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+Asus CM1730-05,2,13,6.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,T,F,T,F,F,F,NEG
+PC ($950,2,7,3.5,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+PC via USB cable. The s3330f's,6,25,4.166666666666667,0.75,2,4,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office 60-day,3,21,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Microsoft Office 60-day trial,",4,27,6.75,1.0,2,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Microsoft Office 60-day trial, ""My HP",6,32,5.333333333333333,1.0,3,2,T,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire X1700-3700U,3,21,7.0,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire X1700-3700U multimedia,4,31,7.75,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire X1700-U3700,3,21,7.0,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer Aspire X1700-U3700 and,4,24,6.0,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Microsoft Office 60-day,3,21,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Microsoft Office 60-day trial,",4,27,6.75,1.0,2,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"PC ($1,299",2,9,4.5,1.0,1,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"HP Envy X2, the Spectre 13t-h200",6,27,4.5,0.75,2,6,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Intel Core i5-4202Y,",3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i5-4202Y, a",4,19,4.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4202Y,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4202Y processora,4,28,7.0,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core m7-6Y75,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core m7-6Y75 processor,4,25,6.25,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-3517u,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3517u processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,T,F,F,F,NEG
+Vizio CT14-A2,2,12,6.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+HP Spectre XT TouchSmart 15-4010nr,5,30,6.0,1.0,1,6,T,F,F,F,T,F,T,F,F,F,F,T,F,T,F,F,T,F,NEG
+HP Spectre XT TouchSmart 15-4010nr is,6,32,5.333333333333333,0.8,1,6,T,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,T,F,NEG
+HP Spectre XT TouchSmart 15-4010nr is a,7,33,4.714285714285714,0.6666666666666666,1,6,T,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,T,F,NEG
+AMD dual-core A4-3400 APU,4,22,5.5,1.0,2,5,T,F,F,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"MSI AE2050-008US,",2,16,8.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+MSI AE2050-008US,2,15,7.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP 620-1080,2,10,5.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-2400,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-2400 processor,",4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP 620-1080,2,10,5.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP 620-1080,",2,11,5.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Xeon E3-1280,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E3-1280 v3,4,18,4.5,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo D30 (25.31). Its,4,20,5.0,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Compaq 8000-series,2,17,8.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,T,F,F,F,F,F,NEG
+Intel Xeon E3-1245,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Intel Xeon E3-1245 processor,",4,26,6.5,1.0,2,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Xeon E-1270v2,",3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Intel Xeon E-1270v2, and",4,21,5.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4700MQ,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-4700MQ processor,",4,28,7.0,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i7-4700MQ processor, Nvidia",5,34,6.8,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-4700MQ processor, Nvidia GeForce",6,41,6.833333333333333,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+"Intel Core i7-4700MQ processor, Nvidia GeForce GTX",7,44,6.285714285714286,1.0,2,5,T,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+AMD E-450,2,8,4.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+AMD E-450,2,8,4.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+AMD E-450,2,8,4.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+PC buyer. The 20-inch,4,18,4.5,1.0,2,2,F,F,F,F,T,F,T,F,T,F,F,F,T,F,F,F,F,F,NEG
+HP 320-1030's,2,12,6.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4770K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,T,F,F,F,NEG
+Intel Core i7-4770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4770K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,T,F,F,F,NEG
+Acer AG3-605-UR39,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer AG3-605-UR39,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo IdeaPad 100S-11,3,20,6.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,T,F,F,T,T,F,F,NEG
+Lenovo IdeaPad 100S-11 ($159.99,4,28,7.0,1.0,2,10,F,F,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,NEG
+Lenovo IdeaPad 100S-11,3,20,6.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,T,F,F,T,T,F,F,NEG
+Lenovo IdeaPad 100S-11 is,4,22,5.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,T,F,NEG
+"Asus Chromebook Flip (C100PA-DB02),",4,32,8.0,1.0,1,5,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Asus Chromebook Flip (C100PA-DB02), our",5,35,7.0,0.75,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus Chromebook Flip (C100PA-DB02), our Editors'",6,43,7.166666666666667,0.75,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus Chromebook Flip (C100PA-DB02), our Editors' Choice",7,49,7.0,0.8,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Stream 13's,3,12,4.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Stream 13's exterior,4,20,5.0,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell Inspiron 15 Non-Touch,4,23,5.75,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+"HP Stream 13 (1,771",4,16,4.0,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Stream 13 (1,771 on PCMark",6,24,4.0,0.75,2,6,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Inspiron 15 Non-Touch,4,23,5.75,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+Dell Inspiron 15 Non-Touch,4,23,5.75,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+Dell Inspiron 15 Non-Touch,4,23,5.75,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+Lenovo IdeaPad 100S-11,3,20,6.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,T,F,F,T,T,F,F,NEG
+Lenovo IdeaPad 100S-11 is,4,22,5.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,T,F,NEG
+"Microsoft Office 365, one-month",4,28,7.0,1.0,2,3,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Microsoft Surface Pro (4:58),",4,26,6.5,1.0,1,3,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Microsoft Surface Pro (4:58), this",5,30,6.0,0.75,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Microsoft Surface Pro (4:58), this sort",6,34,5.666666666666667,0.6,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Windows 7 Home Premium (32-bit),",5,28,5.6,1.0,2,3,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 7 Home Premium (32-bit), and",6,31,5.166666666666667,0.75,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus EeePC 1201HA, and HP Pavilion dv2-1030us.",7,40,5.714285714285714,0.8,2,9,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP Pavilion dv2-1030us.,3,21,7.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP Pavilion dv2-1030us. The,4,24,6.0,1.0,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Pavilion dv2-1030us. The design,5,30,6.0,0.75,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Pavilion dv2-1030us. The design landscape,6,39,6.5,0.6,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,NEG
+Asus 1201HA. An HDMI-port,4,22,5.5,1.0,2,4,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,NEG
+Nvidia Ion netbook (the HP 311),6,26,4.333333333333333,0.75,2,3,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP 311),2,6,3.0,1.0,1,3,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Intel Core i5-2430M,",3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i5-2430M, a",4,19,4.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Samsung Series 7 (10,807",4,21,5.25,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Lenovo IdeapPad Y560D ($1,399",4,26,6.5,1.0,2,7,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Asus G51J-1B-3D,2,14,7.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+HP dv7-4083cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Acer Aspire AS5820T-5951,3,22,7.333333333333333,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Acer Aspire AS5820T-5951 (stay,4,27,6.75,1.0,2,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire AS5738DG-6165,3,23,7.666666666666667,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Acer Aspire AS5738DG-6165 ($780,4,28,7.0,1.0,2,11,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-720QM,3,17,5.666666666666667,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,T,F,F,T,F,NEG
+Intel Core i7-720QM is,4,19,4.75,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+HP dv7-4083cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"HP dv7-4083cl,",2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP dv7-4083cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Acer Aspire AS5820T (7:37).,4,24,6.0,1.0,2,7,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Acer Aspire AS5820T (7:37). The,5,27,5.4,1.0,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Aspire AS5820T (7:37). The Y560D,6,32,5.333333333333333,1.0,3,10,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer 6930G-6723,2,14,7.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Microsoft Surface Pro's 1080p,4,26,6.5,1.0,2,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3339Y,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3339Y processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Windows RT-equipped Yoga 11.,4,25,6.25,1.0,2,2,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Windows RT-equipped Yoga 11. The,5,28,5.6,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows RT-equipped Yoga 11. The Yoga,6,32,5.333333333333333,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows RT-equipped Yoga 11. The Yoga 11S,7,35,5.0,1.0,3,4,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3339Y,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3339Y CPU,",4,21,5.25,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i5-3317U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3317U dual-core,4,26,6.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Sony VAIO Duo 11 (which,5,19,3.8,1.0,2,2,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony VAIO Duo 11 (which offered,6,26,4.333333333333333,0.75,2,2,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO Duo 11 (4,648).Though",5,27,5.4,1.0,2,6,T,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO Duo 11 (4,648).Though the",6,30,5.0,0.75,2,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO Duo 11 (4,648).Though the Yoga",7,34,4.857142857142857,0.8,2,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-4200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor with Intel HD,7,37,5.285714285714286,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Windows 8 (32-bit), the IdeaTab Lynx",6,31,5.166666666666667,0.75,2,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+"HP Envy X2 (1,429",4,14,3.5,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Envy X2 (1,429 points). The",6,25,4.166666666666667,1.0,3,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy X2 (6:25).The,4,18,4.5,1.0,2,4,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Envy X2 (6:25).The energy-efficient Atom,6,38,6.333333333333333,1.0,3,4,F,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+Lenovo IdeaPad Lynx K3011 isn't,5,27,5.4,1.0,2,4,F,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,T,F,NEG
+Lenovo IdeaPad Lynx K3011 isn't a,6,28,4.666666666666667,0.75,2,4,F,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,T,F,NEG
+Asus 200 (11:14). While,4,20,5.0,1.0,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Lenovo ThinkCentre M58p ($1,089",4,28,7.0,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+"Acer AspireX1700-U3700A,",2,23,11.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Acer AspireX1700-U3700A, Apple",3,28,9.333333333333334,1.0,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Acer AspireX1700-U3700A, Apple Mac",4,31,7.75,1.0,1,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Acer AspireX1700-U3700A, Apple Mac mini,",5,36,7.2,1.0,2,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Acer AspireX1700-U3700A, Apple Mac mini, and",6,39,6.5,0.75,2,8,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP Compaq dc7800 (and,4,18,4.5,1.0,2,4,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Windows 7/8,2,10,5.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Transformer Book is a 13.3-inch,6,31,5.166666666666667,0.6,1,3,F,F,F,F,T,F,T,F,T,F,T,F,F,F,F,F,T,F,NEG
+Intel Core i5-3337U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3337U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Microsoft Surface Pro (4:58),4,25,6.25,1.0,1,3,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Surface Pro (4:58) by,5,27,5.4,0.75,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Surface Pro (4:58) by two,6,30,5.0,0.6,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-6300U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-6300U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-6300U processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,T,F,F,F,F,F,NEG
+Intel Core i5-6300U processor with Intel HD,7,37,5.285714285714286,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,T,F,F,F,F,F,NEG
+"Acer Travelmate P645 (4:05),",4,25,6.25,1.0,2,6,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Acer Travelmate P645 (4:05), ThinkPad",5,33,6.6,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+"Acer Travelmate P645 (4:05), ThinkPad 450s",6,37,6.166666666666667,1.0,3,9,F,F,T,F,F,F,T,F,F,F,F,T,F,F,T,F,F,F,NEG
+Apple MacBook (11:37),3,19,6.333333333333333,1.0,1,4,F,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook (11:37) and,4,22,5.5,0.6666666666666666,1,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook (11:37) and MacBook,5,29,5.8,0.75,1,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Apple MacBook (11:37) and MacBook Air,6,32,5.333333333333333,0.8,1,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+Apple MacBook (11:37) and MacBook Air (17:36),7,39,5.571428571428571,0.8,2,8,F,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Intel Core i5-3472U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3472U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"HP Elitebook Folio 9470m ($1,349).",5,30,6.0,1.0,2,8,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"HP Elitebook Folio 9470m ($1,349). The",6,33,5.5,1.0,2,8,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Elitebook Folio 9470m ($1,349). The grand",7,38,5.428571428571429,0.8,2,8,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Samsung Series 9 ($1,650",4,21,5.25,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo X220's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Apple Air 13-inch,3,15,5.0,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,T,F,NEG
+Apple Air 13-inch (0.68,4,20,5.0,1.0,2,5,F,F,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,F,NEG
+Samsung Series 9 (2.9,4,18,4.5,1.0,2,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Samsung Series 9, Apple Air 13-inch,",6,31,5.166666666666667,1.0,2,3,F,F,F,F,T,F,T,F,T,F,F,F,F,F,F,F,T,T,NEG
+"Samsung Series 9, Apple Air 13-inch, and",7,34,4.857142857142857,0.8,2,3,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+"Apple Air 13-inch,",3,16,5.333333333333333,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,T,NEG
+"Apple Air 13-inch, and",4,19,4.75,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+"Apple Air 13-inch, and Lenovo",5,25,5.0,0.75,1,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+"Apple Air 13-inch, and Lenovo X300.",6,30,5.0,0.75,2,5,F,F,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,T,NEG
+Samsung Series 9 and Apple Air 13-inch.,7,33,4.714285714285714,0.8,2,3,F,F,F,F,T,F,T,F,T,F,F,F,F,F,F,F,T,T,NEG
+Apple Air 13-inch.,3,16,5.333333333333333,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,T,NEG
+"Apple Air 13-inch. Rather,",4,23,5.75,1.0,2,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,NEG
+Intel Core i5-2520M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2520M processor.,4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i5-2520M processor. Unlike,5,33,6.6,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2520M processor. Unlike the,6,36,6.0,0.75,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2520M processor. Unlike the Air,7,39,5.571428571428571,0.8,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Lenovo X220).,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Lenovo X220). It,3,14,4.666666666666667,1.0,1,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X220). It finished,4,22,5.5,0.6666666666666666,1,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X220). It finished the Handbrake,6,34,5.666666666666667,0.6,1,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X1's,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X1's favor. It,4,18,4.5,1.0,2,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X220's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5 i5-2520M,4,19,4.75,1.0,2,6,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP 2540p. What you'll,4,18,4.5,1.0,2,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-2520M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2520M ,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2520M  processor. Since,5,32,6.4,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Dell V130 (3:02), Sony",4,19,4.75,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP 2540p (8:02).  The Thinkpad,5,25,5.0,1.0,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba R935-P322,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3320M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3320M processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Lenovo X220 Tablet (5:28).,4,23,5.75,1.0,2,6,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Lenovo X220 Tablet (5:28). It,5,25,5.0,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X220 Tablet (5:28). It falls,6,30,5.0,0.75,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Lenovo IdeaPad Yoga 2 (4,685",5,24,4.8,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+"Lenovo IdeaPad Yoga 2 (4,685 points)",6,31,5.166666666666667,1.0,3,5,F,F,T,T,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+"Intel HD Graphics 4400, Intel's",5,27,5.4,1.0,2,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Intel HD Graphics 4400, Intel's integrated",6,37,6.166666666666667,0.75,2,4,T,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Intel Xeon E5640-powered,3,22,7.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Xeon E5640-powered behemoth,4,30,7.5,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,NEG
+"Windows 7 Professional 64-bit,",4,27,6.75,1.0,2,3,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Dell 30-inch,2,11,5.5,1.0,1,2,F,F,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,NEG
+Dell 30-inch monitor: The,4,22,5.5,1.0,2,2,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Microsoft Windows Vista Business 32-bit,5,35,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Microsoft Windows Vista Business 32-bit installed,",6,45,7.5,1.0,2,2,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,NEG
+"Microsoft Windows Vista Business 32-bit installed, though",7,51,7.285714285714286,0.8,2,2,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Windows Vista Business 32-bit,4,26,6.5,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows Vista Business 32-bit installed,",5,36,7.2,1.0,2,2,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,NEG
+"Windows Vista Business 32-bit installed, though",6,42,7.0,0.75,2,2,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Microsoft Office 60-day,3,21,7.0,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Microsoft Office 60-day trial,4,26,6.5,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows 8.1's,2,12,6.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 8.1's touch UI,4,19,4.75,0.6666666666666666,1,2,T,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,NEG
+HP x360's,2,8,4.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus Book T100TA (2,485",4,20,5.0,1.0,2,7,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus Note 8 (2,402)",4,16,4.0,1.0,2,5,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Note 8 (2:42),4,15,3.75,1.0,2,4,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Note 8 (2:42) and Asus,6,22,3.6666666666666665,0.75,2,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP x360 (5:40). The,4,16,4.0,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP x360 (5:40). The Asus,5,20,4.0,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP x360 (5:40). The Asus T100TA,6,26,4.333333333333333,1.0,3,9,F,F,T,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,NEG
+Intel Core i5-4200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4200U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Lenovo Yoga 2 Pro (4,685",5,20,4.0,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Lenovo Yoga 2 Pro (4,685 points).",6,28,4.666666666666667,1.0,3,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+Lenovo Yoga 700-14ISK,3,19,6.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Lenovo Yoga 700-14ISK ($899.99,4,27,6.75,1.0,2,10,F,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,T,F,NEG
+Intel Core i5-6200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-6200U clocked,4,24,6.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-5200U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i5-5200U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+"HP Spectre x360 (2,707).",4,21,5.25,1.0,2,7,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"HP Spectre x360 (2,707). The",5,24,4.8,1.0,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Spectre x360 (2,707). The Yoga",6,28,4.666666666666667,1.0,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Spectre x360 (2,707). The Yoga 700's",7,33,4.714285714285714,1.0,3,10,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Spectre x360 (5,213).",4,21,5.25,1.0,2,7,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"HP Spectre x360 (5,213). It",5,23,4.6,1.0,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Spectre x360 (5,213). It was well",7,30,4.285714285714286,0.6,2,7,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre (15fps,3,15,5.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre (15fps in,4,17,4.25,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+HP Spectre x360 (2:57),4,19,4.75,1.0,2,6,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre x360 (258),4,18,4.5,1.0,2,6,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba Satellite Radius 14 (216).,5,30,6.0,1.0,2,5,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Toshiba Satellite Radius 14 (216). It,6,32,5.333333333333333,1.0,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba Satellite Radius 14 (216). It did,7,35,5.0,0.8,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre (4:25),3,15,5.0,1.0,1,3,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre (4:25) and,4,18,4.5,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre (4:25) and the Toshiba,6,28,4.666666666666667,0.6,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre (4:25) and the Toshiba Satellite,7,37,5.285714285714286,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba Satellite Radius 12 (4:32),5,30,6.0,1.0,2,5,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba Satellite Radius 12 (4:32) were,6,34,5.666666666666667,0.75,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Acer R 14 (9:37),4,13,3.25,1.0,2,5,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Spectre x360 (8:45).,4,20,5.0,1.0,2,6,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Lenovo Yoga 700-14ISK,3,19,6.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Lenovo Yoga 700-14ISK packs the,5,27,5.4,0.5,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo Yoga 700-14ISK packs the latest Intel,7,38,5.428571428571429,0.5,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo Yoga 700-14ISK packs the latest Intel Core,8,42,5.25,0.5714285714285714,1,5,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,F,NEG
+Intel Extreme Core i7-4960X,4,24,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Extreme Core i7-4960X processor,",5,34,6.8,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Extreme Core i7-4960X processor, a",6,35,5.833333333333333,0.75,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4960X,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4960X and,4,20,5.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4960X and two AMD,6,26,4.333333333333333,0.6,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4960X and two AMD Radeon,7,32,4.571428571428571,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+"Intel Core i7-3770K  CPU,",4,21,5.25,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,T,NEG
+Intel Core i7-3770K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i7-3770K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3612QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3612QM processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3612QM processor and Nvidia,6,36,6.0,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3612QM processor and Nvidia GeForce,7,43,6.142857142857143,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,T,F,F,F,F,F,F,NEG
+Nvidia GeForce GT 650M graphics. It doesn't,7,37,5.285714285714286,1.0,3,3,T,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Intel Core i7-3930K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i7-3930K  processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i7-3960X,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3960X Extreme,4,24,6.0,1.0,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3960X Extreme Edition,5,31,6.2,1.0,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3960X Extreme Edition CPU,6,34,5.666666666666667,1.0,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3960X Extreme Edition CPU .,7,35,5.0,1.0,2,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Samsung 850 EVO solid-state,4,24,6.0,1.0,2,3,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Gigabyte GA-Z97X-SLI,2,19,9.5,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-4690K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4690K CPU,4,20,5.0,1.0,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4690K CPU and,5,23,4.6,0.75,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4690K CPU and 8GB,6,26,4.333333333333333,0.75,2,6,T,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-4690K,",3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i5-4690K, the",4,21,5.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-4570,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-4570 processors,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core Solo U1400, a two-year-old",6,32,5.333333333333333,0.75,2,4,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,T,F,NEG
+"Intel Core Solo U1400, a two-year-old CPU",7,35,5.0,0.8,2,4,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,F,NEG
+Nvidia GTX 870M graphics. The Gaming 24GE's,7,37,5.285714285714286,1.0,3,5,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-4800MQ,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4800MQ quad-core,4,27,6.75,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+AMD A10-4600M,2,12,6.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"AMD A10-4600M processor, AMD",4,25,6.25,1.0,2,6,T,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"AMD A10-4600M processor, AMD Radeon",5,31,6.2,1.0,2,6,T,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"AMD A10-4600M processor, AMD Radeon HD",6,33,5.5,1.0,2,6,T,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"AMD A10-4600M processor, AMD Radeon HD 7970M",7,38,5.428571428571429,1.0,3,10,T,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+MSI GX60-021US,2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus GV75VW-DH72.,2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Asus GV75VW-DH72. You,3,19,6.333333333333333,1.0,1,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus GV75VW-DH72. You won't,4,24,6.0,1.0,2,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Nvidia ION (GeForce 9300),4,22,5.5,1.0,2,4,T,F,T,T,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+HP or Acer.PerformanceThe AE2200's Intel Core,6,40,6.666666666666667,0.75,2,4,F,F,F,F,F,F,F,F,F,T,F,T,F,F,F,F,F,F,NEG
+"Samsung Galaxy Tab S2 (52,137),",5,27,5.4,1.0,2,6,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Samsung Galaxy Tab S2 (52,137), though",6,33,5.5,0.75,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3320M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3320M with,4,21,5.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Panasonic CF-31,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Dell E6430 ATG (3.43),4,18,4.5,1.0,2,7,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell E6420 XFR (3.0,4,16,4.0,1.0,2,6,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell E6420 XFR (3.0 points).The Toughbook,6,36,6.0,1.0,3,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Panasonic CF-31,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Dell E6420 XFR (4:56),4,18,4.5,1.0,2,7,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Panasonic CF-U1,2,14,7.0,1.0,1,1,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,T,F,NEG
+Nvidia 3D Vision glasses),4,22,5.5,1.0,2,1,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,F,F,F,NEG
+AMD Phenom II X4 quad-core,5,22,4.4,1.0,2,1,T,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"AMD Phenom II X4 quad-core power,",6,28,4.666666666666667,1.0,3,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,NEG
+"AMD Phenom II X4 quad-core power, Nvidia",7,34,4.857142857142857,1.0,3,1,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+AVADirect Uberous X58.There's,3,27,9.0,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+AVADirect Uberous X58.There's room,4,31,7.75,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Acer Predator G7710-U7790A,",3,25,8.333333333333334,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Acer Predator G7710-U7790A, which",4,30,7.5,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Polywell Poly i2303 ($899,4,22,5.5,1.0,2,7,F,F,F,F,F,F,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+"Acer Revo (0.69),",3,15,5.0,1.0,1,3,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Acer Revo (0.69), Lenovo",4,21,5.25,1.0,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Acer Revo (0.69), Lenovo ",4,21,5.25,1.0,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Acer Revo (0.69), Lenovo  IdeaCentre",5,31,6.2,1.0,1,3,F,F,T,F,F,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+"Acer Revo (0.69), Lenovo  IdeaCentre (0.52),",6,38,6.333333333333333,1.0,2,6,F,F,T,F,F,F,T,F,F,F,F,T,F,F,F,F,T,T,NEG
+"Lenovo  IdeaCentre (0.52),",3,23,7.666666666666667,1.0,1,3,F,F,T,F,F,F,T,F,F,F,F,T,F,F,F,F,F,T,NEG
+"Intel Pentium processor, the Sony VAIO VGN-UX180P's",7,45,6.428571428571429,0.8,2,3,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VAIO VGN-UX180P's,3,20,6.666666666666667,1.0,1,3,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony VAIO VGN-UX180P's Intel,4,25,6.25,1.0,1,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony VAIO VGN-UX180P's Intel Core,5,29,5.8,1.0,1,3,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,F,NEG
+Sony VAIO VGN-UX180P's Intel Core Duo,6,32,5.333333333333333,1.0,1,3,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO VGN-UX180P's Intel Core Duo processor,",7,42,6.0,1.0,2,3,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,T,T,NEG
+Razer Blade Stealth (4K,4,20,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (4K UHD),",5,25,5.0,1.0,2,1,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (4K UHD), it",6,27,4.5,0.75,2,1,F,F,T,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Stealth (4K,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Razer Blade Stealth (4K,4,20,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (4K UHD),",5,25,5.0,1.0,2,1,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (4K UHD), in",6,27,4.5,0.75,2,1,F,F,T,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+Stealth (4K,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Razer Blade Stealth (4K,4,20,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Razer Blade Stealth (4K UHD),5,24,4.8,1.0,2,1,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Razer Blade Stealth (4K UHD) review.Performance,6,42,7.0,1.0,3,1,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Razer Blade Stealth (4K UHD) review.Performance The,7,45,6.428571428571429,1.0,3,1,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,NEG
+Stealth (4K,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Stealth (4K UHD) review.Performance The Stealth,6,42,7.0,1.0,3,1,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,NEG
+Intel Core i7-6500U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-6500U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel HD Graphics 520—but its lower-resolution,6,41,6.833333333333333,0.75,2,3,T,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,NEG
+Asus UX305FA-ASM1,2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,T,F,T,F,T,F,NEG
+"Toshiba Radius 12 (5,736)",4,22,5.5,1.0,2,6,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Razer Stealth (4K,3,15,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Razer Stealth (4K UHD),4,19,4.75,1.0,2,1,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Stealth (4K,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Google Chromebook Pixel (12:00),",4,29,7.25,1.0,1,4,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Google Chromebook Pixel (12:00), and",5,32,6.4,0.75,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Google Chromebook Pixel (12:00), and the",6,35,5.833333333333333,0.6,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Razer Stealth (4K,3,15,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Razer Stealth (4K UHD),",4,20,5.0,1.0,2,1,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,T,NEG
+Stealth (4K,2,10,5.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Motion Computing LS800. Don't,4,26,6.5,1.0,2,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO VGN-UX180P,",3,19,6.333333333333333,1.0,1,3,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Sony VAIO VGN-UX180P, you",4,22,5.5,0.6666666666666666,1,3,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Processor A110. It's,4,23,5.75,1.0,2,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP 14-1110NR.,2,12,6.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+HP 14-1110NR. Despite,3,19,6.333333333333333,1.0,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP 14-1110NR. Despite the,4,22,5.5,0.6666666666666666,1,6,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP dm4-1160us.,2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP dm4-1160us. The,3,16,5.333333333333333,1.0,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP dm4-1160us. The glass,4,21,5.25,0.6666666666666666,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP 14-1110NR,2,11,5.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP 14-1110NR and MacBook,4,21,5.25,0.6666666666666666,1,6,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+HP 14-1110NR and MacBook Pro,5,24,4.8,0.75,1,6,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+HP 14-1110NR and MacBook Pro 13-inch.,6,32,5.333333333333333,0.75,2,8,F,F,F,F,T,T,T,F,T,F,F,T,F,F,F,F,T,T,NEG
+HP 14-1110NR and MacBook Pro 13-inch. The,7,35,5.0,0.8,2,8,F,F,F,F,F,T,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+"HP 14-1110NR,",2,12,6.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Intel Core i5-460M,3,16,5.333333333333333,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-460M and,4,19,4.75,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Sony VPC-EG16FM.,2,15,7.5,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Sony VPC-EG16FM. Adding,3,21,7.0,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-EG16FM. Adding a,4,22,5.5,0.6666666666666666,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 14z and Apple 13-inch. The,6,26,4.333333333333333,0.75,2,4,F,F,F,F,F,F,F,F,T,F,F,F,T,F,F,F,T,F,NEG
+Apple 13-inch.,2,13,6.5,1.0,1,2,F,F,F,F,T,T,T,F,T,F,F,F,T,F,F,F,F,T,NEG
+Apple 13-inch. The,3,16,5.333333333333333,1.0,1,2,F,F,F,F,F,T,F,F,T,F,F,F,T,F,F,F,F,F,NEG
+Apple 13-inch. The navigating,4,26,6.5,0.6666666666666666,1,2,F,F,F,F,F,T,F,F,T,F,F,F,T,F,F,F,F,F,NEG
+Apple 13-inch,2,12,6.0,1.0,1,2,F,F,F,F,T,T,T,F,T,F,F,F,T,F,F,F,F,F,NEG
+Sony VPC-EG16FM,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-EG16FM.,2,15,7.5,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Sony VPC-EG16FM.  Best,3,19,6.333333333333333,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-EG16FM.  Best Buy,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-EG16FM.  Best Buy also,5,26,5.2,0.75,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-2430M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2430M processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,T,F,F,F,F,NEG
+Sony VPC-EG16FM,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-EG16FM in Handbrake,4,25,6.25,0.6666666666666666,1,2,F,F,F,F,F,T,F,F,F,F,T,F,F,F,T,F,F,F,NEG
+"Dell 14z (2,308). It",4,17,4.25,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony VPC-EG16FM,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 14z (8:38). The,4,17,4.25,1.0,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Samsung Series 7 All-in-One,4,24,6.0,1.0,2,1,F,F,F,F,T,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Samsung Series 7 All-in-One PC,5,26,5.2,1.0,2,1,T,F,F,F,F,F,F,F,F,F,F,T,F,F,T,F,T,F,NEG
+Samsung Series 7 All-in-One PC (DP700A38-01),6,39,6.5,1.0,3,8,T,F,T,T,T,F,T,F,F,F,F,T,F,F,T,T,T,F,NEG
+PC (DP700A38-01),2,15,7.5,1.0,1,7,F,F,T,T,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Intel Core i3-2120T,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i3-2120T dual-core,4,26,6.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Dell Inspiron 2305 (IO2305-4400ELS),4,32,8.0,1.0,2,12,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Apple iMac 21.5-inch. It,4,21,5.25,0.6666666666666666,1,3,F,F,F,F,F,F,F,F,T,F,T,F,F,F,F,F,F,F,NEG
+HP TouchSmart 610's,3,17,5.666666666666667,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+HP TouchSmart 610's tilt,4,21,5.25,0.6666666666666666,1,3,F,F,F,F,F,F,F,F,F,F,F,T,F,T,F,F,T,F,NEG
+Samsung Series 7 DP700A38-01,4,25,6.25,1.0,2,8,F,F,F,F,T,F,T,F,F,F,F,F,T,T,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3337U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3337U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Toshiba U845t-S4165,",2,19,9.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Toshiba U845t-S4165,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba U845t-S4165,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer M5-481PT-6644,2,17,8.5,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+"Sony VAIO Flip 15 ($1,199)",5,22,4.4,1.0,2,6,T,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Sony VAIO Flip 15 ($1,199) totally",6,29,4.833333333333333,0.75,2,6,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-4500U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4500U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4500U processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4500U processor with Intel HD,7,37,5.285714285714286,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Sony VAIO Flip 15. The mid-lid,6,25,4.166666666666667,1.0,2,2,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony VAIO Flip 15. The mid-lid hinge,7,30,4.285714285714286,0.8,2,2,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Rove 20-K014us.,3,16,5.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,T,F,F,F,T,T,NEG
+HP Rove 20-K014us. All,4,19,4.75,1.0,1,5,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+HP Rove 20-K014us. All three,5,24,4.8,0.75,1,5,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+HP Rove 20-K014us. All three all-in-one,6,34,5.666666666666667,0.75,2,5,F,F,F,F,T,F,F,F,F,F,F,F,T,F,F,F,T,F,NEG
+Intel Core i7-4500U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4500U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4500U processor with Intel,6,35,5.833333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4500U processor with Intel HD,7,37,5.285714285714286,0.6666666666666666,1,5,T,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"HP Envy Rove 20-K014us,",4,20,5.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,T,F,F,F,F,T,NEG
+"HP Envy Rove 20-K014us, and",5,23,4.6,0.75,1,5,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+"HP Envy Rove 20-K014us, and even",6,27,4.5,0.6,1,5,F,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,NEG
+"Sony VAIO Tap 20 ($1,000)",5,21,4.2,1.0,2,6,T,F,T,T,F,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+"Sony VAIO Tap 20 ($1,000) (1:48)",6,27,4.5,1.0,3,9,T,F,T,T,F,F,T,F,F,F,F,F,F,T,F,F,F,F,NEG
+HP Rove (3:53),3,12,4.0,1.0,1,3,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Rove (3:53) and,4,15,3.75,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core 2 Duo T9400 (as,6,21,3.5,1.0,3,5,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Windows Vista Ultimate 64-bit.,4,27,6.75,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Windows Vista Ultimate 64-bit. You,5,30,6.0,1.0,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Ultimate 64-bit. You can,6,33,5.5,0.8,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Ultimate 64-bit. You can also,7,37,5.285714285714286,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Home Premium 64-bit,5,29,5.8,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Home Premium 64-bit to,6,31,5.166666666666667,0.8,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Home Premium 64-bit to a,7,32,4.571428571428571,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Dell 15's.XBrite,2,15,7.5,1.0,1,2,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Wi-Fi Link 5100AGN,4,21,5.25,1.0,2,4,F,F,F,F,F,T,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+HP dv5t's,2,8,4.0,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP dv5t's nVidia GeForce,4,21,5.25,0.6666666666666666,1,1,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+"Acer Aspire 6920G-6710,",3,21,7.0,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Acer Aspire 6920G-6710, which",4,26,6.5,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Intel Penryn processor, the 2.5-GHz Core",6,35,5.833333333333333,0.75,2,2,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"Apple MacBook Pro 15-inch,",4,23,5.75,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,T,F,F,F,F,T,T,NEG
+"Apple MacBook Pro 15-inch, the",5,26,5.2,0.75,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+"Apple MacBook Pro 15-inch, the Toshiba",6,33,5.5,0.8,1,2,F,F,F,F,F,F,F,F,T,F,F,T,F,F,F,F,T,F,NEG
+"Apple MacBook Pro 15-inch, the Toshiba R500,",7,38,5.428571428571429,0.8,2,5,F,F,F,F,F,F,T,F,T,F,F,T,F,F,F,F,T,T,NEG
+Intel Core 2 Duo U7500 (1.06,6,23,3.8333333333333335,1.0,3,8,F,F,F,F,F,F,T,F,F,T,F,F,F,F,F,F,F,F,NEG
+Toshiba R500 (SSD). Its,4,20,5.0,1.0,2,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X300's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X301's,2,12,6.0,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Apple Air have 1,280-by-800",4,24,6.0,0.6666666666666666,1,7,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Apple Air have 1,280-by-800 resolutions. Although",6,44,7.333333333333333,0.75,2,7,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Lenovo X301's,",2,13,6.5,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Intel Graphics Media Accelerator 4500MHD (""Stamina"").",6,48,8.0,1.0,2,4,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,T,T,NEG
+"Intel Graphics Media Accelerator 4500MHD (""Stamina""). Performance,",7,60,8.571428571428571,1.0,3,4,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,T,T,NEG
+Intel Centrino 2's,3,16,5.333333333333333,1.0,1,1,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Centrino 2's support,4,23,5.75,0.6666666666666666,1,1,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i3-2330M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-2330M CPU,",4,21,5.25,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Lenovo V570-1066AJU,",2,19,9.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Asus UE56E-BBL6,2,14,7.0,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i7-2630QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2630QM quad-core,4,27,6.75,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2630QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2630QM quad-core,4,27,6.75,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"HP dv7-6143cl,",2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+HP dv7-6143cl's,2,14,7.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP dv7-6143cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP dv7-6143cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP dv7-6143cl,2,12,6.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+HP dv7-6143cl scored 3:36. The Acer,6,30,5.0,0.75,2,8,F,F,F,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+Acer AS8950G-9839,2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"HP dv7-6143cl,",2,13,6.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Intel Core i5-2410M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-2410M processors,",4,28,7.0,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+AMD Athlon II X4-powered,4,21,5.25,1.0,1,1,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+AMD Athlon II X4-powered ,4,21,5.25,1.0,1,1,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Athlon II X4-powered,3,18,6.0,1.0,1,1,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Athlon II X4-powered ,3,18,6.0,1.0,1,1,T,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"HP TouchSmart 310 ($1,159",4,22,5.5,1.0,2,7,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Asus All in One PC ET2400IGTS-B008E,6,30,5.0,0.8,1,7,T,F,F,F,T,F,T,F,F,F,T,F,F,F,T,T,T,F,NEG
+"Asus All in One PC ET2400IGTS-B008E ($1,299",7,37,5.285714285714286,0.8,2,11,T,F,F,F,F,F,T,F,F,F,T,F,F,F,F,F,T,F,NEG
+PC ET2400IGTS-B008E,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+Intel Core i5-2400S,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-2400S and,4,20,5.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Asus ET2400IGTS-B008E,2,20,10.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Samsung Series 9 ($1,650",4,21,5.25,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Samsung Series 9 and Apple Air 13-inch,7,32,4.571428571428571,0.8,2,3,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,T,F,NEG
+Apple Air 13-inch,3,15,5.0,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,F,F,NEG
+Apple Air 13-inch (Thunderbolt).,4,29,7.25,1.0,2,2,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,NEG
+Apple Air 13-inch (Thunderbolt). The,5,32,6.4,1.0,2,2,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+Apple Air 13-inch (Thunderbolt). The roomy,6,37,6.166666666666667,0.75,2,2,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,NEG
+Acer AS3830TG and Toshiba R835-P50X. FeaturesSince,6,45,7.5,0.75,2,9,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Acer AS3830TG and Toshiba R835-P50X. FeaturesSince Sony,7,49,7.0,0.8,2,9,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Toshiba R835-P50X.,2,17,8.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Toshiba R835-P50X. FeaturesSince,3,30,10.0,1.0,1,5,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Toshiba R835-P50X. FeaturesSince Sony,4,34,8.5,1.0,1,5,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Toshiba R835-P50X. FeaturesSince Sony owns,5,38,7.6,0.75,1,5,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Toshiba R835-P50X. FeaturesSince Sony owns the,6,41,6.833333333333333,0.6,1,5,F,F,F,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+"Toshiba R835-P50X,",2,17,8.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Intel Core i5-2410M,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-2410M processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Samsung Series 9 and MacBook Air 13-inch.,7,35,5.0,0.8,2,3,F,F,F,F,T,F,T,F,T,F,F,T,F,F,F,F,T,T,NEG
+Toshiba R835-P50X,2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony Z116GXS's,2,13,6.5,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony Z116GXS's,2,13,6.5,1.0,1,3,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony Z590. The Z116GXS's,4,21,5.25,1.0,2,6,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba R705-P35,2,15,7.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba R705-P35.,2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Toshiba R705-P35. On,3,18,6.0,1.0,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba R705-P35. On top,4,21,5.25,0.6666666666666666,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba R705-P35.,2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Nvidia GeForce GT 330M),",4,21,5.25,1.0,1,3,T,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,T,NEG
+"Nvidia GeForce GT 330M), in",5,23,4.6,0.75,1,3,T,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,NEG
+"Nvidia GeForce GT 330M), in the",6,26,4.333333333333333,0.6,1,3,T,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,NEG
+Sony VPC-Z116GXS,2,15,7.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,T,F,F,NEG
+"Toshiba R705-P35,",2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Samsung Series 9 ($1,650",4,21,5.25,1.0,2,5,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Samsung Series 9 (0.62,4,19,4.75,1.0,2,4,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Apple Air 13-inch,3,15,5.0,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,F,F,NEG
+Apple Air 13-inch (0.76,4,20,5.0,1.0,2,5,F,F,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,NEG
+"Apple Air 13-inch,",3,16,5.333333333333333,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,F,F,T,T,NEG
+"Apple Air 13-inch, however,",4,24,6.0,1.0,2,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,T,NEG
+Apple Air 13-inch,3,15,5.0,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,F,F,NEG
+Apple Air 13-inch has,4,18,4.5,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+Lenovo X1 and Toshiba R835-P50X. The,6,31,5.166666666666667,0.75,2,6,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba R835-P50X.,2,17,8.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Toshiba R835-P50X. The,3,20,6.666666666666667,1.0,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba R835-P50X. The Z214GX,4,26,6.5,1.0,2,8,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Apple Air 13-inch,3,15,5.0,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,F,F,NEG
+Apple Air 13-inch and,4,18,4.5,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+Apple Air 13-inch and Samsung,5,25,5.0,0.75,1,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+Apple Air 13-inch and Samsung Series,6,31,5.166666666666667,0.8,1,2,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+"Apple Air 13-inch and Samsung Series 9,",7,33,4.714285714285714,0.8,2,3,F,F,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,NEG
+Toshiba R835-P50X,2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba R835-P50X and Lenovo,4,25,6.25,0.6666666666666666,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Apple Air 13-inch,3,15,5.0,1.0,1,2,F,F,F,F,T,F,T,F,T,F,F,F,F,F,T,F,F,F,NEG
+"Apple Air 13-inch (5:35),",4,22,5.5,1.0,2,5,F,F,T,F,F,F,T,F,T,F,F,F,F,F,F,F,T,T,NEG
+"Apple Air 13-inch (5:35), Samsung",5,29,5.8,1.0,2,5,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+"Apple Air 13-inch (5:35), Samsung Series",6,35,5.833333333333333,1.0,2,5,F,F,T,F,F,F,F,F,T,F,F,F,F,F,F,F,T,F,NEG
+"Apple Air 13-inch (5:35), Samsung Series 9",7,36,5.142857142857143,1.0,3,6,F,F,T,F,F,F,T,F,T,F,F,F,F,F,T,F,T,F,NEG
+"Samsung Series 9 (6:04),",4,21,5.25,1.0,2,4,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Samsung Series 9 (6:04), Toshiba",5,28,5.6,1.0,2,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Samsung Series 9 (6:04), Toshiba R835-P50X",6,37,6.166666666666667,1.0,3,9,F,F,T,F,T,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Toshiba R835-P50X,2,16,8.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-Z1390X,2,14,7.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Sony VPC-Z1390X (5:19). The,4,24,6.0,1.0,2,7,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-Z1390X (5:19). The Lenovo,5,30,6.0,1.0,2,7,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Sony VPC-Z1390X (5:19). The Lenovo X1,6,32,5.333333333333333,1.0,3,8,F,F,T,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel i7-3612QM,2,14,7.0,1.0,1,5,F,F,F,F,T,T,T,F,F,F,T,F,F,F,F,F,F,F,NEG
+"Asus UX32VD-DB71,",2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Asus UX32VD-DB71,",2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Asus Chromebook Flip (C100PA-DB02),4,31,7.75,1.0,1,5,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02) remains,5,38,7.6,0.75,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02) remains our,6,41,6.833333333333333,0.6,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Stream 13 use 1,366-by-768",5,25,5.0,0.6666666666666666,2,9,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i3-5015U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i3-5015U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP Stream 13 (9:09),4,16,4.0,1.0,2,5,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Chromebook 13 (10:48).,4,24,6.0,1.0,2,6,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Dell Chromebook 13 (10:48). Because,5,31,6.2,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Dell Chromebook 13 (10:48). Because this,6,35,5.833333333333333,0.75,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02),4,31,7.75,1.0,1,5,F,F,T,T,T,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02) remains,5,38,7.6,0.75,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Chromebook Flip (C100PA-DB02) remains our,6,41,6.833333333333333,0.6,1,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Samsung Exynos 5250 1.7GHz dual-core ARM,6,35,5.833333333333333,1.0,3,6,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,NEG
+"Samsung Galaxy Tab 7.7 ($699.99,",5,28,5.6,1.0,2,7,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Samsung Galaxy Tab 7.7 ($699.99, 3.5",6,31,5.166666666666667,1.0,3,9,F,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Samsung Galaxy Tab 7.7 ($699.99, 3.5 stars).",7,38,5.428571428571429,1.0,4,9,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Samsung Galaxy Tab 7.7 ($699.99, 3.5 stars). The",8,41,5.125,1.0,4,9,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Samsung Exynos-powered Galaxy Tab 7.7.,5,34,6.8,1.0,2,2,F,F,F,F,F,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Samsung Exynos-powered Galaxy Tab 7.7. As,6,36,6.0,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Samsung Exynos-powered Galaxy Tab 7.7. As fast,7,40,5.714285714285714,0.8,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Verizon,5,39,7.8,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Verizon GizmoTab  ,6,48,8.0,1.0,2,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Verizon GizmoTab   Verizon,7,55,7.857142857142857,1.0,2,4,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,F,F,NEG
+Sony PlayStation 3 (PS3).,4,22,5.5,1.0,2,2,F,F,T,F,F,F,T,F,F,F,F,T,F,F,T,F,T,T,NEG
+Sony PlayStation 3 (PS3). (The Quad,6,30,5.0,1.0,3,2,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Sony PlayStation 3 (PS3). (The Quad Core,7,34,4.857142857142857,1.0,3,2,F,F,T,F,F,F,F,F,F,T,F,T,F,F,F,F,T,F,NEG
+Windows Vista Home Premium 64-bit,5,29,5.8,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Home Premium 64-bit can,6,32,5.333333333333333,0.8,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows Vista Home Premium 64-bit can take,7,36,5.142857142857143,0.6666666666666666,1,2,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows 7 Home Premium 64-bit,",5,26,5.2,1.0,2,3,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Windows 7 Home Premium 64-bit, the",6,29,4.833333333333333,0.75,2,3,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Intel Core i7-2630QM,",3,19,6.333333333333333,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Intel Core i7-2630QM, which",4,24,6.0,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,T,F,F,F,F,NEG
+Acer C720P-2600,2,14,7.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Google account. The NB15t-A1304,4,28,7.0,1.0,2,6,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office (30-day,3,22,7.333333333333333,1.0,1,2,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office (30-day trial),4,28,7.0,1.0,2,2,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office (30-day trial) and Norton,6,37,6.166666666666667,0.75,2,2,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Microsoft Office (30-day trial) and Norton Internet,7,45,6.428571428571429,0.8,2,2,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Atom-based Asus T100TA,4,25,6.25,1.0,2,3,F,F,F,F,F,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Windows 8. Design and FeaturesThe P55-A5200,6,38,6.333333333333333,0.75,2,7,F,F,F,F,T,F,T,F,F,F,F,T,T,T,F,F,F,F,NEG
+Intel Core i5-3337U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i5-3337U processor,",4,27,6.75,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Acer M5-581T-6405,2,16,8.0,1.0,1,8,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-2670QM,3,18,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-2670QM processor,4,27,6.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Envy (5:15),3,12,4.0,1.0,1,3,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+HP Envy (5:15) and,4,15,3.75,0.6666666666666666,1,3,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Apple MacBook Pro ($2,199.99",4,25,6.25,1.0,1,6,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+"Apple MacBook Pro ($2,199.99 direct,",5,32,6.4,1.0,2,6,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,NEG
+"Apple MacBook Pro ($2,199.99 direct, 4",6,33,5.5,1.0,3,7,F,F,F,F,F,F,T,F,F,F,F,T,F,F,F,F,F,F,NEG
+Origin EVO15-S  ,2,14,7.0,1.0,1,2,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New,3,17,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer,4,22,5.5,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade,5,27,5.4,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth,6,34,5.666666666666667,1.0,1,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,T,F,F,F,NEG
+Origin EVO15-S   New Razer Blade Stealth (Intel,7,40,5.714285714285714,1.0,2,2,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Razer Blade Stealth (Intel Core i5,",6,30,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Razer Blade Stealth (Intel Core i5, Early",7,35,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5,",4,20,5.0,1.0,2,1,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,T,NEG
+"Stealth (Intel Core i5, Early",5,25,5.0,1.0,2,1,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)  ",6,31,5.166666666666667,1.0,3,5,F,F,T,F,F,F,T,T,F,T,T,F,F,F,F,F,F,F,NEG
+"Stealth (Intel Core i5, Early 2017)   HP",7,33,4.714285714285714,1.0,3,5,T,F,T,F,F,F,F,T,F,T,T,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)  ,4,32,8.0,1.0,1,4,F,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer,5,36,7.2,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook,6,46,7.666666666666667,1.0,1,4,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus Chromebook Flip (C302CA-DHM4)   Acer Chromebook R,7,47,6.714285714285714,1.0,1,4,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4) ,5,33,6.6,1.0,2,8,T,F,T,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer Chromebook R 13 (CB5-312T-K5X4)  more,6,37,6.166666666666667,0.75,2,8,T,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus UX32VD-DB71's,2,17,8.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i5-3317U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3317U 1.7GHz,4,23,5.75,1.0,2,7,F,F,F,F,F,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Toshiba U845W-S410,2,17,8.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus UX32VD-DB71,2,15,7.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71 (1:43). Its,4,25,6.25,1.0,2,7,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus UX32VD-DB71 (1:43). Its Cinebench,5,34,6.8,1.0,2,7,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus UX32VD-DB71 (1:43). Its Cinebench R11.5,6,39,6.5,1.0,3,10,F,F,T,F,F,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus UX32VD-DB71,2,15,7.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71 (3.58). The,4,25,6.25,1.0,2,7,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71,2,15,7.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba U845W (3:42). The,4,22,5.5,1.0,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus UX32VD-DB71,",2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Asus UX32VD-DB71,2,15,7.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba Satellite U840-S406,3,25,8.333333333333334,1.0,1,6,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Toshiba Satellite U840-S406 doesn't,4,32,8.0,1.0,2,6,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel Core i5-3337U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3337U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,T,F,F,F,F,NEG
+Intel Core i5-3317U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,T,F,NEG
+Intel Core i5-3317U that,4,21,5.25,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,T,F,NEG
+Asus Touch UX31A-BHI5T,3,20,6.666666666666667,1.0,1,3,F,F,F,F,T,F,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus Touch UX31A-BHI5T (5:31),4,26,6.5,1.0,2,6,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus Touch UX31A-BHI5T (5:31) and Sony,6,33,5.5,0.75,2,6,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Sony T15 Touch (SVT15112CXS),4,25,6.25,1.0,2,7,F,F,T,T,F,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Lenovo Yoga 13 (6:35).,4,19,4.75,1.0,2,5,F,F,T,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+Lenovo Yoga 13 (6:35). It,5,21,4.2,1.0,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Lenovo Yoga 13 (6:35). It also,6,25,4.166666666666667,0.75,2,5,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel HD Graphics 4000 GPU doesn't,6,29,4.833333333333333,1.0,2,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Intel HD Graphics 4000 GPU doesn't make,7,33,4.714285714285714,0.8,2,4,T,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus UX31A-BHI5T,2,15,7.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Lenovo Twist (3347-4HU),3,21,7.0,1.0,1,5,F,F,T,T,T,F,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Lenovo Twist (3347-4HU) (4:10),4,27,6.75,1.0,2,8,F,F,T,T,F,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 8-equipped,2,17,8.5,1.0,1,1,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 8-equipped ultrabook. It,4,29,7.25,1.0,2,1,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Windows 8. The Satellite U945-S4390's,5,33,6.6,1.0,2,8,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Windows 8. The Satellite U945-S4390's speakers,",6,42,7.0,1.0,3,8,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,NEG
+Intel Core i5-3317U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i5-3317U processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Toshiba Z935-P300,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"Toshiba Z935-P300 (5,477 points). Its Cinebench",6,42,7.0,1.0,3,10,F,F,T,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Toshiba Z935-P300,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Toshiba Z935-P300,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Toshiba P845T-S4310,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus S400CA-UH51,2,15,7.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Toshiba P845T-S4310,2,18,9.0,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus SC400A-UH51,2,15,7.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus S400CA-UH51,2,15,7.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+Asus S400CA-UH51 and Toshiba,4,25,6.25,0.6666666666666666,1,5,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Toshiba P845T-S4310,",2,19,9.5,1.0,1,7,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Toshiba P845T-S4310, the Satellite",4,31,7.75,0.6666666666666666,1,7,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus S400CA-UH51,2,15,7.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"Toshiba Portege Z935-S4390,",3,25,8.333333333333334,1.0,1,7,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"Toshiba Portege Z935-S4390, our",4,28,7.0,0.6666666666666666,1,7,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Toshiba Portege Z935-S4390, our Editors' Choice",6,42,7.0,0.75,2,7,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Windows 8-equipped,2,17,8.5,1.0,1,1,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,F,F,NEG
+Acer TravelMate 4720-6727are,3,27,9.0,1.0,1,8,F,F,F,F,T,F,T,F,F,F,F,T,F,F,F,F,T,F,NEG
+Acer TravelMate 4720-6727are equally,4,34,8.5,0.6666666666666666,1,8,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Acer TravelMate 4720-6727are equally black. If,6,42,7.0,0.75,2,8,F,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Acer TravelMate 4720-6727are equally black. If I,7,43,6.142857142857143,0.8,2,8,T,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,T,F,NEG
+Toshiba A9-S9013,2,15,7.5,1.0,1,5,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-4930K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4930K offers,4,23,5.75,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4930K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4930K processor,4,26,6.5,0.6666666666666666,1,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-930,3,15,5.0,1.0,1,4,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-930 processor.,4,25,6.25,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+Intel Core i7-930 processor. The,5,28,5.6,1.0,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-930 processor. The combination,6,39,6.5,0.75,2,4,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-3930K,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+"Intel Core i7-3930K  CPU,",4,21,5.25,1.0,2,5,F,F,F,F,F,F,F,F,F,T,T,F,F,F,F,F,F,T,NEG
+HP Envy 34 Curved All-in-One,5,24,4.8,1.0,2,2,F,F,F,F,T,F,F,F,F,F,F,T,F,F,T,F,F,F,NEG
+HP Envy 34 Curved All-in-One (2017)  ,6,31,5.166666666666667,1.0,3,6,F,F,T,F,F,F,T,T,F,F,F,T,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K) ,5,32,6.4,1.0,2,5,F,F,T,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Digital Storm Velox (Core i7-7700K)  more,6,36,6.0,0.75,2,5,F,F,T,F,F,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+"HP Envy Sleekbook 6-1010us,",4,24,6.0,1.0,1,5,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+"HP Envy Sleekbook 6-1010us, which",5,29,5.8,0.75,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"HP Envy Sleekbook 6-1010us, which has",6,32,5.333333333333333,0.6,1,5,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Samsung NP900X4C-A02US,2,21,10.5,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,T,F,NEG
+"Asus Zenbook Prime UX32VD-DB71,",4,28,7.0,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Asus Zenbook Prime UX32VD-DB71, because",5,35,7.0,0.75,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus Zenbook Prime UX32VD-DB71, because the",6,38,6.333333333333333,0.6,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+"Asus Zenbook Prime UX32VD-DB71, because the Asus",7,42,6.0,0.6666666666666666,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,NEG
+Asus UX32VD-DB71uses,2,19,9.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX31A-R5102F,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71,2,15,7.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71.,2,16,8.0,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,T,NEG
+Asus UX32VD-DB71. Where,3,21,7.0,1.0,1,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71. Where the,4,24,6.0,0.6666666666666666,1,4,F,F,F,F,F,T,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+Asus UX31A-R5102F,2,16,8.0,1.0,1,6,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus Zenbook Prime UX32VD-DB71,",4,28,7.0,1.0,1,4,F,F,F,F,T,F,T,F,F,F,F,F,F,F,F,F,F,T,NEG
+"Asus Zenbook Prime UX32VD-DB71, but",5,31,6.2,0.75,1,4,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,T,F,NEG
+"Asus Zenbook Prime UX32VD-DB71, but in",6,33,5.5,0.6,1,4,F,F,F,F,F,F,F,F,F,F,T,F,F,F,F,F,T,F,NEG
+Asus UX32VD-DB71,2,15,7.5,1.0,1,4,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG
+Intel Core i7-4650U,3,17,5.666666666666667,1.0,1,5,F,F,F,F,T,F,T,F,F,T,T,F,F,F,F,F,F,F,NEG
+Intel Core i7-4650U dual-core,4,26,6.5,1.0,2,5,F,F,F,F,T,F,F,F,F,T,T,F,F,F,F,F,F,F,NEG
+Panasonic FZ-G1,2,14,7.0,1.0,1,1,F,F,F,F,T,T,T,F,F,F,F,F,F,F,T,F,F,F,NEG
+Getac FZ-110,2,11,5.5,1.0,1,3,F,F,F,F,T,T,T,F,F,F,F,F,F,F,F,F,T,F,NEG

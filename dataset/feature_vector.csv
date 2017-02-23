@@ -1,0 +1,13 @@
+No of words,isCapitalized,Contains / or -,isDigit,is allCapitalized,Starts with brand,Contains category word,Paranthesis,Alphanumeric separated by -,Year,Inch,Core,Starts with i,Two words
+4,true,false,false,true,false,false,false,false,false,false,false,false,true
+4,true,false,false,true,true,false,false,false,false,false,false,false,false
+4,false,false,false,true,false,false,false,false,false,false,false,false,true
+4,false,false,false,true,false,false,false,false,false,false,false,false,true
+4,false,false,false,true,false,false,false,false,false,false,false,false,true
+4,true,false,false,true,true,false,false,false,false,false,false,false,false
+4,true,false,false,true,false,false,false,false,false,false,false,false,true
+4,false,false,false,true,false,false,false,false,false,false,false,false,true
+3,true,true,false,true,true,false,false,true,false,false,false,false,true
+3,true,false,false,true,true,false,false,false,false,false,false,false,true
+3,true,false,true,true,true,false,false,false,false,false,false,false,true
+4,false,false,false,true,false,false,false,false,false,false,false,false,true
