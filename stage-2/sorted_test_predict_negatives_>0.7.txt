@@ -1,0 +1,269 @@
+true example:  Lenovo ThinkPad T400 0.15111377709 0.84888622291
+false example:  Toshiba E205-S1980 0.154208385666 0.845791614334
+true example:  Lenovo IdeaPad S12 0.154954709034 0.845045290966
+true example:  AVADirect Clevo X7200 0.158816485369 0.841183514631
+true example:  AVADirect Clevo X7200 0.158816485369 0.841183514631
+true example:  Fujitsu Lifebook S6510 0.158816485369 0.841183514631
+true example:  Fujitsu Lifebook A6120 0.158816485369 0.841183514631
+true example:  Gateway NV55S05u 0.163492326933 0.836507673067
+true example:  Gateway ID49C13u 0.163492326933 0.836507673067
+true example:  Gateway LT3103u 0.163492326933 0.836507673067
+true example:  Gateway MD7801u 0.163492326933 0.836507673067
+true example:  Xplore XC6 0.164766081871 0.835233918129
+true example:  Xplore XC6 0.164766081871 0.835233918129
+false example:  Nvidia GeForce 9400M 0.165726227836 0.834273772164
+true example:  Gateway NV7915u 0.165945945946 0.834054054054
+true example:  Gateway LT3103u 0.165945945946 0.834054054054
+true example:  Asus ET2410-06 0.166666666667 0.833333333333
+false example:  Sony Duo 11 0.167500593488 0.832499406512
+true example:  HP ZBook 14 0.167500593488 0.832499406512
+true example:  HP ZBook 15 0.167500593488 0.832499406512
+true example:  HP ZBook 14 0.167500593488 0.832499406512
+true example:  Samsung NC20 (21GBK) 0.168887122417 0.831112877583
+true example:  Panasonic Toughpad FZ-M1 0.169318181818 0.830681818182
+false example:  HP Elite x2 0.169450310438 0.830549689562
+false example:  HP Spectre 13t-h200 0.169989015054 0.830010984946
+false example:  Dell i580-8139NBC 0.171412686741 0.828587313259
+false example:  Dell i580-8139NBC 0.171412686741 0.828587313259
+true example:  HP Envy Phoenix h9-1320t 0.173095238095 0.826904761905
+false example:  Sony VAIO VPC-EH25FM—but 0.173666007905 0.826333992095
+true example:  Dell XPS 15z 0.176515139263 0.823484860737
+false example:  Dell i620-228NBK 0.176717062412 0.823282937588
+false example:  Dell i620-228NBK 0.176717062412 0.823282937588
+false example:  Dell i17-6434DBK 0.176717062412 0.823282937588
+false example:  Asus Essentio CM6870  0.178333333333 0.821666666667
+true example:  Lenovo Yoga 2 13 0.180218176496 0.819781823504
+true example:  Dell XPS 15 0.181573029732 0.818426970268
+true example:  Dell XPS 18 0.181573029732 0.818426970268
+true example:  Dell XPS 12 0.181573029732 0.818426970268
+true example:  Dell XPS 12 0.181573029732 0.818426970268
+false example:  Dell XPS 14 0.181573029732 0.818426970268
+false example:  Dell XPS 14 0.181573029732 0.818426970268
+false example:  Dell XPS 14 0.181573029732 0.818426970268
+false example:  Dell XPS 14 0.181573029732 0.818426970268
+true example:  HP Pavilion Elite m9400t 0.181664478323 0.818335521677
+true example:  Dell XPS 15z 0.181737994776 0.818262005224
+true example:  Dell XPS 15z 0.181737994776 0.818262005224
+true example:  Gateway FX6831-01 0.181777438701 0.818222561299
+false example:  Toshiba X505-Q850 0.181777438701 0.818222561299
+false example:  Toshiba X505-Q850 0.181777438701 0.818222561299
+true example:  Gateway NV55S05u 0.181803917304 0.818196082696
+true example:  Gateway NV55S05u 0.181803917304 0.818196082696
+true example:  Gateway ID49C13u 0.181803917304 0.818196082696
+true example:  Alienware M17X 0.183062785168 0.816937214832
+true example:  Panasonic ToughPad FZ-G1 0.183578016187 0.816421983813
+false example:  Asus Transformer Book T100TA 0.184132314888 0.815867685112
+true example:  Lenovo ThinkPad T400 0.184607843137 0.815392156863
+false example:  Toshiba CB35-B3340 0.185348867272 0.814651132728
+false example:  Toshiba CB35-B3340 0.185348867272 0.814651132728
+false example:  Dell i620-228NBK 0.185714285714 0.814285714286
+false example:  Intel Celeron N3150 0.186577540107 0.813422459893
+true example:  Sony VAIO VPC-EH25FM 0.186754407626 0.813245592374
+false example:  Nvidia GeForce 9400M 0.186895992631 0.813104007369
+false example:  Dell XPS 14z  0.186984126984 0.813015873016
+true example:  Apple MacBook Pro 13-inch 0.188492063492 0.811507936508
+true example:  Samsung R540-11 0.190932198275 0.809067801725
+false example:  Lenovo IdeaPad Yoga 2 0.191620206535 0.808379793465
+true example:  Lenovo IdeaPad U400 0.192958696876 0.807041303124
+true example:  Dell XPS 410 0.196315908425 0.803684091575
+true example:  Dell XPS 410 0.196315908425 0.803684091575
+true example:  Dell XPS 410 0.196315908425 0.803684091575
+true example:  Dell XPS 410 0.196315908425 0.803684091575
+true example:  Dell XPS 420 0.196315908425 0.803684091575
+true example:  Dell Precision T3610 0.19991087344 0.80008912656
+true example:  Vizio 24-Inch All-in-One (CA24T-A4) 0.2 0.8
+false example:  Samsung PN58C8000 (10 Watts)a 58-inch 0.2 0.8
+true example:  MSI Gaming 24GE 2QE-014US 0.2 0.8
+false example:  Asus Zen AiO Pro 0.2 0.8
+false example:  Falcon Northwest Talon (20 fps) 0.2 0.8
+false example:  leader and Editors’ Choice Asus U56E-BBL6 0.2 0.8
+true example:  HP Envy 17 (2012) 0.2 0.8
+false example:  Intel Core i5-430M-based R540-11 0.2 0.8
+true example:  HP Pavilion dv7-6b55dx 0.2 0.8
+true example:  iBuypower Valkyrie CZ-17 0.2 0.8
+false example:  Lenovo ThinkPad X1 Carbon 0.2 0.8
+true example:  MSI GT70 2PC Dominator 0.2 0.8
+false example:  Razer Blade Stealth (4K UHD) 0.2 0.8
+false example:  Razer Stealth (4K UHD) 0.2 0.8
+false example:  Razer Blade Stealth (QHD) 0.2 0.8
+true example:  Lenovo ThinkPad X1 Carbon Touch 0.2 0.8
+true example:  Asus Zenbook Prime Touch UX31A-BHI5T 0.2 0.8
+false example:  Sony VAIO VPC-EH25FM costs just 0.2 0.8
+true example:  Sony VAIO VPC-EH14FM/B 0.2 0.8
+false example:  Falcon Northwest Fragbook DRX (12 lbs) 0.2 0.8
+false example:  Lenovo ThinkPad X1 Carbon 0.2 0.8
+false example:  Nvidia Quadro K4100M 0.202536882619 0.797463117381
+true example:  Dell Precision M4700 0.202536882619 0.797463117381
+true example:  Dell Precision M4700 0.202536882619 0.797463117381
+false example:  AMD Radeon R9 295X2-equipped 0.203581087849 0.796418912151
+false example:  Dell Latitude 12 0.203825757576 0.796174242424
+false example:  Dell Latitude 12 0.203825757576 0.796174242424
+false example:  HP 700-030qeand 0.204321504506 0.795678495494
+true example:  Samsung ATIV Book 9 Plus 0.207107304933 0.792892695067
+true example:  Gateway ID49C13u 0.207936507937 0.792063492063
+false example:  Nvidia GeForce GT740 0.209222695818 0.790777304182
+false example:  Dell Inspiron 546 0.210621676649 0.789378323351
+false example:  Toshiba DX1215 0.211977175418 0.788022824582
+false example:  Gateway DX4870 0.211977175418 0.788022824582
+false example:  Gateway DX4860 0.211977175418 0.788022824582
+false example:  Gateway GX7020 0.211977175418 0.788022824582
+true example:  Gateway FX7020 0.211977175418 0.788022824582
+true example:  Gateway FX7020 0.211977175418 0.788022824582
+true example:  Gateway FX7020 0.211977175418 0.788022824582
+true example:  Gateway FX7020 0.211977175418 0.788022824582
+true example:  HP Envy 700-030qe 0.213372931333 0.786627068667
+true example:  HP Envy 700-030qe 0.213372931333 0.786627068667
+true example:  HP Envy 14-1110NR 0.213372931333 0.786627068667
+false example:  MSI GT70 2PC 0.213760204788 0.786239795212
+false example:  MSI GT70 2PC 0.213760204788 0.786239795212
+true example:  Dell Precision Tower 5810 0.215532510488 0.784467489512
+false example:  HP EliteBook 745 G3 0.217823725982 0.782176274018
+false example:  Lenovo X1 Carbon 0.217988148564 0.782011851436
+true example:  Asus VivoTab Note 8 0.218181818182 0.781818181818
+false example:  HP Pavilion m8100y 0.22106827531 0.77893172469
+true example:  HP Pavilion p6754y 0.22106827531 0.77893172469
+true example:  Lenovo Yoga 2 13 0.222222222222 0.777777777778
+true example:  HP Z1 G2 0.222927689594 0.777072310406
+true example:  HP Z1 G2 0.222927689594 0.777072310406
+true example:  HP Z1 G2 0.222927689594 0.777072310406
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+true example:  Dell Inspiron 1750 (2211MBU) 0.222941176471 0.777058823529
+true example:  Dell Inspiron 1750 (2211MBU) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  Falcon Northwest Tiki (2017) 0.222941176471 0.777058823529
+false example:  AMD Mobility Radeon 6970M 0.223499158739 0.776500841261
+true example:  HP Pavilion Slimline s3710t 0.223499158739 0.776500841261
+true example:  Lenovo Erazer X510 0.224450992874 0.775549007126
+false example:  Toshiba A665D-S6085 0.225 0.775
+true example:  Dell XPS 13-MLK 0.225 0.775
+true example:  MSI GT70 2PC Dominator 0.225722213044 0.774277786956
+true example:  MSI GT70 2PC Dominator 0.225722213044 0.774277786956
+true example:  HP Envy 4-1043cl 0.226361774725 0.773638225275
+true example:  HP Envy 4-1043cl 0.226361774725 0.773638225275
+false example:  Toshiba covers the P755-S5269 0.227272727273 0.772727272727
+true example:  HP Mini 311 0.228760204788 0.771239795212
+true example:  Asus Essentio CM6870 0.234462929997 0.765537070003
+true example:  Samsung ATIV Book 9 Plus 0.234812430298 0.765187569702
+false example:  Polywell Poly i2303 0.235 0.765
+true example:  Gateway ID49C13u 0.236666666667 0.763333333333
+true example:  HP EliteOne 800 0.237203556426 0.762796443574
+false example:  Lenovo V570-1066A9U 0.237727272727 0.762272727273
+false example:  MSI Gaming 24GE 0.238170046328 0.761829953672
+false example:  Asus Transformer Book T300 0.238287612529 0.761712387471
+false example:  Windows Vista Home Premium 64-bit 0.240333333333 0.759666666667
+false example:  Samsung LN55A950 0.241340308231 0.758659691769
+false example:  Samsung LN55A950 0.241340308231 0.758659691769
+true example:  Asus G71G-Q1 0.241666666667 0.758333333333
+true example:  Dell XPS One 0.243333333333 0.756666666667
+true example:  Maingear Shift 0.243333333333 0.756666666667
+true example:  iBuypower Valkyrie CZ-17 0.244805194805 0.755194805195
+true example:  Samsung QX410-J01 0.245 0.755
+true example:  Gateway DX440X 0.246432588018 0.753567411982
+true example:  Lenovo IdeaPad Y510 0.246541951123 0.753458048877
+true example:  Lenovo IdeaPad Y510 0.246541951123 0.753458048877
+false example:  Nvidia GeForce 310M 0.246541951123 0.753458048877
+true example:  Lenovo IdeaPad Y510 0.246541951123 0.753458048877
+true example:  HP Envy 4-1043cl 0.251280473912 0.748719526088
+true example:  Compaq Presario CQ5110f 0.252815084809 0.747184915191
+true example:  Lenovo Yoga 2 11 0.253343939622 0.746656060378
+false example:  Acer C720P-2600 0.25336314524 0.74663685476
+false example:  Lenovo Yoga 11S 0.254716832875 0.745283167125
+false example:  MSI Gaming 24GE 0.254716832875 0.745283167125
+false example:  Acer Aspire AM3970 0.255667744468 0.744332255532
+false example:  Dell Inspiron 1750 0.255667744468 0.744332255532
+false example:  Dell Inspiron 1750 0.255667744468 0.744332255532
+false example:  HP Envy 4 TouchSmart 0.259839860103 0.740160139897
+false example:  ZTE Optik 0.26 0.74
+true example:  Asus Zenbook Prime UX32VD-DB71 0.263008948546 0.736991051454
+true example:  Getac F110 0.265452938472 0.734547061528
+true example:  Getac F110 0.265452938472 0.734547061528
+false example:  Dell E6420 0.265452938472 0.734547061528
+false example:  Dell E6420 0.265452938472 0.734547061528
+false example:  Dell E6420 0.265452938472 0.734547061528
+true example:  Falcon Northwest Fragbook DRX 0.266666666667 0.733333333333
+true example:  HP Pavilion dv6500t 0.267724990382 0.732275009618
+true example:  HP Pavilion dv6500t 0.267724990382 0.732275009618
+true example:  Lenovo ThinkPad 8 0.267836607837 0.732163392163
+false example:  Asus U56E-BBL6’s 0.267909231152 0.732090768848
+true example:  Xplore XC6 0.268199639477 0.731800360523
+true example:  Xplore XC6 0.268199639477 0.731800360523
+false example:  Toshiba P505-S8010 0.268272228085 0.731727771915
+false example:  Toshiba E205-S1980 0.268272228085 0.731727771915
+true example:  Sony VAIO Pro 13 0.26875 0.73125
+false example:  PC Mark 7 0.269450310438 0.730549689562
+true example:  Getac F110 0.269788912922 0.730211087078
+true example:  Getac F110 0.269788912922 0.730211087078
+true example:  Getac F110 0.269788912922 0.730211087078
+false example:  Intel Z530 0.269788912922 0.730211087078
+true example:  Getac F110 0.269788912922 0.730211087078
+true example:  Getac F110 0.269788912922 0.730211087078
+true example:  Getac F110 0.269788912922 0.730211087078
+true example:  Getac F110 0.269788912922 0.730211087078
+true example:  HP Mini 2140 0.271229934078 0.728770065922
+true example:  HP Mini 2140 0.271229934078 0.728770065922
+false example:  Microsoft Office 60-day 0.272064102564 0.727935897436
+false example:  Sony EB33FM/BJ 0.272202797203 0.727797202797
+true example:  Alienware M17x 0.272202797203 0.727797202797
+true example:  Alienware M17x 0.272202797203 0.727797202797
+true example:  Alienware M17x 0.272202797203 0.727797202797
+true example:  HP Envy Phoenix h9-1320t 0.273095238095 0.726904761905
+true example:  Velocity Micro Edge Z30 0.27357552343 0.72642447657
+true example:  HP Omni 100 0.273907239043 0.726092760957
+false example:  Samsung NC20 0.274285714286 0.725714285714
+true example:  V3 Gaming Avenger 0.274298070526 0.725701929474
+false example:  V3 Gaming PC Avenger 0.275280883368 0.724719116632
+false example:  HP Firebird 803 0.276223180408 0.723776819592
+false example:  Intel Atom N280 0.276223180408 0.723776819592
+false example:  Acer Revo RL100 0.276223180408 0.723776819592
+false example:  Intel Xeon E5-2687W 0.277117737118 0.722882262882
+true example:  Asus U56E-BBL6 0.281451612903 0.718548387097
+false example:  Dell Mini 12 0.281545198672 0.718454801328
+true example:  Asus U45Jc-A1 0.281666666667 0.718333333333
+true example:  ASUS UL30A-A1 0.281666666667 0.718333333333
+true example:  Asus U45Jc-A1 0.281666666667 0.718333333333
+true example:  Asus U45Jc-A1 0.281666666667 0.718333333333
+true example:  Asus K53SV-B1 0.281666666667 0.718333333333
+false example:  Panasonic FZ-G1 0.281901418972 0.718098581028
+true example:  Amazon Kindle Fire 0.283333333333 0.716666666667
+true example:  Amazon Kindle Fire 0.283333333333 0.716666666667
+true example:  Lenovo ThinkCentre Edge 92z 0.283921568627 0.716078431373
+true example:  HP EliteOne 800 0.28412572062 0.71587427938
+false example:  Asus G74SX-BBK7 by 764 0.289285714286 0.710714285714
+true example:  Lenovo Yoga 900 0.289845435096 0.710154564904
+true example:  Gateway FX7020 0.290476190476 0.709523809524
+true example:  Microsoft Surface Windows 8 Pro 0.290476190476 0.709523809524
+false example:  Nvidia Tegra 4 0.29375 0.70625
+false example:  Intel Xeon E3-1280 0.295636255636 0.704363744364
+true example:  HP EliteBook 6930p 0.295992451728 0.704007548272
+true example:  Lenovo IdeaPad Yoga 2 Pro 0.296284304547 0.703715695453
+true example:  Polywell Poly 790GX3 0.296881511681 0.703118488319
+false example:  Lenovo IdeaPad Y510 Video 0.297547799824 0.702452200176
+true example:  HP Pavilion dv6t Select Edition 0.297665423428 0.702334576572
+true example:  Lenovo Erazer X510 0.297968301054 0.702031698946
+true example:  Lenovo Erazer X510 0.297968301054 0.702031698946
+false example:  Fujitsu LifeBook U810 0.29841873703 0.70158126297
+false example:  Fujitsu LifeBook U810 0.29841873703 0.70158126297
+true example:  Lenovo ThinkPad SL400 0.29841873703 0.70158126297
+true example:  Gateway MC7803u 0.298470583971 0.701529416029
+false example:  AMD Turion II P540-based HP Pavilion dv6-3122us 0.3 0.7
+false example:  Asus All in One PC ET2400IGTS-B008E 0.3 0.7
+false example:  Asus Republic of Gamers G74SX-BBK7 0.3 0.7
+false example:  Dell XPS 15 and Dell Inspiron 14R-1898MRB 0.3 0.7
+false example:  Falcon is 0.3 0.7
+false example:  PC EC is the HP Omni 100 0.3 0.7
+false example:  Lenovo IdeaPad S12 and Samsung NC20 (21GBK) 0.3 0.7
+false example:  Intel Core i3-370M-based AS5745-7247 0.3 0.7
+false example:  Lenovo ThinkPad T450s and the Core i7-powered 0.3 0.7
+false example:  PC like the Maingear Vybe (2015) 0.3 0.7
+false example:  Razer Blade Stealth (QHD) 0.3 0.7
+false example:  ClamCase Pro for iPad Air 0.3 0.7
+false example:  ClamCase Pro for iPad Air 0.3 0.7
