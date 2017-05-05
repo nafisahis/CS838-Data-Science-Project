@@ -1,0 +1,431 @@
+movie_title,year,length,budget,rating,votes,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,mpaa,Action,Animation,Comedy,Drama,Documentary,Romance,Short,episode,song_title,artists,song_id,track_id
+prison break,2008.0,,,8.4,103.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,34.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,first down (#2.4),take me home  country roads,bill danoff+taffy nivert+john denver,633964.0,187644.0
+prison break,2008.0,,,8.4,103.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,34.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,eagles and angels (#4.4),cherry,ufo,44445.0,187633.0
+an american tail: fievel goes west,1991.0,75.0,,6.4,17349.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,way out west,james horner+will jennings,341490.0,348253.0
+the boys are back,2009.0,104.0,,6.8,8859.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,love me_ chase me,zane carney+reeve carney+john lipscomb+jonathan epcar (blueztelecaster+scissorhandsongs+name pending music+beardedlady music)+carney,437105.0,650819.0
+lantana,2001.0,121.0,,7.4,16548.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,permiso que llego van van,juan formell+los van van,334600.0,511007.0
+wake,2003.0,90.0,,6.9,348.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,44.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,dynamite (album),the mother truckers+josh zee+teal collins,22302.0,716497.0
+xuxa requebra,1999.0,84.0,,2.0,391.0,64.5,14.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,banho de chuveiro,cabo rei+julinho carioca+lazinho do pandeiro+paulo chamusca+terra samba,321504.0,728222.0
+hot coffee,2011.0,88.0,,7.6,3224.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,i'll sue ya,weird al' yankovic,127884.0,474954.0
+panther,1999.0,5.0,,5.5,28.0,0.0,4.5,14.5,14.5,4.5,24.5,24.5,4.5,4.5,4.5,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,the world is a ghetto / get down [live],war +harold r. brown+morris d. dickerson+lonnie jordan+charles miller+lee oskar+howard e. scott ).+da lench mob,787604.0,570721.0
+we are your friends,2015.0,96.0,2000000.0,6.1,22125.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,sister saviour (dfa dub),tim goldsworthy+luke jenner+james murphy+vito roccoforte+matt safer+the rapture,925425.0,718525.0
+welcome to the dollhouse,1995.0,88.0,800000.0,7.5,26760.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,carnival of the animals: xii. fossils,barry wordsworth_ london symphony orchestra (lso)_ camille saint-saëns,396708.0,719779.0
+welcome to the dollhouse,1995.0,88.0,800000.0,7.5,26760.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,lost in your eyes,debbie gibson+arrangement with warner special products/warner music licensing,465317.0,719782.0
+married life,2007.0,91.0,12000000.0,6.3,8058.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,got a right to cry,joe liggins+his honeydrippers+arrangement with ocean park music group,663310.0,534242.0
+gutter king,2010.0,98.0,,4.4,223.0,14.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,4.5,14.5,,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,oakland in the rearview,alias,921775.0,461118.0
+you don't know jack,2006.0,5.0,3000.0,6.9,23.0,34.5,0.0,0.0,0.0,0.0,4.5,0.0,4.5,4.5,45.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,come and get your love,lolly vegas+redbone+arrangement with sony music entertainment,594518.0,729873.0
+you don't know jack,2006.0,5.0,3000.0,6.9,23.0,34.5,0.0,0.0,0.0,0.0,4.5,0.0,4.5,4.5,45.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,unaccompanied cello suite no. 1 in g-major  bwv 1007: prï¿½lude,johann sebastian bach+yo-yo ma+arrangement with sony music entertainment,533687.0,729878.0
+you don't know jack,2006.0,5.0,3000.0,6.9,23.0,34.5,0.0,0.0,0.0,0.0,4.5,0.0,4.5,4.5,45.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,early in the morning,dallas bartley+leo hickman+louis jordan+harry nilsson+arrangement with sony music entertainment,248873.0,729870.0
+pontiac moon,1994.0,108.0,,5.6,561.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,kansas city,jerry leiber+mike stoller+wilbert harrison,377725.0,579690.0
+no subtitles necessary: laszlo & vilmos,2008.0,86.0,,7.8,274.0,4.5,4.5,0.0,4.5,4.5,4.5,24.5,24.5,14.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,sascha,jolie holland,927248.0,558313.0
+the forger,2012.0,94.0,,5.4,4010.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,moanin',art blakey and the jazz messengers,939747.0,660573.0
+the forger,2012.0,94.0,,5.4,4010.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,prelude to a kiss (1989 digital remaster) (the rudy van gelder edition),horace silver,75898.0,660581.0
+vacation,2012.0,2.0,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,chariots of fire,vangelis,938703.0,710967.0
+killing bono,2011.0,114.0,,6.4,5155.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,you spin me round (like a record),dead or alive,289019.0,501003.0
+you  me and dupree,2006.0,110.0,54000000.0,5.6,68814.0,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,fix you,guy berryman+will champion+chris martin+jon buckland+coldplay,953095.0,730508.0
+you  me and dupree,2006.0,110.0,54000000.0,5.6,68814.0,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,spanish stroll,willy deville+mink deville,370111.0,730520.0
+you  me and dupree,2006.0,110.0,54000000.0,5.6,68814.0,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,spanish stroll,willy deville+mink deville,484820.0,730520.0
+my first mister,2001.0,109.0,,7.3,4964.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,sandwiches,detroit grand pubahs,82788.0,549840.0
+popular,2011.0,10.0,,3.7,35.0,44.5,4.5,14.5,4.5,4.5,4.5,4.5,0.0,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,0.0,1.0,timber! (#2.1),i will find you,maire brennan,381629.0,185397.0
+the buddy holly story,1978.0,114.0,1200000.0,7.2,6483.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,maybe baby,buddy holly+norman petty+gary busey,170989.0,651631.0
+the buddy holly story,1978.0,114.0,1200000.0,7.2,6483.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,that'll be the day,buddy holly+jerry allison+norman petty+gary busey,229932.0,651619.0
+the buddy holly story,1978.0,114.0,1200000.0,7.2,6483.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,corrine  corrina,j. mayo williams+mitchell parish+bo carter+big joe turner,742439.0,651635.0
+four jills in a jeep,1944.0,89.0,,6.8,328.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,4.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,(if you can't sing it) you'll have to swing it,sam coslow+martha raye  with jimmy dorsey+his orchestra,566395.0,443720.0
+this is it,2009.0,111.0,60000000.0,7.3,33333.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,24.5,pg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,heal the world,michael jackson+arrangement with sony music entertainment,391413.0,694893.0
+this is it,2009.0,111.0,60000000.0,7.3,33333.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,24.5,pg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,black or white (the clivilles & cole    radio mix),michael jackson,877186.0,694887.0
+this is it,2009.0,111.0,60000000.0,7.3,33333.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,24.5,pg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,black or white,michael jackson,15483.0,694887.0
+one mississippi,2011.0,7.0,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,how bout now  how bout right now (#1.5),ain't life a brook (album version),ferron foisy+ferron,939020.0,172272.0
+la linea,2009.0,95.0,7500000.0,5.3,3097.0,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,4.5,r,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,love me like a river does,melody gardot,201012.0,508198.0
+down,1999.0,,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,hot shot (hot shot (maxroxx remake)) 130 bpm,karen young,223756.0,420385.0
+the great everything & the nothing,2016.0,215.0,,9.2,14.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,84.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,still d.r.e.,dr. dre  ft. snoop dogg,25313.0,663054.0
+the great everything & the nothing,2016.0,215.0,,9.2,14.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,84.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,quiet houses/heard them stirring,fleet foxes,143162.0,663061.0
+the great everything & the nothing,2016.0,215.0,,9.2,14.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,84.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,the song remains the same (2007 remastered album version),jimmy page+robert plant+led zeppelin,44777.0,663053.0
+you can't hurry love,1988.0,92.0,,4.6,338.0,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,you can't hurry love  (lp version),eddie holland+lamont dozier+brian holland+phil collins+arrangement with warner special products,36942.0,729825.0
+drive angry,2012.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,you want the candy,sune wagner+the raveonettes,35583.0,421988.0
+the stag,2009.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,you are my sunshine,jimmie davis+the last tycoons,446951.0,685686.0
+terminal city ricochet,1990.0,107.0,,5.8,118.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,14.5,4.5,24.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,that's progress,jello biafra with d.o.a.,98709.0,641875.0
+final destination,2000.0,98.0,23000000.0,6.7,182654.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,r,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,all the candles in the world (lp version),jane siberry+arrangement with warner special products,685657.0,439346.0
+watercolor postcards,2013.0,115.0,2250000.0,5.1,217.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,14.5,pg-,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,help me make it through the night,kris kristofferson+laura bell bundy+conrad goode,461742.0,718156.0
+la personne aux deux personnes,2008.0,90.0,,5.7,772.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,no stress,laurent wolf,132033.0,508798.0
+the coming thing,1970.0,77.0,,3.8,5.0,24.5,0.0,44.5,0.0,0.0,44.5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,i ain't superstitious,willie dixon+the jeff beck group,744416.0,653689.0
+lou,2009.0,3.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,free,olivia waithe+eliseus joseph jr+julian griffith+livvi franc,317776.0,524309.0
+nativity 2: danger in the manger!,2012.0,105.0,,5.4,1647.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,jingle bells,james pierpont+the puppini sisters,395204.0,553264.0
+nativity 2: danger in the manger!,2012.0,105.0,,5.4,1647.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,rehab,amy winehouse,483312.0,553263.0
+nativity 2: danger in the manger!,2012.0,105.0,,5.4,1647.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,rehab,amy winehouse,935932.0,553263.0
+new orleans,1947.0,90.0,,6.8,256.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,honky tonk train blues,meade lux lewis,428207.0,555310.0
+new orleans,1947.0,90.0,,6.8,256.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,honky tonk train blues,meade lux lewis,486243.0,555310.0
+new orleans,1947.0,90.0,,6.8,256.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,honky tonk train blues,meade 'lux' lewis,868891.0,555310.0
+what happens in vegas,2008.0,99.0,35000000.0,6.1,141795.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,put a record on,rick webster+unkle bob+arrangement with zync music inc.,197350.0,720633.0
+what happens in vegas,2008.0,99.0,35000000.0,6.1,141795.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,flashdance...what a feeling,giorgio moroder+keith forsey+irene cara,441173.0,720630.0
+the girl,2009.0,10.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,love takes time,orleans+larry hoppen+marilyn mason+arrangment with spirit music group+inc.,415600.0,661731.0
+surviving christmas,2004.0,91.0,45000000.0,5.3,17446.0,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,coming home,keith slettedahl+the 88,487502.0,635798.0
+lip service,2013.0,90.0,,4.7,264.0,14.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,14.5,pg,0.0,0.0,0.0,1.0,0.0,1.0,0.0,(#1.4),cotton covering,zoey van goey,672614.0,139104.0
+lip service,2013.0,90.0,,4.7,264.0,14.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,14.5,pg,0.0,0.0,0.0,1.0,0.0,1.0,0.0,(#1.3),dancing in the moonlight (it's caught me in it's spotlight),thin lizzy,88509.0,139089.0
+lip service,2013.0,90.0,,4.7,264.0,14.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,14.5,pg,0.0,0.0,0.0,1.0,0.0,1.0,0.0,(#1.3),dancing in the moonlight,thin lizzy,201862.0,139089.0
+lip service,2013.0,90.0,,4.7,264.0,14.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,14.5,pg,0.0,0.0,0.0,1.0,0.0,1.0,0.0,(#1.5),we dont have that kind of bread,zoey van goey,413328.0,139111.0
+beware the gonzo,2010.0,94.0,,6.4,1296.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,light sweet crude (album),obits+rick froberg+sohrab habibion+scott gursky+greg simpson,209872.0,366207.0
+bound for glory,1976.0,120.0,,7.4,3624.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,the sinking of the reuben james,woody guthrie & jack elliott,668234.0,374749.0
+fever pitch,2005.0,104.0,30000000.0,6.2,36447.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,tessie,the dropkick murphys,633413.0,438524.0
+margot at the wedding,2007.0,93.0,10000000.0,6.1,15534.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,clair,gilbert o'sullivan,855243.0,533539.0
+rush,1983.0,77.0,,4.8,97.0,14.5,14.5,14.5,14.5,4.5,14.5,4.5,4.5,0.0,14.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,the south's gonna do it again,charlie daniels+the charlie daniels band+arrangement with sony music licensing,914105.0,600836.0
+strike!,2002.0,20.0,20000.0,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,come to me,otis redding+arrangement with warner special products,811635.0,632649.0
+the adventures of sebastian cole,1998.0,99.0,,6.9,1707.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,stuck in a phase,l.e.s. stitches,622127.0,645910.0
+the adventures of sebastian cole,1998.0,99.0,,6.9,1707.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,blank generation (remastered album version),richard hell & the voidoids,646430.0,645912.0
+bluesland: a portrait in american music,1993.0,85.0,,7.8,16.0,0.0,0.0,0.0,0.0,4.5,4.5,34.5,24.5,4.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,sweet little angel,b.b. king,194997.0,372258.0
+damages,2013.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,flights at 11:08 (#3.3),we're not gonna take it,hellsongs,484144.0,55803.0
+the world is just a 'b' movie,1971.0,90.0,,7.4,7.0,14.5,0.0,0.0,0.0,14.5,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,world is just a 'b' movie meets reno_ funtown_ u.s.a.,bob lind,163226.0,692175.0
+the butcher,2009.0,95.0,,5.5,624.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,14.5,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,mamma voglio anch'io la fidanzata,o. de santis+e. del pino+natalino otto,490146.0,651817.0
+catfish,2015.0,10.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,learning the lie,joel gibb+the hidden cameras,61786.0,386771.0
+the writer,2007.0,7.0,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,nice dream,radiohead tribute,276110.0,692522.0
+porky's ii: the next day,1983.0,98.0,6500000.0,4.9,8711.0,4.5,4.5,14.5,14.5,24.5,14.5,14.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,hearts of stone,eddie ray+rudy jackson+the fontane sisters,517277.0,580628.0
+porky's ii: the next day,1983.0,98.0,6500000.0,4.9,8711.0,4.5,4.5,14.5,14.5,24.5,14.5,14.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,hearts of stone,eddie ray+rudy jackson+the fontane sisters,574579.0,580628.0
+royal flash,1975.0,102.0,,6.7,1441.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,24.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,pomp and circumstance march no. 4 in g op. 39 no. 4 (1993 digital remaster),sir edward elgar,69026.0,599669.0
+a walk to beautiful,2007.0,85.0,,8.2,141.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,24.5,14.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,afrika,dave eggar+left of blue+tom rossi,906680.0,336778.0
+a walk to beautiful,2007.0,85.0,,8.2,141.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,24.5,14.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,deep blue,dave eggar+left of blue,50048.0,336776.0
+the shield,2002.0,12.0,,7.3,6.0,0.0,0.0,0.0,34.5,0.0,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,our gang (#1.2),promises,india.arie,286514.0,266954.0
+the shield,2002.0,12.0,,7.3,6.0,0.0,0.0,0.0,34.5,0.0,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,throwaway (#1.9),el capitan,kinto sol,494326.0,267033.0
+the shield,2002.0,12.0,,7.3,6.0,0.0,0.0,0.0,34.5,0.0,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,aint that a shame (#4.13),ain't that a shame,fats domino+david bartholomew+cheap trick,286315.0,266812.0
+the shield,2002.0,12.0,,7.3,6.0,0.0,0.0,0.0,34.5,0.0,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,two days of blood (#1.12),freedom band,delinquent habits,154942.0,267042.0
+the shield,2002.0,12.0,,7.3,6.0,0.0,0.0,0.0,34.5,0.0,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,back to one (#6.3),miles de pasajeros,supervielle,324099.0,266820.0
+the shield,2002.0,12.0,,7.3,6.0,0.0,0.0,0.0,34.5,0.0,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,partners (#2.3),the whole truth,michael penn,695229.0,266961.0
+the purifiers,2004.0,85.0,,3.4,655.0,34.5,14.5,14.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,r,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,caught by the river,doves,385599.0,680086.0
+strike!,1965.0,,,,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,come to me,otis redding+arrangement with warner special products,811635.0,632649.0
+tuno negro,2001.0,98.0,3000000.0,4.5,896.0,14.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,child is my name,kemopetrol,134840.0,704641.0
+bird,1988.0,161.0,9000000.0,7.2,9095.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,14.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,april in paris,charlie parker+barry harris+chuck berghofer,54681.0,368438.0
+the bleeding,2011.0,86.0,,5.2,1387.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,and it's alright,peter broderick,892960.0,649958.0
+the bleeding,2011.0,86.0,,5.2,1387.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,and it's alright,peter broderick,468706.0,649958.0
+the master,2012.0,144.0,32000000.0,7.1,106656.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,no other love (digitally remastered),bob russell+paul weston+jo stafford,305316.0,673105.0
+american beauty,1999.0,122.0,15000000.0,8.4,831630.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,24.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,as long as i'm singing (1989 digital remaster),bobby darin,635403.0,346333.0
+american beauty,1999.0,122.0,15000000.0,8.4,831630.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,24.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,cancer for the cure,mark oliver everett+mickey petralia+the eels,570143.0,346330.0
+vertige,2008.0,26.0,,6.3,6.0,14.5,0.0,14.5,0.0,0.0,0.0,0.0,45.5,0.0,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,alright,daniel goffey+gaz coombes+michael quinn+supergrass,88607.0,713022.0
+the 40 year old virgin,2005.0,133.0,26000000.0,7.1,316395.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,push it,hurby luv bug azor+ray davies+salt-n-pepa,733866.0,644175.0
+the 40 year old virgin,2005.0,133.0,26000000.0,7.1,316395.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,hello,lionel richie,679081.0,644183.0
+the 40 year old virgin,2005.0,133.0,26000000.0,7.1,316395.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,push it,hurby luv bug azor+ray davies+salt-n-pepa,47875.0,644175.0
+how i got into college,1989.0,86.0,,5.8,1766.0,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,love changes (everything),simon climie+rob fisher+dennis morgan+climie fisher,132761.0,476097.0
+lost,2007.0,6.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,the whole truth (#2.16),pushin' too hard,the seeds,906990.0,142174.0
+lost,2007.0,6.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,abandoned (#2.6),stay (wasting time),dave matthews band,114330.0,141888.0
+the help,2015.0,5.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,hallelujah i love her so,ray charles+arrangement with warner music group film+tv licensing,154431.0,664749.0
+the help,2015.0,5.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,the wah-watusi,dave appell+kal mann+the orlons,287980.0,664751.0
+tusk,2014.0,102.0,3000000.0,5.4,31840.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,clair de lune,claude debussy+the 101 strings orchestra,300292.0,704972.0
+the business of being born,2008.0,87.0,,7.4,1148.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,everything in its right place (bbc radio one evening session - 15/11/00),colin greenwood+jonny greenwood+ed obrien+thom yorke+radiohead,556119.0,651766.0
+baseketball,1998.0,103.0,,6.6,49048.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,take on me (live),pï¿½l waaktaar+magne furuholmen+morten harket+reel big fish,536352.0,356343.0
+baseketball,1998.0,103.0,,6.6,49048.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,glamour is a rocky road (album version),marston daley+frank nardiello+my life with the thrill kill kult,854454.0,356330.0
+une hirondelle a fait le printemps,2001.0,103.0,,6.8,1711.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,lullaby,pink martini,549447.0,709104.0
+this is it,2013.0,3.0,,7.2,102.0,0.0,0.0,4.5,4.5,4.5,14.5,34.5,24.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,heal the world,michael jackson+arrangement with sony music entertainment,391413.0,694893.0
+this is it,2013.0,3.0,,7.2,102.0,0.0,0.0,4.5,4.5,4.5,14.5,34.5,24.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,black or white (the clivilles & cole    radio mix),michael jackson,877186.0,694887.0
+this is it,2013.0,3.0,,7.2,102.0,0.0,0.0,4.5,4.5,4.5,14.5,34.5,24.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,black or white,michael jackson,15483.0,694887.0
+led zeppelin: celebration day,2012.0,124.0,,8.9,1643.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,44.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,trampled under foot (2007 remastered lp version),john paul jones+jimmy page+robert plant+led zeppelin,577868.0,514584.0
+led zeppelin: celebration day,2012.0,124.0,,8.9,1643.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,44.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,the song remains the same (2007 remastered album version),jimmy page+robert plant+led zeppelin,44777.0,514590.0
+led zeppelin: celebration day,2012.0,124.0,,8.9,1643.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,44.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,trampled under foot (album version),john paul jones+jimmy page+robert plant+led zeppelin,612823.0,514584.0
+from within,2011.0,3.0,,,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,1.0,,the trick to life,the hoosiers+arrangement with sony bmg music entertainment+irwin sparkes+martin skarendahl+alan sharland+arrangement with sony / atv music publishing uk limited,44866.0,446591.0
+somebody loves me,1952.0,97.0,,7.0,179.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,dixie dreams,arthur johnston+george w. meyer+betty hutton   in blackface,103547.0,621658.0
+pi,1998.0,84.0,60000.0,7.5,143534.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,bucephalus bouncing ball [chosen by warp co-founder steve beckett],aphex twin,648180.0,576198.0
+undercover brother,2002.0,85.0,25000000.0,5.8,29769.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,pg-13,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,pick up the pieces (lp version),alan gorrie+roger ball+onnie mcintyre+hamish stuart+average white band+arrangement with bug+arrangement with warner special products,106593.0,708715.0
+undercover brother,2002.0,85.0,25000000.0,5.8,29769.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,pg-13,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,car wash,norman whitfield+rose royce,119184.0,708743.0
+undercover brother,2002.0,85.0,25000000.0,5.8,29769.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,pg-13,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,pick up the pieces,alan gorrie+roger ball+onnie mcintyre+hamish stuart+average white band+arrangement with bug+arrangement with warner special products,365768.0,708715.0
+undercover brother,2002.0,85.0,25000000.0,5.8,29769.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,pg-13,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,brick house,lionel richie+ronald lapread+walter orange+milan williams+the commodores,636380.0,708732.0
+me  myself & irene,2000.0,116.0,51000000.0,6.5,187297.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,reelin' in the years,donald fagen+walter becker  )+marvelous 3,308979.0,536406.0
+third world cop,1999.0,98.0,,6.3,309.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,r,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,bad man story,a. bradford+r. browne+buccaneer,3534.0,694290.0
+dogtown and z-boys,2001.0,91.0,,7.7,10437.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,14.5,pg-13,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,bold as love,the jimi hendrix experience,460253.0,417943.0
+joy division,2010.0,7.0,,8.0,14.0,4.5,0.0,0.0,0.0,0.0,24.5,14.5,0.0,4.5,45.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,i remember nothing [2007 re-mastered album version],joy division+ian curtis    / peter hook    / bernard sumner   / stephen morris,86696.0,494359.0
+beverly hills cop iii,1994.0,104.0,55000000.0,5.5,60856.0,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,4.5,r,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,the place where you belong,carl martin+trey lorenz+darnell van rensalier+marc gay+garfield bright+shai,771209.0,366110.0
+anna,1995.0,,,7.9,15.0,14.5,0.0,0.0,0.0,0.0,14.5,0.0,14.5,4.5,45.5,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,roller girl,michel colombier  et son orchestre+anna karina,191301.0,350434.0
+burning palms,2010.0,105.0,5000000.0,5.4,2276.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,differently,cassie davis+printz board+arrangement with artists first music,436207.0,380513.0
+strange wilderness,2008.0,87.0,20000000.0,5.3,18718.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,14.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,lookin for trouble ii,amanda taylor+kim wilson,750844.0,631939.0
+county kilburn,2000.0,81.0,,6.7,52.0,4.5,4.5,4.5,4.5,4.5,24.5,14.5,14.5,14.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,dancing with tears in my eyes (live at the roundhouse),midge ure+warren cann+billy currie+chris cross+ultravox,826713.0,399227.0
+county kilburn,2000.0,81.0,,6.7,52.0,4.5,4.5,4.5,4.5,4.5,24.5,14.5,14.5,14.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,rudy  a message to you,dandy livingstone,752878.0,399230.0
+county kilburn,2000.0,81.0,,6.7,52.0,4.5,4.5,4.5,4.5,4.5,24.5,14.5,14.5,14.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,dancing with tears in my eyes (2009 digital remaster),midge ure+warren cann+billy currie+chris cross+ultravox,711374.0,399227.0
+varjoja paratiisissa,1986.0,76.0,,7.6,3025.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,34.5,14.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,strange kinda feeling (take 4),elmore james+joe josea,5858.0,712028.0
+ellis in glamourland,2004.0,95.0,,5.8,856.0,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,dance valley theme 2001,f. corsten+system f,173618.0,428908.0
+ellis in glamourland,2004.0,95.0,,5.8,856.0,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,dance valley theme 2001,f. corsten+system f,28228.0,428908.0
+ellis in glamourland,2004.0,95.0,,5.8,856.0,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,dance valley theme 2001,f. corsten+system f,357554.0,428908.0
+star 80,1983.0,103.0,,6.6,4316.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,let the good times roll,shirley goodman+leonard lee,216781.0,628142.0
+star 80,1983.0,103.0,,6.6,4316.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,let the good times roll,shirley goodman+leonard lee,767944.0,628142.0
+pollock,2000.0,132.0,6000000.0,7.0,23171.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,mahogany hall stomp,spencer williams+louis armstrong+arrangement with sony music licensing,387353.0,579519.0
+swooner crooner,1944.0,7.0,,7.5,393.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,blues in the night,harold arlen+cartoon parody of cab calloway,742343.0,637440.0
+papurika,2006.0,90.0,,7.7,44968.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,14.5,r,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,the blind spot in a corridor,susumu hirasawa,800010.0,571040.0
+post mortem,2001.0,10.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,dark was the night,blind willie johnson,207454.0,581169.0
+the anniversary party,2001.0,115.0,,6.4,7424.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,too much too young (live),jerry dammers+the specials,731645.0,646674.0
+the replacement killers,1998.0,96.0,30000000.0,6.1,23485.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,33,jerrad shain+wes ger+ben vaught+hed planet earth   pe),852572.0,681073.0
+wreckers,2011.0,85.0,,6.1,2029.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,clair de lune,claude debussy,300292.0,727295.0
+cure for love,2008.0,59.0,,6.3,7.0,14.5,14.5,0.0,0.0,0.0,0.0,24.5,14.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,consuming fire,tim hughes+faythom,499527.0,402004.0
+nouvelle vague,1990.0,89.0,,7.2,1081.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,24.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,far away lights,david darling,687194.0,560471.0
+human traffic,2011.0,3.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,out of the blue 2010,ferry corsten+system f,61084.0,477418.0
+human traffic,2011.0,3.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,out of the blue 2010,ferry corsten+system f,797767.0,477418.0
+human traffic,2011.0,3.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,out of the blue 2010,ferry corsten+system f,714117.0,477418.0
+human traffic,2011.0,3.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,out of the blue 2010,ferry corsten+system f,566936.0,477418.0
+the rocketeer,1991.0,108.0,35000000.0,6.4,43990.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,in a sentimental mood,duke ellington / john coltrane,205268.0,682002.0
+empire me - der staat bin ich!,2011.0,100.0,,6.7,117.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,weeping rock  rock,mï¿½m,854484.0,430053.0
+made of honor,2008.0,101.0,40000000.0,6.6,5.0,0.0,0.0,44.5,0.0,0.0,0.0,24.5,0.0,0.0,44.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,two tribes,holly johnson+mark otoole+peter gill+frankie goes to hollywood,815076.0,529255.0
+yellowknife,2002.0,110.0,,6.6,159.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,14.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,sugar daddy version allongée,carlyle miller+patsy gallant,945036.0,728866.0
+hard knocks,1980.0,85.0,,6.2,27.0,4.5,0.0,4.5,24.5,14.5,24.5,4.5,4.5,14.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,most people i know (think that im crazy),billy thorpe,369315.0,464191.0
+mercedes sosa: como un p?jaro libre,1983.0,69.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,solo le pido a dios,leï¿½n gieco+mercedes sosa,84827.0,538601.0
+fausto 5.0,2001.0,94.0,,6.4,1273.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,variations on a cocktail dress,the dellinger escape plan (brian benoit+adam doll+dimitri minakakis+chris pennie,673082.0,437528.0
+bill,2011.0,11.0,0.0,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,start being nicer (tomorrow-mix by pet),holger schuhmann+kenn steen+torpedo boyz,450131.0,367893.0
+million dollar legs,1932.0,64.0,,7.2,630.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,pomp and circumstance march no. 4 in g op. 39 no. 4 (1993 digital remaster),sir edward elgar,69026.0,541173.0
+rockshow,1980.0,129.0,,7.9,280.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,live and let die,linda mccartney   / paul mccartney,323850.0,597530.0
+nos vies heureuses,1999.0,145.0,,6.5,194.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,a ton ï¿½toile,bertrand cantat+noir dï¿½sir,713001.0,559627.0
+jam,1999.0,,,8.5,14.0,14.5,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,74.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,screen kiss,thomas dolby,820123.0,123420.0
+jam,1999.0,,,8.5,14.0,14.5,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,74.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,i will be your friend,sade+stuart matthewman,829925.0,123412.0
+jam,1999.0,,,8.5,14.0,14.5,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,74.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,river of smack,funki porcini,539689.0,123442.0
+joy division,2007.0,93.0,,7.8,2591.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,14.5,r,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,i remember nothing [2007 re-mastered album version],joy division+ian curtis    / peter hook    / bernard sumner   / stephen morris,86696.0,494359.0
+anna,1964.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,roller girl,michel colombier  et son orchestre+anna karina,191301.0,350434.0
+chicago overcoat,2009.0,94.0,3000000.0,6.2,712.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,r,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,done got old,junior kimbrough+buddy guy+arrangement with sony music entertainment,146344.0,390126.0
+u2: under a blood red sky,1983.0,82.0,,8.4,635.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,new year's day,u2+lyrics by bono,644693.0,706518.0
+u2: under a blood red sky,1983.0,82.0,,8.4,635.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,11 o'clock tick tock,u2+lyrics by bono,276828.0,706523.0
+fakta homma,1987.0,95.0,,5.2,135.0,14.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,vanhan vaahteran laulu,eino partanen+jaakko salo,653976.0,435811.0
+mr. nobody,2009.0,157.0,47000000.0,7.9,152615.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,24.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,rum and coca cola,lionel belasco+the lord invador+the andrews sisters,306072.0,546889.0
+mr. nobody,2009.0,157.0,47000000.0,7.9,152615.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,24.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,rum and coca cola,lionel belasco+the lord invador+the andrews sisters,491049.0,546889.0
+the last supper,2000.0,23.0,,8.0,10.0,0.0,0.0,0.0,0.0,34.5,0.0,0.0,24.5,14.5,44.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,top of the world,richard carpenter+john bettis+shonen knife,744986.0,669525.0
+the last supper,2000.0,23.0,,8.0,10.0,0.0,0.0,0.0,0.0,34.5,0.0,0.0,24.5,14.5,44.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,soft shoulder,ani difranco,893475.0,669528.0
+roadkill,1989.0,85.0,,7.1,499.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,14.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,to love is to bury,cowboy junkies,727936.0,596117.0
+roadkill,1989.0,85.0,,7.1,499.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,14.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,200 more miles,cowboy junkies,919860.0,596116.0
+that evening sun,2009.0,109.0,,7.1,2286.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,blue yodel #12,jimmie rodgers+hal holbrook,404418.0,642761.0
+sing  bing  sing,1933.0,19.0,,6.5,49.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,0.0,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,between the devil & the deep blue sea (swing concert congress hotel chicago april 18_ 1937),harold arlen+bing crosby,457222.0,616285.0
+heavy petting,1991.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,whole lotta shakin goin on,sunny david+curly williams+ricky nelson,232541.0,467229.0
+heavy petting,1991.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,annie had a baby,henry glover+lois mann+hank ballard+the midnighters  (as hank ballard+the midnighters),606990.0,467209.0
+heavy petting,1991.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,so fine,the fiestas,469953.0,467226.0
+garbage! the revolution starts at home,2007.0,76.0,,6.4,22.0,0.0,4.5,4.5,0.0,14.5,14.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,lantern on the water  the mop  paparazzi  funfair,shugo tokumanu,120917.0,448948.0
+accidental love,2015.0,100.0,26000000.0,4.0,5176.0,14.5,14.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,at last,etta james,433468.0,339057.0
+cool it,2010.0,87.0,,6.9,730.0,14.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,24.5,pg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,bossa soundcheck - instrumental,kero one,311542.0,398235.0
+blur,2004.0,24.0,50000.0,8.8,18.0,14.5,0.0,0.0,0.0,0.0,0.0,0.0,4.5,14.5,74.5,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,everything is under control,coldcut,959101.0,372313.0
+valentines day,2014.0,13.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,when a man loves a woman,calvin lewis+andrew wright+percy sledge+arrangement with fine gold music,573369.0,711218.0
+valentines day,2014.0,13.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,heartbreaker,will.i.am / cheryl cole,431761.0,711220.0
+valentines day,2014.0,13.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,when a man loves a woman,calvin lewis+andrew wright+percy sledge+arrangement with fine gold music,819048.0,711218.0
+valentines day,2014.0,13.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,when a man loves a woman,calvin lewis+andrew wright+percy sledge+arrangement with fine gold music,852687.0,711218.0
+tin sun yut dui,2006.0,98.0,,6.2,196.0,4.5,0.0,4.5,4.5,14.5,24.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,you'll shine again,justin lo,733405.0,697580.0
+wasting away,2008.0,6.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,take the skinheads bowling,camper van beethoven,76500.0,717973.0
+revenge,2009.0,4.0,,,,,,,,,,,,,,r,0.0,1.0,0.0,1.0,0.0,0.0,1.0,execution (#3.22),softly  as i leave you,hal shaper+antonio de vita+bobby darin,630680.0,195291.0
+river of no return,1954.0,91.0,2195000.0,6.7,7809.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,down in the meadow,marilyn monroe+lionel newman,617840.0,595711.0
+the last american virgin,1982.0,92.0,,6.2,6119.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,whip it,devo,140356.0,668823.0
+the last american virgin,1982.0,92.0,,6.2,6119.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,keep on loving you,reo speedwagon,405936.0,668820.0
+the last american virgin,1982.0,92.0,,6.2,6119.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,oh no,the commodores,520270.0,668815.0
+the last american virgin,1982.0,92.0,,6.2,6119.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,i know what boys like,the waitresses,304009.0,668817.0
+the last american virgin,1982.0,92.0,,6.2,6119.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,de do do do  de da da da,sting+the police,198445.0,668810.0
+not a photograph: the mission of burma story,2006.0,70.0,,7.3,37.0,4.5,0.0,0.0,0.0,4.5,4.5,45.5,24.5,4.5,4.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,fame and fortune,roger miller+mission of burma,232392.0,560009.0
+appointment in vancouver,2009.0,34.0,250000.0,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,enter,russian circles,119062.0,352060.0
+not another teen movie,2001.0,99.0,15000000.0,5.7,80890.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,yoo - hoo,roddy bottum+lynn perko+will schwartz+joan stebbins+imperial teen+arrangement with warner special products,838517.0,559711.0
+whatever works,2009.0,93.0,15000000.0,7.2,59531.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,desafinado,antonio carlos jobim+newton mendonca+stan getz+charlie byrd,539271.0,721443.0
+whatever works,2009.0,93.0,15000000.0,7.2,59531.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,if i could be with you (one hour tonight),henry creamer+james p. johnson+jackie gleason,19237.0,721438.0
+i spill your guts,2012.0,90.0,60000.0,2.5,112.0,44.5,14.5,14.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,endtrails of you,suffocation,633939.0,479807.0
+la mujer de mi vida,2001.0,103.0,,4.6,36.0,14.5,4.5,4.5,24.5,24.5,14.5,4.5,4.5,0.0,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,la mujer de mi vida,ricardo montaner+piero cassano+jorge luis chacï¿½n,413393.0,132820.0
+the master of disguise,2002.0,80.0,16000000.0,3.3,18334.0,34.5,14.5,14.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,pg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,chariots of fire,vangelis,938703.0,673125.0
+the master of disguise,2002.0,80.0,16000000.0,3.3,18334.0,34.5,14.5,14.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,pg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,irresistible,anders bagge+pam sheyne+arnthor birgisson+jessica simpson+arrangement with sony music licensing,450576.0,673138.0
+the master of disguise,2002.0,80.0,16000000.0,3.3,18334.0,34.5,14.5,14.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,pg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,irresistible,anders bagge+pam sheyne+arnthor birgisson+jessica simpson+arrangement with sony music licensing,501562.0,673138.0
+not fade away,2010.0,13.0,10000.0,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,1.0,1.0,,road runner,jonathan richman+the sex pistols,350804.0,559896.0
+not fade away,2010.0,13.0,10000.0,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,1.0,1.0,,i want to tell you (live) (2004 digital remaster),george harrison+the beatles,417722.0,559888.0
+die ?sterreichische methode,2006.0,93.0,,7.0,135.0,4.5,4.5,0.0,0.0,4.5,4.5,4.5,4.5,14.5,64.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,tomorrow  tomorrow,elliott smith,502526.0,414907.0
+once upon a time,2014.0,3.0,0.0,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,operation mongoose: part 1 (#4.22),jingle bell rock,bobby helms,911002.0,171311.0
+once upon a time,2014.0,3.0,0.0,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,operation mongoose: part 1 (#4.22),jingle bell rock,bobby helms,864608.0,171311.0
+subterranean,1999.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,louis xiv,finding out true love is blind (jimmy kimmel live version),louis xiv,940124.0,228159.0
+subterranean,1999.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,the streets,gray ghost,the fever,689956.0,228185.0
+subterranean,1999.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,the music,black and white town (david holmes remix),doves,599337.0,228178.0
+war dogs,2016.0,114.0,40000000.0,7.2,22577.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,christmas (baby please come home),jeff barry+ellie greenwich+phil spector+darlene love,280030.0,717439.0
+war dogs,2016.0,114.0,40000000.0,7.2,22577.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,dimension,andrew stockdale+chris ross+myles heskett+wolfmother,939128.0,717429.0
+war dogs,2016.0,114.0,40000000.0,7.2,22577.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,girl_ you'll be a woman soon,neil diamond,439716.0,717432.0
+war dogs,2016.0,114.0,40000000.0,7.2,22577.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,the last word in lonesome,cliff martinez+randy miller,668130.0,717433.0
+carmen miranda: bananas is my business,1995.0,91.0,,7.9,204.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,the lady in the tutti frutti hat,harry warren+carmen miranda,101534.0,385108.0
+the kremlin letter,1970.0,120.0,,6.4,1336.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,stay,maurice williams & the zodiacs,735883.0,668416.0
+the kremlin letter,1970.0,120.0,,6.4,1336.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,stay young,maurice williams,948852.0,668416.0
+the kremlin letter,1970.0,120.0,,6.4,1336.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,stay,maurice williams & the zodiacs,518981.0,668416.0
+kissing a fool,1998.0,93.0,,5.6,4357.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,ready for love,bad company,475278.0,502536.0
+kissing a fool,1998.0,93.0,,5.6,4357.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,be your own (lp version),rebekah,701778.0,502533.0
+me myself i,1999.0,100.0,,6.5,2374.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,breakfast radio,charlie christian,36035.0,536158.0
+born to win,1971.0,88.0,,5.7,1228.0,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,ooh poo pah doo,ike turner+tina turner,275843.0,374259.0
+perkele! kuvia suomesta,1971.0,104.0,,7.0,381.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,laulu nesteestï¿½,m.a. numminen,532624.0,574812.0
+die hard with a vengeance,1995.0,128.0,90000000.0,7.6,301541.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,34.5,14.5,4.5,r,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,off minor,thelonious monk septet,942652.0,414141.0
+die antwort kennt nur der wind,1974.0,,,5.8,70.0,4.5,0.0,14.5,14.5,34.5,14.5,14.5,4.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,blowin in the wind (uncredited),bob dylan,317561.0,413915.0
+the key,2007.0,15.0,2000.0,6.2,6.0,34.5,0.0,0.0,0.0,0.0,0.0,14.5,14.5,0.0,34.5,,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,flat foot floogie,slim gaillard+slam stewart+the chorus girls,333952.0,667892.0
+spooner,2009.0,83.0,,5.8,496.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,stanley vs hannah,alamo race track+ralph mulder,254287.0,626602.0
+middle of nowhere,2010.0,14.0,,8.3,17.0,0.0,0.0,0.0,14.5,14.5,4.5,4.5,0.0,0.0,64.5,,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,didddie wa diddie,blind blake,263228.0,540250.0
+wake,2006.0,7.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,dynamite (album),the mother truckers+josh zee+teal collins,22302.0,716497.0
+wasting away,2007.0,87.0,1000000.0,5.7,2552.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,take the skinheads bowling,camper van beethoven,76500.0,717973.0
+veronika decides to die,2009.0,103.0,9000000.0,6.5,10202.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,14.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,everything in its right place (bbc radio one evening session - 15/11/00),thom yorke   / phil selway  / ed obrien    / jonny greenwood   / colin greenwood+radiohead,556119.0,712974.0
+veronika decides to die,2009.0,103.0,9000000.0,6.5,10202.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,14.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,vem vet,lisa ekdahl,418327.0,712976.0
+things to do,2006.0,85.0,,5.2,454.0,14.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,24.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,nature of the experiment,tokyo police club,815643.0,694111.0
+scam,2001.0,17.0,,5.2,6.0,34.5,0.0,14.5,0.0,0.0,14.5,0.0,0.0,0.0,34.5,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,remember me,lucky dube+richard siluma,322240.0,605656.0
+scam,2001.0,17.0,,5.2,6.0,34.5,0.0,14.5,0.0,0.0,14.5,0.0,0.0,0.0,34.5,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,it's not easy,lucky dube,673090.0,605658.0
+life,2000.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,banana in your fruit basket,bo carter+arrangement with sony music licensing,73409.0,518193.0
+life,2000.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,what would you do?,robby pardlo+ryan toby+city high,49131.0,518202.0
+life,2000.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,what would you do?,robby pardlo+ryan toby+city high,526943.0,518202.0
+io e te,2012.0,103.0,,6.6,4169.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,sing for absolution [full length us remix],muse,532101.0,486466.0
+two tickets to paradise,2011.0,10.0,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,from the back,al kapone+d. hughes,859616.0,705921.0
+the movie orgy,1968.0,259.0,,8.1,72.0,4.5,4.5,0.0,4.5,4.5,4.5,4.5,24.5,14.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,walk like a man,bob crewe+bob gaudio+frankie valli+the four seasons,47141.0,674496.0
+the wendell baker story,2005.0,99.0,8000000.0,5.5,5174.0,14.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,kiss an angel good morning,ben peters+charley pride+arrangement with sony bmg music licensing,127549.0,690868.0
+the wendell baker story,2005.0,99.0,8000000.0,5.5,5174.0,14.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,kiss an angel good morning,ben peters+charley pride+arrangement with sony bmg music licensing,397609.0,690868.0
+making love,1982.0,113.0,,6.8,1923.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,the goodbye look (album version),donald fagen,371095.0,531132.0
+black and blue,1981.0,87.0,,8.1,42.0,0.0,0.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,cities on flame with rock and roll,blue ï¿½yster cult,161034.0,369468.0
+act one,2005.0,100.0,10000.0,7.8,30.0,4.5,0.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,34.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,all of me,billie holiday,113500.0,339386.0
+indian summer,1996.0,98.0,,6.2,675.0,14.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,hello muddah_ hello faddah (album version),allan sherman+lou busch,705622.0,484828.0
+indian summer,1996.0,98.0,,6.2,675.0,14.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,ready for love,mick ralphs+bad company,475278.0,484826.0
+memphis rising: elvis returns,2011.0,101.0,1000000.0,7.0,43.0,24.5,0.0,0.0,0.0,4.5,4.5,4.5,4.5,4.5,45.5,,1.0,0.0,1.0,1.0,0.0,0.0,0.0,,suspicious minds,francis zambon+elvis presley,434999.0,538145.0
+teresa brewer and the firehouse five plus two,1951.0,16.0,10000.0,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,old man mose,louis armstrong+zilner randolph+teresa brewer,642078.0,641799.0
+teresa brewer and the firehouse five plus two,1951.0,16.0,10000.0,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,old man mose,louis armstrong+zilner randolph+teresa brewer,961381.0,641799.0
+down,2001.0,111.0,15000000.0,4.4,3017.0,14.5,14.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,4.5,r,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,hot shot (hot shot (maxroxx remake)) 130 bpm,karen young,223756.0,420385.0
+of all the things,2012.0,105.0,,7.6,16.0,4.5,0.0,0.0,0.0,4.5,4.5,24.5,24.5,0.0,34.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,nightshift,dennis lambert+franne golde+walter orange+the commodores,493318.0,563239.0
+der krieger und die kaiserin,2000.0,135.0,,7.6,13082.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,autumnal,arab strap,55446.0,411022.0
+zoom,2007.0,3.0,,5.6,5.0,0.0,0.0,0.0,0.0,64.5,24.5,24.5,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,superman (it's not easy),john ondrasik+five for fighting+arrangement with sony bmg music entertainment,825170.0,732735.0
+zoom,2007.0,3.0,,5.6,5.0,0.0,0.0,0.0,0.0,64.5,24.5,24.5,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,the middle,jim adkins+rick burch+jimmy eat world,662100.0,732736.0
+siete mesas de billar franc?s,2007.0,116.0,,6.7,480.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,parque triana,miguel campello+carlos tato moreno+elbicho,118678.0,614802.0
+dawna of the dead,2008.0,71.0,,5.0,72.0,24.5,14.5,4.5,4.5,14.5,4.5,4.5,4.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,what the world needs now is love (reprise),burt bacharach+hal david+tree adams,252909.0,406655.0
+ashes to ashes,2010.0,16.0,,,,,,,,,,,,,,,0.0,0.0,1.0,1.0,0.0,0.0,1.0,(#1.7),police on my back,the clash,200208.0,17234.0
+the jazz singer,1980.0,115.0,,5.7,2951.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,amazed and confused,neil diamond+richard bennett,953688.0,667328.0
+the secret life of walter mitty,2013.0,114.0,90000000.0,7.3,238697.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,pg,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,escape (the pina colada song),rupert holmes+jack johnson,225612.0,683491.0
+now & forever,2002.0,101.0,,6.4,397.0,4.5,4.5,4.5,4.5,14.5,14.5,4.5,14.5,4.5,24.5,r,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,souls,chantal kreviazuk,783268.0,560604.0
+the help,2011.0,146.0,25000000.0,8.1,322707.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,hallelujah i love her so,ray charles+arrangement with warner music group film+tv licensing,154431.0,664749.0
+the help,2011.0,146.0,25000000.0,8.1,322707.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,the wah-watusi,dave appell+kal mann+the orlons,287980.0,664751.0
+get over it,1996.0,78.0,,7.5,14.0,4.5,0.0,4.5,4.5,4.5,14.5,0.0,0.0,0.0,45.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,morse,george evelyn+robin taylor-firth+nightmares on wax,888233.0,450750.0
+all the wilderness,2014.0,85.0,,5.8,1002.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,escarpment,no age,690316.0,344237.0
+love and music,1971.0,83.0,,7.7,40.0,0.0,4.5,0.0,0.0,4.5,24.5,14.5,24.5,4.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,so sad,canned heat,135570.0,525614.0
+love and music,1971.0,83.0,,7.7,40.0,0.0,4.5,0.0,0.0,4.5,24.5,14.5,24.5,4.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,wasted union blues,david laflamme+its a beautiful day,585289.0,525617.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,cypress grove blues,skip james,878304.0,685203.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,jesus is a might good leader,skip james,212873.0,685195.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,devil got my woman,skip james+the jon spencer blues explosion,818051.0,685188.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,devil got my woman,skip james,818051.0,685215.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,dark was the night  cold was the ground,blind willie johnson,207454.0,685173.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,illinois blues,skip james,75185.0,685185.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,john the revelator,blind willie johnson,680599.0,685177.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,vietnam blues,j.b. lenoir,296997.0,685176.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,hard time killing floor blues,skip james,712655.0,685183.0
+the soul of a man,2003.0,103.0,,7.5,686.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,hard time killing floor blues,skip james+lucinda williams,712655.0,685194.0
+she's having a baby,1988.0,106.0,,5.8,9216.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,apron strings (live),ben watt+tracey thorn+everything but the girl,231134.0,611899.0
+worst case scenario,2014.0,82.0,,6.5,19.0,0.0,4.5,14.5,0.0,4.5,24.5,24.5,4.5,14.5,14.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,time is running out,tony bonanno+paul burch+joe sparks+burning image,834257.0,727204.0
+sweet november,2001.0,115.0,40000000.0,6.7,70800.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,middle of the night (album version),paul brown+roberto vally+rick braun,364385.0,636687.0
+copa de elite,2014.0,109.0,,4.1,386.0,14.5,14.5,14.5,4.5,14.5,14.5,4.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,não vem que não tem (nem vem que não) (1997 digital remaster),wilson simonal,91851.0,398431.0
+the who's tommy  the amazing journey,1993.0,59.0,,7.7,58.0,0.0,4.5,4.5,0.0,14.5,4.5,14.5,14.5,4.5,34.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,won't get fooled again (bonustrack),pete townshend,305726.0,691105.0
+out of sight,1966.0,87.0,,5.7,63.0,4.5,4.5,4.5,14.5,4.5,14.5,14.5,4.5,0.0,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,funny over you,freddie garrity+freddie+the dreamers,54770.0,568748.0
+space is the place,1974.0,85.0,,6.7,594.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,space is the place,sun ra+his intergalactic solar arkestra,842721.0,625023.0
+space is the place,1974.0,85.0,,6.7,594.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,we travel the spaceways,sun ra+his intergalactic solar arkestra,820543.0,625017.0
+the thomas crown affair,1999.0,113.0,48000000.0,6.8,73512.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,everything (...is never quite enough),wasis diop+xavier derouin+beth hirsch,100977.0,687653.0
+waiting for the light,1990.0,94.0,,6.1,318.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,the loco-motion,carole king+gerry goffin+little eva,32184.0,716371.0
+waiting for the light,1990.0,94.0,,6.1,318.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,working in the coal mine (live),allen toussaint+lee dorsey,416790.0,716372.0
+waiting for the light,1990.0,94.0,,6.1,318.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,4.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,working in the coal mine,allen toussaint+lee dorsey,7803.0,716372.0
+the firm,2004.0,4.0,,,,,,,,,,,,,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,mad world,tears for fears,521307.0,659892.0
+reasons to kill,2015.0,15.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,one more day,harry gregson-williams+sinï¿½ad oconnor,497321.0,590555.0
+remote control,1930.0,65.0,,7.4,461.0,4.5,4.5,4.5,4.5,4.5,4.5,4.5,34.5,4.5,24.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,just a little closer,joseph meyer+charles king,387682.0,592174.0
+family meeting,2011.0,4.0,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,ride on red,louisiana red+wentus blues band,622479.0,436310.0
+une nouvelle amie,2014.0,108.0,,6.5,4841.0,4.5,4.5,4.5,4.5,14.5,24.5,34.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,follow me,amanda lear,20581.0,709114.0
+dumb and dumber to,2014.0,109.0,35000000.0,5.7,98425.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,relax baby be cool,serge gainsbourg+stereo total+arrangement with bank robber music,901869.0,423259.0
+dumb and dumber to,2014.0,109.0,35000000.0,5.7,98425.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,vehicle,jim peterik+the ides of march,163041.0,423250.0
+the good shepherd,2004.0,91.0,,5.2,1208.0,4.5,4.5,4.5,14.5,24.5,24.5,4.5,4.5,4.5,4.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,the whiffenpoof song (baa! baa! baa!),george s. pomeroy+meade minnigerode+tod b. galloway+rev. by rudy vallee,712029.0,662614.0
+soul mates,2007.0,22.0,,,,,,,,,,,,,,,0.0,0.0,1.0,1.0,0.0,1.0,1.0,,black is the colour,cara dillon,73474.0,623929.0
+the motel life,2012.0,85.0,,6.0,2924.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,wait,jamie hince+alison mosshart+the kills,831103.0,674387.0
+feestje,2004.0,95.0,,4.4,395.0,14.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,don't say that you love me,tjeerd oosterhuis+trijntje oosterhuis,691839.0,437947.0
+the libertines: there are no innocent bystanders,2011.0,87.0,,7.3,222.0,4.5,0.0,4.5,4.5,4.5,14.5,24.5,24.5,4.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,up the bracket,the libertines,110696.0,670138.0
+big momma's house,2000.0,99.0,30000000.0,5.1,67484.0,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,4.5,pg-13,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,what i'm gon' do to you,kandi burruss+kevin shekspere briggs+bernard edwards,694825.0,367278.0
+roskisprinssi,2011.0,100.0,,5.6,251.0,4.5,4.5,4.5,14.5,14.5,24.5,14.5,14.5,4.5,4.5,,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,yhtenï¿½ iltana,hector,137967.0,599179.0
+the look of love,2015.0,9.0,,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,gopher mambo,conrad gozzo+billy may+yma sumac,495037.0,671361.0
+the drifter,1970.0,30.0,,,,,,,,,,,,,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,mountaineers,count me out,jack pruett+marty robbins,816991.0,242902.0
+the drifter,1970.0,30.0,,,,,,,,,,,,,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,ghost town,man walks among us,marty robbins,389156.0,242884.0
+the drifter,1970.0,30.0,,,,,,,,,,,,,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,the barn dance,i couldn't keep from crying,marty robbins+bobby sykes+don winters,103649.0,242932.0
+the drifter,1970.0,30.0,,,,,,,,,,,,,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,virginia,streets of laredo,marty robbins,833955.0,242957.0
+one knight stand,2014.0,,100000.0,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,macs day out (#1.4),fly high michelle (lp version),enuff z'nuff,73317.0,172346.0
+the waterboy,1998.0,90.0,20000000.0,6.1,120503.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,block rockin' beats (2003 digital remaster),tom rowlands+ed simons+schooly-d+the chemical brothers,959821.0,690367.0
+gimme shelter,1970.0,91.0,,7.9,8228.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,i've been loving you too long (remastered stereo album version),otis redding+jerry butler+ike+tina turner,558163.0,451853.0
+gimme shelter,1970.0,91.0,,7.9,8228.0,4.5,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,six days on the road,earl green+carl b. montgomery+the flying burrito brothers,854741.0,451855.0
+outnumbered,2011.0,12.0,,5.9,7.0,44.5,0.0,0.0,0.0,0.0,0.0,0.0,14.5,0.0,44.5,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,the robbers (#3.0),frankie's gun!,the felice brothers,645536.0,176269.0
+standing still,2000.0,11.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,you ain't seen nothing yet,randy bachman+bachman-turner overdrive,282131.0,627995.0
+strike!,2001.0,10.0,,5.1,8.0,24.5,0.0,0.0,24.5,0.0,14.5,14.5,14.5,0.0,14.5,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,come to me,otis redding+arrangement with warner special products,811635.0,632649.0
+phil ochs: there but for fortune,2010.0,96.0,,7.6,321.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,draft dodger rag,phil ochs,947321.0,575977.0
+phil ochs: there but for fortune,2010.0,96.0,,7.6,321.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,chords of fame,phil ochs,584187.0,575976.0
+phil ochs: there but for fortune,2010.0,96.0,,7.6,321.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,14.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,links on the chain (lp version),phil ochs,331154.0,575981.0
+miss match,2007.0,3.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,whos sari now? (#1.11),worn me down,rachael yamagata;malcolm burn,171566.0,155103.0
+without limits,1998.0,117.0,25000000.0,7.2,5872.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,14.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,tamalpais high (at about 3) (2006 remastered lp version),david crosby,898795.0,726097.0
+more,1969.0,112.0,,6.6,1625.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,up the khyber (1996 digital remaster),nick mason+richard wright+pink floyd,314810.0,545071.0
+ray,2003.0,9.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,hallelujah i love her so,ray charles,154431.0,590132.0
+ray,2003.0,9.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,drinkin' wine spo-dee-o-dee,stick mcghee+j. mayo williams+arrangement with warner strategic marketing,296517.0,590121.0
+ray,2003.0,9.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,the midnight hour,sam sweet+ray charles+arrangement with warner strategic marketing,30572.0,590126.0
+ray,2003.0,9.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,mess around (lp version),ahmet ertegun+ray charles+curtis armstrong,221527.0,590129.0
+what planet are you from?,2000.0,105.0,60000000.0,5.6,8099.0,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,jingle bell rock,joe beal+jim boothe+bobby helms,864608.0,720744.0
+what planet are you from?,2000.0,105.0,60000000.0,5.6,8099.0,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,lady marmalade,bob crewe+kenny nolan+labelle+arrangement with sony music licensing,653128.0,720740.0
+die schlikkerfrauen,2014.0,90.0,,4.1,29.0,14.5,14.5,14.5,24.5,24.5,4.5,4.5,0.0,4.5,0.0,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,rock your baby,george mccrae,877047.0,414390.0
+shooting fish,1997.0,99.0,3000000.0,6.6,6727.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,4.5,pg,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,do you know the way to san jose?,dionne warwick / celia cruz,553599.0,613194.0
+the lost moment,1947.0,89.0,,7.1,581.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,14.5,4.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,fenesta che lucive,william cottrau+enrico caruso,259341.0,671610.0
+rainbow,2000.0,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,spiritual love,urban species+p. akinrinlola,612379.0,588669.0
+diciotto anni dopo,2010.0,100.0,,6.7,238.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,lontano dagli occhi  lontano dal cuore,sergio bardotti+sergio endrigo+luis bacalov,333178.0,413691.0
+jimi plays berkeley,1971.0,48.0,,7.8,182.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,hear my train a comin',jimi hendrix,386029.0,492118.0
+jimi plays berkeley,1971.0,48.0,,7.8,182.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,24.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,hear my train a comin',jimi hendrix,200798.0,492118.0
+little deaths,2015.0,9.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,trust no one,justin greaves+crippled black phoenix,885124.0,520010.0
+the sweet lady with the nasty voice,2008.0,70.0,,7.9,17.0,4.5,0.0,0.0,4.5,0.0,4.5,24.5,4.5,14.5,44.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,good rockin tonight,roy brown+wanda jackson,562657.0,686773.0
+the sweet lady with the nasty voice,2008.0,70.0,,7.9,17.0,4.5,0.0,0.0,4.5,0.0,4.5,24.5,4.5,14.5,44.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,i've got a humpty dumpty heart,hank thompson,625432.0,686767.0
+the sweet lady with the nasty voice,2008.0,70.0,,7.9,17.0,4.5,0.0,0.0,4.5,0.0,4.5,24.5,4.5,14.5,44.5,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,rock your baby,wanda jackson,485256.0,686765.0
+strange planet,1999.0,96.0,,5.8,731.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,4.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,i feel love,donna summer+giorgio moroder+pete bellotte,155388.0,631919.0
+northern soul,2014.0,102.0,,6.4,2606.0,4.5,4.5,4.5,4.5,4.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,back street,bill sharpley+charles hatcher+edwin starr,180613.0,559516.0
+night of the creeps,1986.0,85.0,5000000.0,6.8,14699.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,drive_ she said (live),stan ridgway,715908.0,556628.0
+night of the creeps,1986.0,85.0,5000000.0,6.8,14699.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,bongo rock (digitally remastered),preston epps,316929.0,556622.0
+zombified 3d,2016.0,63.0,4000.0,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,space oddity (2009 digital remaster),david bowie,695318.0,732613.0
+my father the hero,1994.0,90.0,,5.4,8762.0,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,4.5,pg,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,land of the sea and sun,irving burgie+the baha men+arrangement with warner special products,859413.0,549743.0
+dance with me,2003.0,15.0,50000.0,6.2,16.0,34.5,0.0,0.0,0.0,4.5,0.0,4.5,14.5,24.5,14.5,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,,esa triste guitarra,manuel alejandro+ana magdalena+emmanuel,514885.0,404472.0
+slipp jimmy fri,2006.0,86.0,,6.1,5985.0,4.5,4.5,4.5,4.5,14.5,14.5,14.5,14.5,4.5,14.5,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,,nellie the elephant,butler+hart+toy dolls,134108.0,619005.0
+the girl next door,2003.0,21.0,3500.0,6.1,15.0,24.5,0.0,0.0,4.5,0.0,14.5,24.5,0.0,0.0,34.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,turn of the century,pete yorn+arrangement with sony music licensing,178470.0,661831.0
+true love and chaos,1997.0,97.0,,5.9,215.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,one of us cannot be wrong,leonard cohen+hugo weaving,428664.0,703752.0
+wanted: dead or alive,1984.0,,,6.5,17.0,14.5,4.5,0.0,4.5,14.5,0.0,0.0,4.5,4.5,44.5,,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,you are my sunshine,jimmie davis+charles mitchell,446951.0,717358.0
+insomnia,2006.0,13.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,one more last kiss,adam schlesinger+dominique durand+andy chase+ivy,136974.0,485554.0
+harry brown,2009.0,97.0,7300000.0,7.2,74836.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,i love london (delta heavy remix),crystal fighters+gilbert vierich+sebastian pringle+graham dickson,58949.0,464793.0
+the money shot,2009.0,5.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,back in the game,dj mo shtyles,802998.0,674131.0
+love & other drugs,2010.0,112.0,30000000.0,6.7,144775.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,supernova (live),liz phair,754979.0,524566.0
+love & other drugs,2010.0,112.0,30000000.0,6.7,144775.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,rude boys outta jail,neville staple+horace panter+lynval golding+the specials,346674.0,524565.0
+once upon a time in the midlands,2002.0,104.0,,6.1,3595.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,shoot the moon,jesse harris+norah jones,951049.0,565249.0
+whole new thing,2005.0,92.0,,6.8,1173.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,i believe in the good of life,the hidden cameras,900047.0,723721.0
+the school of rock,2003.0,108.0,35000000.0,7.1,212851.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,ride into the sun,john cale+sterling morrison+lou reed+maureen tucker+the velvet underground,686117.0,683134.0
+the school of rock,2003.0,108.0,35000000.0,7.1,212851.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,black shuck,justin hawkins+dan hawkins+frank poullain+ed graham+the darkness+arrangement with warner strategic marketing,890761.0,683124.0
+the school of rock,2003.0,108.0,35000000.0,7.1,212851.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,mouthful of love,steven hall+chris hodge+young heart attack,721028.0,683123.0
+winter meeting,1948.0,104.0,1927000.0,7.1,685.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,14.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,if i could be with you,james p. johnson,178614.0,725496.0
+down to earth,2002.0,50.0,450270.0,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,thug music play on,bone+jimmy jam+terry lewis+lionel richie+bone thugs-n-harmony,675836.0,420639.0
+saving grace,2010.0,85.0,,5.5,32.0,4.5,4.5,4.5,4.5,24.5,14.5,24.5,4.5,4.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,pilot (#1.1),saving grace (album version),tom petty,759685.0,203699.0
+dark horse,2015.0,85.0,,7.3,489.0,4.5,4.5,4.5,4.5,4.5,4.5,34.5,24.5,14.5,14.5,pg,0.0,0.0,0.0,1.0,1.0,0.0,0.0,,right hand hi [sonic c remix],kid sister+melisa young+steve angello+sebastian ingrosso+david macklovitch,251221.0,405401.0
+trick or treat,2007.0,5.0,3000.0,7.4,22.0,0.0,14.5,4.5,0.0,14.5,4.5,4.5,4.5,0.0,45.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,let him try,michael reetz+don reetz+tim absalonson+james crook+april march+the makers,573484.0,702800.0
+hard to hold,1984.0,93.0,,4.8,480.0,4.5,4.5,14.5,14.5,14.5,14.5,4.5,4.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,bop 'til you drop,rick springfield,163770.0,464317.0
+wanderlust,2011.0,21.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,the new timer,bruce springsteen,536853.0,717249.0
+wanderlust,2011.0,21.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,save the land (24-bit digitally remastered 02),mark farner+grand funk railroad,537995.0,717273.0
+cama de gato,2012.0,57.0,,6.1,21.0,4.5,0.0,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,(#1.1),eu nï¿½o sou santo,bezerra da silva+exaltasamba,13735.0,40927.0
+shrek 2,2004.0,93.0,150000000.0,7.0,147.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,24.5,pg,0.0,1.0,1.0,0.0,0.0,1.0,0.0,,as lovers go,christopher carrabba+dashboard confessional,143872.0,613964.0
+shrek 2,2004.0,93.0,150000000.0,7.0,147.0,4.5,4.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,24.5,pg,0.0,1.0,1.0,0.0,0.0,1.0,0.0,,you're so true,joseph arthur,568572.0,613963.0
+the wedding singer,1998.0,95.0,18000000.0,6.8,110603.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,hold me now,tom bailey+joe leeway+alannah currie+the thompson twins,716886.0,690748.0
+the wedding singer,1998.0,95.0,18000000.0,6.8,110603.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,jam on it,m.b. cenac+newcleus+arrangement with warner special products,492238.0,690760.0
+valley girl,1983.0,99.0,350000.0,6.3,10180.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,,i melt with you,modern english,869285.0,711326.0
+entrapment,2005.0,22.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,shrine of srinigar,mudd/gita/dubulah/trapp+loop guru,557718.0,431329.0
+knockout,2007.0,9.0,,8.0,16.0,14.5,4.5,0.0,0.0,0.0,0.0,0.0,14.5,0.0,64.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,dance with me,sanford green,48544.0,503229.0
+thelma & louise,1991.0,130.0,16500000.0,7.4,102283.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,wild night,van morrison+martha reeves,930918.0,693075.0
+the singing detective,2003.0,109.0,8000000.0,5.6,7152.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,flip_ flop and fly,charles f. calhoun+lou willie turner+big joe turner+arrangement with warner special products,625373.0,684266.0
+the singing detective,2003.0,109.0,8000000.0,5.6,7152.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,poison ivy,jerry leiber+mike stoller+the coasters+arrangement with warner special products,716006.0,684276.0
+the singing detective,2003.0,109.0,8000000.0,5.6,7152.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,it's only make believe,conway twitty+jack nance,10042.0,684272.0
+the singing detective,2003.0,109.0,8000000.0,5.6,7152.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,flip_ flop and fly,charles f. calhoun+lou willie turner+big joe turner+arrangement with warner special products,722727.0,684266.0
+the singing detective,2003.0,109.0,8000000.0,5.6,7152.0,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,its only make believe,conway twitty+jack nance,677980.0,684272.0
+the stepfather,2009.0,101.0,,5.6,23599.0,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,4.5,pg-13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,say the same,douglas robb+daniel estrin+chris hesse+hoobastank,696541.0,685851.0
+white men can't jump,1992.0,118.0,,6.7,59104.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,mood indigo,duke ellington+barney bigard+irving mills,355325.0,723102.0
+white men can't jump,1992.0,118.0,,6.7,59104.0,4.5,4.5,4.5,4.5,4.5,24.5,34.5,14.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,never let them see you sweat,phillip laney stewart+tony haynes+kuk harrell  (as thaddis harrell+go west,647741.0,723125.0
+pale blood,1990.0,93.0,,4.9,229.0,4.5,4.5,14.5,14.5,14.5,14.5,14.5,4.5,4.5,14.5,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,bite the hand that feeds  pt. 1 [live] (album version),michael palm+agent orange,293610.0,570174.0
+the living end,1992.0,81.0,22769.0,6.5,2027.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,i.c. water - live,psychic tv,396892.0,670893.0
+morning light,2010.0,14.0,,,,,,,,,,,,,,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,in the waiting line (sessions@aol),sophie alexandra+jessica barker+henry binns+sam hardaker+zero 7,865501.0,545314.0
+punk's dead: slc punk 2,2016.0,75.0,,5.3,456.0,14.5,4.5,4.5,4.5,14.5,14.5,14.5,4.5,4.5,14.5,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,i will deny,the dwarves,903539.0,585077.0
+demonlover,2002.0,115.0,,5.8,3810.0,4.5,4.5,4.5,14.5,14.5,14.5,14.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,could've moved mountains...,thee silver mt. zion memorial orchestra & tra-la-la band,337020.0,410535.0
+keeping the faith,2000.0,128.0,29000000.0,6.4,44993.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,pitseleh,elliott smith,374939.0,499003.0
+his eye is on the sparrow,2006.0,5.0,,5.2,6.0,0.0,0.0,0.0,34.5,34.5,14.5,14.5,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,his eye is on the sparrow,the soul stirrers,255585.0,470767.0
+the fast and the furious,2001.0,106.0,38000000.0,6.7,274643.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,pg-13,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,polkas palabras,juan francisco ayala+molotov,621411.0,659271.0
+the fast and the furious,2001.0,106.0,38000000.0,6.7,274643.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,14.5,pg-13,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,pov city anthem,irv gotti+caddillac tah+takwon green,648095.0,659263.0
+suicide kings,1997.0,106.0,5000000.0,7.0,22707.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,cut the cake ,roger ball+alan gorrie+malcolm duncan+average white band,599116.0,633801.0
+woman in a dressing gown,1957.0,93.0,,7.2,216.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,24.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,hungarian dance no.3,johannes brahms / gerhard kanzian / ed lewis,547355.0,726442.0
+now is good,2012.0,103.0,,7.2,27147.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,i dream of crystal (solo (uk) remix),chapman+arel+dutour+maps+arrangement with bank robber music,119276.0,560638.0
+now is good,2012.0,103.0,,7.2,27147.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,14.5,pg-13,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,no surprise,james yuill   ï¿½ 2007+james yuill,929884.0,560641.0
+the comedian,2017.0,,15000000.0,,,,,,,,,,,,,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,witness (1 hope),roots manuva,27144.0,653661.0
+out of nowhere,2009.0,16.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,music man,kevin cronin+reo speedwagon,245291.0,568716.0
+made to order,1979.0,57.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,help me make it through the night,kris kristofferson,461742.0,529260.0
+wall street,1987.0,126.0,15000000.0,7.4,120023.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,34.5,14.5,4.5,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,this must be the place (naive melody) (2005 remastered lp version ),david byrne+jerry harrison+tina weymouth+chris frantz+the talking heads+arrangement with warner special products,951259.0,717018.0
+the life and times of hank greenberg,1998.0,90.0,,7.6,707.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,pg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,boogie woogie bugle boys,don raye+hughie prince+the andrews sisters,27779.0,670287.0
+valentines day,2007.0,7.0,,8.0,5.0,0.0,0.0,24.5,0.0,0.0,0.0,24.5,0.0,0.0,64.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,when a man loves a woman,calvin lewis+andrew wright+percy sledge+arrangement with fine gold music,573369.0,711218.0
+valentines day,2007.0,7.0,,8.0,5.0,0.0,0.0,24.5,0.0,0.0,0.0,24.5,0.0,0.0,64.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,heartbreaker,will.i.am / cheryl cole,431761.0,711220.0
+valentines day,2007.0,7.0,,8.0,5.0,0.0,0.0,24.5,0.0,0.0,0.0,24.5,0.0,0.0,64.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,when a man loves a woman,calvin lewis+andrew wright+percy sledge+arrangement with fine gold music,819048.0,711218.0
+valentines day,2007.0,7.0,,8.0,5.0,0.0,0.0,24.5,0.0,0.0,0.0,24.5,0.0,0.0,64.5,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,when a man loves a woman,calvin lewis+andrew wright+percy sledge+arrangement with fine gold music,852687.0,711218.0
+yves saint laurent,2014.0,106.0,,6.2,8216.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,looking for love,chromatics+john padgett,502234.0,731294.0
+yves saint laurent,2014.0,106.0,,6.2,8216.0,4.5,4.5,4.5,4.5,14.5,24.5,24.5,14.5,4.5,4.5,r,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,time has come today,joseph chambers+willie chambers+the chambers brothers,691436.0,731291.0
+chun gwong cha sit,1997.0,96.0,,7.7,15140.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,14.5,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,milonga for three,astor piazzolla,957720.0,391962.0
+kingpin,1996.0,117.0,27000000.0,6.9,63951.0,4.5,4.5,4.5,4.5,4.5,14.5,34.5,24.5,4.5,4.5,r,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,she came on (lp version),super deluxe+braden blake+arrangement with warner special products,724567.0,501923.0
+yoga hosers,2016.0,88.0,5000000.0,4.8,1484.0,24.5,4.5,4.5,4.5,4.5,4.5,14.5,4.5,4.5,24.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,wishing well,terence trent darby+sean oliver,527788.0,729536.0
+three kings,2010.0,65.0,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,god bless the u.s.a.,kristy lee cook,608121.0,695819.0
+gentlemen broncos,2009.0,89.0,,6.1,9090.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,14.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,celestial soda pop,ray lynch,636291.0,450121.0
+gentlemen broncos,2009.0,89.0,,6.1,9090.0,4.5,4.5,4.5,4.5,14.5,14.5,24.5,14.5,4.5,14.5,pg-13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,tiny geometries,ray lynch,333120.0,450122.0
+st. louis blues,1929.0,16.0,,6.6,199.0,4.5,0.0,4.5,4.5,14.5,24.5,24.5,14.5,4.5,14.5,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,,st. louis blues,w.c. handy+bessie smith,32398.0,627479.0
+up in the air,2014.0,5.0,0.0,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,goin' home,dan auerbach+arrangement with warner music film+tv licensing,177236.0,710040.0
+patch adams,1998.0,115.0,50000000.0,6.7,81435.0,4.5,4.5,4.5,4.5,4.5,14.5,24.5,14.5,4.5,4.5,pg-13,0.0,0.0,1.0,1.0,0.0,1.0,0.0,,let it rain,eric clapton+bonnie bramlett+arrangement with polygram film+tv music,212875.0,572738.0
+the cove,2009.0,92.0,,8.5,40783.0,4.5,4.5,4.5,4.5,4.5,4.5,14.5,24.5,24.5,24.5,pg-13,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,the brazilian hipster,steven albert+sid barcelona+jon horvath+robert myers+stephen raskin+the fort knox five,120762.0,654330.0
